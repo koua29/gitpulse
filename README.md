@@ -117,6 +117,16 @@ GitPulse collects **public repos only** (`visibility=public`, plus a defensive f
   python collect.py
   ```
 
+## 📚 Recommended reading / À lire
+
+Des livres sur le *vibe coding*, Git & GitHub — liens affiliés Amazon :
+
+| [<img src="docs/img/book-git-github.jpg" height="210" alt="Git & GitHub Sans Panique">](https://link.amazon/B0cC1eCIM) | [<img src="docs/img/book-vibe-agents.jpg" height="210" alt="Vibe Coding avec Agents IA">](https://link.amazon/B073oCAtj) | [<img src="docs/img/book-vibe-playbook.jpg" height="210" alt="Vibe Coding Playbook">](https://link.amazon/B07Ovlcx0) |
+|:---:|:---:|:---:|
+| 🐙 **[Git & GitHub Sans Panique](https://link.amazon/B0cC1eCIM)**<br><sub>J.P. Deffo Fotso</sub> | 🤖 **[Vibe Coding avec Agents IA](https://link.amazon/B073oCAtj)**<br><sub>Manuel Mayer · Cursor, Copilot & Lovable</sub> | ⚡ **[Vibe Coding Playbook](https://link.amazon/B07Ovlcx0)**<br><sub>Tung Knowya</sub> |
+
+<sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
+
 ## ☕ Support / Buy me a coffee
 
 If GitPulse is useful to you, a coffee is always appreciated 🙏

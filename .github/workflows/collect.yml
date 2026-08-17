@@ -22,22 +22,26 @@ jobs:
         with:
           python-version: '3.12'
 
+      # GH_USER is derived from whoever owns this repo, so a fork needs
+      # zero code edits — just add the GITPULSE_TOKEN secret.
       - name: Collect stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITPULSE_TOKEN }}
-          GH_USER: koua29
+          GH_USER: ${{ github.repository_owner }}
         run: python collect.py
 
+      # Optional: refresh the badge in the {owner}/{owner} profile README.
+      # Silently skips if that repo has no README.
       - name: Refresh profile README badge
         env:
           GITHUB_TOKEN: ${{ secrets.GITPULSE_TOKEN }}
-          GH_USER: koua29
+          GH_USER: ${{ github.repository_owner }}
         run: python update_profile.py
 
       - name: Commit snapshot
         run: |
-          git config user.name  "koua29"
-          git config user.email "24193002+koua29@users.noreply.github.com"
+          git config user.name  "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
           git add data docs/dashboard.json
           if git diff --cached --quiet; then
             echo "No changes."

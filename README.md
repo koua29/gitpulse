@@ -117,6 +117,12 @@ GitPulse collects **public repos only** (`visibility=public`, plus a defensive f
   python collect.py
   ```
 
+## ☕ Support / Buy me a coffee
+
+If GitPulse is useful to you, a coffee is always appreciated 🙏
+
+<img src="docs/img/paypal-qr.png" width="170" alt="PayPal — buy me a coffee" />
+
 ## 📝 License
 
 MIT — see [LICENSE](LICENSE). Made to be forked.

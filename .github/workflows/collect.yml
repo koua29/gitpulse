@@ -28,6 +28,12 @@ jobs:
           GH_USER: koua29
         run: python collect.py
 
+      - name: Refresh profile README badge
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITPULSE_TOKEN }}
+          GH_USER: koua29
+        run: python update_profile.py
+
       - name: Commit snapshot
         run: |
           git config user.name  "koua29"

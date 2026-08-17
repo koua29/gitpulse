@@ -1,0 +1,126 @@
+{
+ "name": "bruce-hacker-theme",
+ "paths": [
+  {
+   "count": 11,
+   "path": "/koua29/bruce-hacker-theme",
+   "title": "Overview",
+   "uniques": 9
+  },
+  {
+   "count": 3,
+   "path": "/koua29/bruce-hacker-theme/tree/main/Hacker v3",
+   "title": "/tree/main/Hacker v3",
+   "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hacker-theme/commit/0ae17aeac75410d444a673ef41744c64338de400",
+   "title": "/commit/0ae17aeac75410d444a673ef41744c64338de400",
+   "uniques": 1
+  }
+ ],
+ "private": false,
+ "referrers": [
+  {
+   "count": 15,
+   "referrer": "github.com",
+   "uniques": 9
+  }
+ ],
+ "snapshots": {
+  "2026-08-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  }
+ },
+ "traffic": {
+  "2026-08-02": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-03": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-04": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-05": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-06": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 5
+  },
+  "2026-08-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 2
+  },
+  "2026-08-08": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 1,
+   "views": 2
+  },
+  "2026-08-09": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-08-10": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 2
+  },
+  "2026-08-11": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-12": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 2
+  },
+  "2026-08-13": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-08-14": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-15": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  }
+ },
+ "url": "https://github.com/koua29/bruce-hacker-theme"
+}

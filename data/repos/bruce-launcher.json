@@ -8,10 +8,10 @@
    "uniques": 8
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-launcher/blob/main/Launcher.js",
    "title": "/blob/main/Launcher.js",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 1,
@@ -23,13 +23,19 @@
  "private": false,
  "referrers": [
   {
-   "count": 15,
+   "count": 14,
    "referrer": "github.com",
    "uniques": 8
   }
  ],
  "snapshots": {
   "2026-08-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -120,6 +126,18 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-08-17": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-launcher"

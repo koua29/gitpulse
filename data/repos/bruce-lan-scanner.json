@@ -8,22 +8,58 @@
    "uniques": 10
   },
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-lan-scanner/blob/main/Lan Scanner.js",
    "title": "/blob/main/Lan Scanner.js",
-   "uniques": 3
+   "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-lan-scanner/blob/main/docs/discovery.jpg",
+   "title": "/blob/main/docs/discovery.jpg",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-lan-scanner/blob/main/docs/paypal-qr.png",
+   "title": "/blob/main/docs/paypal-qr.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-lan-scanner/blob/main/docs/port-result.jpg",
+   "title": "/blob/main/docs/port-result.jpg",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-lan-scanner/blob/main/docs/scanning.jpg",
+   "title": "/blob/main/docs/scanning.jpg",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-lan-scanner/tree/main/docs",
+   "title": "/tree/main/docs",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 16,
+   "count": 20,
    "referrer": "github.com",
    "uniques": 10
   }
  ],
  "snapshots": {
   "2026-08-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -114,6 +150,18 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-17": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/bruce-lan-scanner"

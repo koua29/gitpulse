@@ -2,16 +2,22 @@
  "name": "bruce-flock-detector",
  "paths": [
   {
-   "count": 27,
+   "count": 25,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 16
+   "uniques": 14
   },
   {
    "count": 4,
    "path": "/koua29/bruce-flock-detector/blob/main/Flock Detector.js",
    "title": "/blob/main/Flock Detector.js",
    "uniques": 4
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-flock-detector/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 2
   },
   {
    "count": 2,
@@ -29,12 +35,6 @@
    "count": 1,
    "path": "/koua29/bruce-flock-detector/blob/363c0c07cfadf1469db8011d900939fd94ffcc73/Flock Detector.js",
    "title": "/blob/363c0c07cfadf1469db8011d900939fd94ffcc73/Flock Detector.js",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flock-detector/blob/main/README.md",
-   "title": "/blob/main/README.md",
    "uniques": 1
   },
   {
@@ -59,9 +59,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 26,
+   "count": 24,
    "referrer": "github.com",
-   "uniques": 14
+   "uniques": 12
+  },
+  {
+   "count": 1,
+   "referrer": "Google",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -69,6 +74,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
+   "watchers": 0
+  },
+  "2026-08-18": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
    "watchers": 0
   }
  },
@@ -156,6 +167,18 @@
    "clones": 3,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-17": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 3,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

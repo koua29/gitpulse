@@ -1,10 +1,35 @@
 {
  "name": "gitpulse",
- "paths": [],
+ "paths": [
+  {
+   "count": 6,
+   "path": "/koua29/gitpulse",
+   "title": "Overview",
+   "uniques": 4
+  },
+  {
+   "count": 1,
+   "path": "/koua29/gitpulse/blob/main/docs/img/dashboard.png",
+   "title": "/blob/main/docs/img/dashboard.png",
+   "uniques": 1
+  }
+ ],
  "private": false,
- "referrers": [],
+ "referrers": [
+  {
+   "count": 1,
+   "referrer": "github.com",
+   "uniques": 1
+  }
+ ],
  "snapshots": {
   "2026-08-18": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-19": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -12,6 +37,12 @@
   }
  },
  "traffic": {
+  "2026-08-04": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
   "2026-08-05": {
    "clone_uniques": 0,
    "clones": 0,
@@ -85,10 +116,10 @@
    "views": 0
   },
   "2026-08-17": {
-   "clone_uniques": 0,
-   "clones": 0,
-   "view_uniques": 0,
-   "views": 0
+   "clone_uniques": 11,
+   "clones": 20,
+   "view_uniques": 4,
+   "views": 10
   },
   "2026-08-18": {
    "clone_uniques": 0,

@@ -9,14 +9,14 @@
   },
   {
    "count": 2,
-   "path": "/koua29/ollama-image-studio/actions/new",
-   "title": "/actions/new",
+   "path": "/koua29/ollama-image-studio/releases/tag/v1.2.1",
+   "title": "/releases/tag/v1.2.1",
    "uniques": 1
   },
   {
-   "count": 2,
-   "path": "/koua29/ollama-image-studio/releases/tag/v1.2.1",
-   "title": "/releases/tag/v1.2.1",
+   "count": 1,
+   "path": "/koua29/ollama-image-studio/actions/new",
+   "title": "/actions/new",
    "uniques": 1
   }
  ],
@@ -28,7 +28,7 @@
    "uniques": 2
   },
   {
-   "count": 2,
+   "count": 1,
    "referrer": "Google",
    "uniques": 1
   }
@@ -41,6 +41,12 @@
    "watchers": 0
   },
   "2026-08-18": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-19": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -127,6 +133,18 @@
    "views": 0
   },
   "2026-08-15": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-17": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

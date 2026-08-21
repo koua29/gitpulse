@@ -2,16 +2,16 @@
  "name": "bruce-flock-detector",
  "paths": [
   {
-   "count": 34,
+   "count": 40,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 20
+   "uniques": 23
   },
   {
-   "count": 5,
+   "count": 6,
    "path": "/koua29/bruce-flock-detector/blob/main/Flock Detector.js",
    "title": "/blob/main/Flock Detector.js",
-   "uniques": 5
+   "uniques": 6
   },
   {
    "count": 2,
@@ -35,9 +35,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 36,
+   "count": 41,
    "referrer": "github.com",
-   "uniques": 18
+   "uniques": 20
   },
   {
    "count": 1,
@@ -70,6 +70,12 @@
    "watchers": 0
   },
   "2026-08-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-08-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -184,6 +190,12 @@
    "clones": 1,
    "view_uniques": 6,
    "views": 10
+  },
+  "2026-08-20": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 5,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

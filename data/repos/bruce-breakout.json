@@ -2,24 +2,36 @@
  "name": "bruce-breakout",
  "paths": [
   {
-   "count": 5,
+   "count": 6,
    "path": "/koua29/bruce-breakout",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 6
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-breakout/blob/main/Breakout.js",
+   "title": "/blob/main/Breakout.js",
+   "uniques": 2
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-breakout/blob/main/Breakout.js",
-   "title": "/blob/main/Breakout.js",
+   "path": "/koua29/bruce-breakout/blob/main/docs/level2.jpg",
+   "title": "/blob/main/docs/level2.jpg",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-breakout/tree/main/docs",
+   "title": "/tree/main/docs",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 5
+   "uniques": 6
   }
  ],
  "snapshots": {
@@ -42,6 +54,12 @@
    "watchers": 0
   },
   "2026-08-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -156,6 +174,12 @@
    "clones": 1,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-08-20": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-breakout"

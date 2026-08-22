@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-08-21T07:09:53Z",
+ "generated": "2026-08-22T07:01:31Z",
  "kpi": {
   "repos": 22,
-  "views14": 336,
+  "views14": 339,
   "stars": 18,
   "forks": 1,
   "followers": 4
@@ -139,8 +139,15 @@
    "date": "2026-08-20",
    "views": 26,
    "view_uniques": 13,
-   "clones": 25,
-   "clone_uniques": 19
+   "clones": 26,
+   "clone_uniques": 20
+  },
+  {
+   "date": "2026-08-21",
+   "views": 12,
+   "view_uniques": 10,
+   "clones": 21,
+   "clone_uniques": 18
   }
  ],
  "stars_series": [
@@ -176,6 +183,13 @@
    "date": "2026-08-21",
    "followers": 4,
    "public_repos": 22,
+   "total_forks": 1,
+   "total_stars": 18
+  },
+  {
+   "date": "2026-08-22",
+   "followers": 4,
+   "public_repos": 22,
    "total_stars": 18,
    "total_forks": 1
   }
@@ -186,7 +200,7 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 51,
+   "views14": 50,
    "url": "https://github.com/koua29/bruce-hud-themes"
   },
   {
@@ -194,7 +208,7 @@
    "private": false,
    "stars": 5,
    "forks": 0,
-   "views14": 45,
+   "views14": 46,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -204,6 +218,14 @@
    "forks": 0,
    "views14": 36,
    "url": "https://github.com/koua29/bruce-ble-finder"
+  },
+  {
+   "name": "gitpulse",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 24,
+   "url": "https://github.com/koua29/gitpulse"
   },
   {
    "name": "bruce-launcher",
@@ -230,19 +252,11 @@
    "url": "https://github.com/koua29/bruce-tv-b-gone"
   },
   {
-   "name": "gitpulse",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 19,
-   "url": "https://github.com/koua29/gitpulse"
-  },
-  {
    "name": "bruce-flipper-ordered",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 16,
+   "views14": 15,
    "url": "https://github.com/koua29/bruce-flipper-ordered"
   },
   {
@@ -258,16 +272,8 @@
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 13,
+   "views14": 14,
    "url": "https://github.com/koua29/bruce-ssid-safari"
-  },
-  {
-   "name": "bruce-hacker-theme",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 11,
-   "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
    "name": "bruce-snake",
@@ -282,8 +288,16 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 10,
+   "views14": 11,
    "url": "https://github.com/koua29/bruce-wifi-qr"
+  },
+  {
+   "name": "bruce-hacker-theme",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
    "name": "mt5-export-ticks",
@@ -294,20 +308,20 @@
    "url": "https://github.com/koua29/mt5-export-ticks"
   },
   {
+   "name": "ollama-image-studio",
+   "private": false,
+   "stars": 1,
+   "forks": 1,
+   "views14": 9,
+   "url": "https://github.com/koua29/ollama-image-studio"
+  },
+  {
    "name": "bruce-breakout",
    "private": false,
    "stars": 1,
    "forks": 0,
    "views14": 8,
    "url": "https://github.com/koua29/bruce-breakout"
-  },
-  {
-   "name": "ollama-image-studio",
-   "private": false,
-   "stars": 1,
-   "forks": 1,
-   "views14": 8,
-   "url": "https://github.com/koua29/ollama-image-studio"
   },
   {
    "name": "Bruce-Themes",
@@ -322,7 +336,7 @@
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 6,
+   "views14": 5,
    "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
@@ -334,20 +348,20 @@
    "url": "https://github.com/koua29/bruce-bubble-pop"
   },
   {
-   "name": "bruce-lilygo-base-ordered",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 3,
-   "url": "https://github.com/koua29/bruce-lilygo-base-ordered"
-  },
-  {
    "name": "bluetooth-radar",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 2,
    "url": "https://github.com/koua29/bluetooth-radar"
+  },
+  {
+   "name": "bruce-lilygo-base-ordered",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 2,
+   "url": "https://github.com/koua29/bruce-lilygo-base-ordered"
   },
   {
    "name": "koua29",
@@ -361,8 +375,8 @@
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 309,
-   "uniques": 146
+   "count": 289,
+   "uniques": 130
   },
   {
    "referrer": "koua29.github.io",

@@ -3,15 +3,15 @@
  "paths": [
   {
    "count": 8,
-   "path": "/koua29/bruce-hud-themes",
-   "title": "Overview",
-   "uniques": 8
-  },
-  {
-   "count": 8,
    "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
    "title": "/tree/main/Blue HUD",
    "uniques": 2
+  },
+  {
+   "count": 7,
+   "path": "/koua29/bruce-hud-themes",
+   "title": "Overview",
+   "uniques": 7
   },
   {
    "count": 4,
@@ -65,9 +65,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 45,
+   "count": 44,
    "referrer": "github.com",
-   "uniques": 6
+   "uniques": 5
   },
   {
    "count": 4,
@@ -106,6 +106,12 @@
    "watchers": 0
   },
   "2026-08-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-22": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -216,6 +222,12 @@
    "views": 1
   },
   "2026-08-19": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-20": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

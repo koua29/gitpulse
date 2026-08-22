@@ -17,9 +17,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 14,
+   "count": 13,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 8
   }
  ],
  "snapshots": {
@@ -48,6 +48,12 @@
    "watchers": 0
   },
   "2026-08-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-22": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -168,6 +174,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-21": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-ssid-safari"

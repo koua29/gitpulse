@@ -2,24 +2,18 @@
  "name": "bruce-hacker-theme",
  "paths": [
   {
-   "count": 12,
+   "count": 11,
    "path": "/koua29/bruce-hacker-theme",
    "title": "Overview",
-   "uniques": 10
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/tree/main/Hacker v3",
-   "title": "/tree/main/Hacker v3",
-   "uniques": 1
+   "uniques": 9
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 12,
+   "count": 10,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 8
   },
   {
    "count": 1,
@@ -53,6 +47,12 @@
    "watchers": 0
   },
   "2026-08-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-22": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -171,6 +171,12 @@
   "2026-08-20": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-21": {
+   "clone_uniques": 3,
+   "clones": 3,
    "view_uniques": 0,
    "views": 0
   }

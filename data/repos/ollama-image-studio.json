@@ -2,10 +2,10 @@
  "name": "ollama-image-studio",
  "paths": [
   {
-   "count": 4,
+   "count": 6,
    "path": "/koua29/ollama-image-studio",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 5
   },
   {
    "count": 2,
@@ -30,6 +30,12 @@
    "path": "/koua29/ollama-image-studio/pulls",
    "title": "/pulls",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/ollama-image-studio/tree/main/src",
+   "title": "/tree/main/src",
+   "uniques": 1
   }
  ],
  "private": false,
@@ -38,6 +44,11 @@
    "count": 3,
    "referrer": "github.com",
    "uniques": 2
+  },
+  {
+   "count": 2,
+   "referrer": "qwant.com",
+   "uniques": 1
   },
   {
    "count": 1,
@@ -77,6 +88,12 @@
    "watchers": 0
   },
   "2026-08-22": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-23": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -203,6 +220,12 @@
    "clones": 3,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-08-22": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/ollama-image-studio"

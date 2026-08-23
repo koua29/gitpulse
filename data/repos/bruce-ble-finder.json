@@ -2,16 +2,16 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 25,
+   "count": 30,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 18
+   "uniques": 21
   },
   {
-   "count": 7,
+   "count": 8,
    "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
    "title": "/blob/main/BLE Finder.js",
-   "uniques": 6
+   "uniques": 7
   },
   {
    "count": 2,
@@ -47,13 +47,18 @@
  "private": false,
  "referrers": [
   {
-   "count": 34,
+   "count": 37,
    "referrer": "github.com",
-   "uniques": 15
+   "uniques": 16
   },
   {
    "count": 2,
    "referrer": "Google",
+   "uniques": 1
+  },
+  {
+   "count": 2,
+   "referrer": "chatgpt.com",
    "uniques": 1
   },
   {
@@ -94,6 +99,12 @@
    "watchers": 0
   },
   "2026-08-22": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-08-23": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -220,6 +231,12 @@
    "clones": 0,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-08-22": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 4,
+   "views": 8
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

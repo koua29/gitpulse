@@ -2,16 +2,16 @@
  "name": "bruce-snake",
  "paths": [
   {
-   "count": 8,
+   "count": 5,
    "path": "/koua29/bruce-snake",
    "title": "Overview",
-   "uniques": 7
+   "uniques": 5
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/bruce-snake/blob/main/Snake.js",
    "title": "/blob/main/Snake.js",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 1,
@@ -23,9 +23,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 4,
    "referrer": "github.com",
-   "uniques": 6
+   "uniques": 4
   },
   {
    "count": 1,
@@ -71,6 +71,12 @@
    "watchers": 0
   },
   "2026-08-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -199,6 +205,12 @@
    "views": 0
   },
   "2026-08-22": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-23": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

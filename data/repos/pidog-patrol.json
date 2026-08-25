@@ -1,10 +1,29 @@
 {
  "name": "pidog-patrol",
- "paths": [],
+ "paths": [
+  {
+   "count": 1,
+   "path": "/koua29/pidog-patrol",
+   "title": "Overview",
+   "uniques": 1
+  }
+ ],
  "private": false,
- "referrers": [],
+ "referrers": [
+  {
+   "count": 1,
+   "referrer": "koua29.github.io",
+   "uniques": 1
+  }
+ ],
  "snapshots": {
   "2026-08-24": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-25": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -95,6 +114,12 @@
    "clones": 48,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-24": {
+   "clone_uniques": 4,
+   "clones": 5,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/pidog-patrol"

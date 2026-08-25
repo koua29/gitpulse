@@ -1,28 +1,28 @@
 {
- "name": "pidog-voice",
+ "name": "bruce-fallout-theme",
  "paths": [
   {
-   "count": 3,
-   "path": "/koua29/pidog-voice",
+   "count": 7,
+   "path": "/koua29/bruce-fallout-theme",
    "title": "Overview",
-   "uniques": 1
+   "uniques": 2
   },
   {
    "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/assets/architecture.svg",
-   "title": "/blob/main/assets/architecture.svg",
+   "path": "/koua29/bruce-fallout-theme/blob/main/docs/hero.png",
+   "title": "/blob/main/docs/hero.png",
    "uniques": 1
   }
  ],
  "private": false,
- "referrers": [],
+ "referrers": [
+  {
+   "count": 1,
+   "referrer": "github.com",
+   "uniques": 1
+  }
+ ],
  "snapshots": {
-  "2026-08-24": {
-   "forks": 0,
-   "open_issues": 0,
-   "stars": 0,
-   "watchers": 0
-  },
   "2026-08-25": {
    "forks": 0,
    "open_issues": 0,
@@ -31,12 +31,6 @@
   }
  },
  "traffic": {
-  "2026-08-10": {
-   "clone_uniques": 0,
-   "clones": 0,
-   "view_uniques": 0,
-   "views": 0
-  },
   "2026-08-11": {
    "clone_uniques": 0,
    "clones": 0,
@@ -110,11 +104,17 @@
    "views": 0
   },
   "2026-08-23": {
-   "clone_uniques": 36,
-   "clones": 59,
-   "view_uniques": 1,
-   "views": 4
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-24": {
+   "clone_uniques": 5,
+   "clones": 5,
+   "view_uniques": 2,
+   "views": 8
   }
  },
- "url": "https://github.com/koua29/pidog-voice"
+ "url": "https://github.com/koua29/bruce-fallout-theme"
 }

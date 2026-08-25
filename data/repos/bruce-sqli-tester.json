@@ -8,10 +8,22 @@
    "uniques": 5
   },
   {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/SQL Injection.js",
-   "title": "/blob/main/SQL Injection.js",
-   "uniques": 1
+   "count": 2,
+   "path": "/koua29/bruce-sqli-tester/blob/main/docs/menu.jpg",
+   "title": "/blob/main/docs/menu.jpg",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-sqli-tester/blob/main/docs/scanning.jpg",
+   "title": "/blob/main/docs/scanning.jpg",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-sqli-tester/blob/main/docs/targets.jpg",
+   "title": "/blob/main/docs/targets.jpg",
+   "uniques": 2
   },
   {
    "count": 1,
@@ -39,33 +51,21 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/menu.jpg",
-   "title": "/blob/main/docs/menu.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/bruce-sqli-tester/blob/main/docs/paypal-qr.png",
    "title": "/blob/main/docs/paypal-qr.png",
    "uniques": 1
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/scanning.jpg",
-   "title": "/blob/main/docs/scanning.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/targets.jpg",
-   "title": "/blob/main/docs/targets.jpg",
+   "path": "/koua29/bruce-sqli-tester/blob/main/docs/vulnerable.jpg",
+   "title": "/blob/main/docs/vulnerable.jpg",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 15,
+   "count": 17,
    "referrer": "github.com",
    "uniques": 5
   }
@@ -114,6 +114,12 @@
    "watchers": 0
   },
   "2026-08-24": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-25": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -252,6 +258,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-24": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-sqli-tester"

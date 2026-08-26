@@ -1,9 +1,9 @@
 {
- "name": "pidog-groove",
+ "name": "bruce-spiderman-theme",
  "paths": [
   {
-   "count": 2,
-   "path": "/koua29/pidog-groove",
+   "count": 3,
+   "path": "/koua29/bruce-spiderman-theme",
    "title": "Overview",
    "uniques": 2
   }
@@ -11,12 +11,6 @@
  "private": false,
  "referrers": [],
  "snapshots": {
-  "2026-08-25": {
-   "forks": 0,
-   "open_issues": 0,
-   "stars": 0,
-   "watchers": 0
-  },
   "2026-08-26": {
    "forks": 0,
    "open_issues": 0,
@@ -25,12 +19,6 @@
   }
  },
  "traffic": {
-  "2026-08-11": {
-   "clone_uniques": 0,
-   "clones": 0,
-   "view_uniques": 0,
-   "views": 0
-  },
   "2026-08-12": {
    "clone_uniques": 0,
    "clones": 0,
@@ -104,17 +92,17 @@
    "views": 0
   },
   "2026-08-24": {
-   "clone_uniques": 9,
-   "clones": 10,
-   "view_uniques": 2,
-   "views": 2
-  },
-  "2026-08-25": {
-   "clone_uniques": 4,
-   "clones": 4,
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-25": {
+   "clone_uniques": 5,
+   "clones": 7,
+   "view_uniques": 2,
+   "views": 3
   }
  },
- "url": "https://github.com/koua29/pidog-groove"
+ "url": "https://github.com/koua29/bruce-spiderman-theme"
 }

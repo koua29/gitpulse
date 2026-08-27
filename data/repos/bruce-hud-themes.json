@@ -2,46 +2,10 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 12,
+   "count": 11,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 10
-  },
-  {
-   "count": 8,
-   "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
-   "title": "/tree/main/Blue HUD",
-   "uniques": 2
-  },
-  {
-   "count": 4,
-   "path": "/koua29/bruce-hud-themes/tree/main",
-   "title": "/tree/main",
-   "uniques": 2
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-hud-themes/commit/d65473e1db17cb72af9bd9d057853144d72d1dfb",
-   "title": "/commit/d65473e1db17cb72af9bd9d057853144d72d1dfb",
-   "uniques": 2
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Blue HUD.json",
-   "title": "/blob/main/Blue HUD/Blue HUD.json",
-   "uniques": 1
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/WiFi.gif",
-   "title": "/blob/main/Blue HUD/WiFi.gif",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/blob/main/docs/blue.png",
-   "title": "/blob/main/docs/blue.png",
-   "uniques": 2
+   "uniques": 9
   },
   {
    "count": 2,
@@ -51,21 +15,39 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/BLE.gif",
-   "title": "/blob/main/Blue HUD/BLE.gif",
+   "path": "/koua29/bruce-hud-themes/blob/main/docs/amber.png",
+   "title": "/blob/main/docs/amber.png",
    "uniques": 1
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Clock.gif",
-   "title": "/blob/main/Blue HUD/Clock.gif",
+   "path": "/koua29/bruce-hud-themes/blob/main/docs/blue.png",
+   "title": "/blob/main/docs/blue.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/docs/white.png",
+   "title": "/blob/main/docs/white.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/tree/main",
+   "title": "/tree/main",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/tree/main/Amber HUD",
+   "title": "/tree/main/Amber HUD",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 44,
+   "count": 6,
    "referrer": "github.com",
    "uniques": 5
   },
@@ -136,6 +118,12 @@
    "watchers": 0
   },
   "2026-08-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -286,6 +274,12 @@
    "clones": 2,
    "view_uniques": 2,
    "views": 3
+  },
+  "2026-08-26": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

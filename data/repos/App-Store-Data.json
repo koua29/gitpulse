@@ -1,34 +1,9 @@
 {
- "name": "bruce-spiderman-theme",
- "paths": [
-  {
-   "count": 6,
-   "path": "/koua29/bruce-spiderman-theme",
-   "title": "Overview",
-   "uniques": 4
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/grid.png",
-   "title": "/blob/main/docs/grid.png",
-   "uniques": 1
-  }
- ],
+ "name": "App-Store-Data",
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
-  "2026-08-26": {
-   "forks": 0,
-   "open_issues": 0,
-   "stars": 0,
-   "watchers": 0
-  },
   "2026-08-27": {
    "forks": 0,
    "open_issues": 0,
@@ -37,12 +12,6 @@
   }
  },
  "traffic": {
-  "2026-08-12": {
-   "clone_uniques": 0,
-   "clones": 0,
-   "view_uniques": 0,
-   "views": 0
-  },
   "2026-08-13": {
    "clone_uniques": 0,
    "clones": 0,
@@ -116,17 +85,17 @@
    "views": 0
   },
   "2026-08-25": {
-   "clone_uniques": 5,
-   "clones": 7,
-   "view_uniques": 2,
-   "views": 3
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   },
   "2026-08-26": {
-   "clone_uniques": 1,
-   "clones": 1,
-   "view_uniques": 3,
-   "views": 4
+   "clone_uniques": 5,
+   "clones": 5,
+   "view_uniques": 0,
+   "views": 0
   }
  },
- "url": "https://github.com/koua29/bruce-spiderman-theme"
+ "url": "https://github.com/koua29/App-Store-Data"
 }

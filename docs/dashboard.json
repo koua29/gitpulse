@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-08-26T07:11:02Z",
+ "generated": "2026-08-27T17:40:08Z",
  "kpi": {
-  "repos": 30,
-  "views14": 361,
+  "repos": 32,
+  "views14": 384,
   "stars": 18,
   "forks": 1,
   "followers": 4
@@ -172,17 +172,17 @@
   },
   {
    "date": "2026-08-25",
-   "views": 30,
-   "view_uniques": 21,
-   "clones": 65,
-   "clone_uniques": 57
+   "views": 35,
+   "view_uniques": 24,
+   "clones": 82,
+   "clone_uniques": 73
   },
   {
    "date": "2026-08-26",
-   "views": 0,
-   "view_uniques": 0,
-   "clones": 0,
-   "clone_uniques": 0
+   "views": 64,
+   "view_uniques": 35,
+   "clones": 45,
+   "clone_uniques": 40
   }
  ],
  "stars_series": [
@@ -253,6 +253,13 @@
    "date": "2026-08-26",
    "followers": 4,
    "public_repos": 30,
+   "total_forks": 1,
+   "total_stars": 18
+  },
+  {
+   "date": "2026-08-27",
+   "followers": 4,
+   "public_repos": 32,
    "total_stars": 18,
    "total_forks": 1
   }
@@ -263,7 +270,7 @@
    "private": false,
    "stars": 5,
    "forks": 0,
-   "views14": 60,
+   "views14": 63,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -271,7 +278,7 @@
    "private": false,
    "stars": 3,
    "forks": 0,
-   "views14": 47,
+   "views14": 44,
    "url": "https://github.com/koua29/bruce-ble-finder"
   },
   {
@@ -279,48 +286,32 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 28,
+   "views14": 30,
    "url": "https://github.com/koua29/gitpulse"
-  },
-  {
-   "name": "bruce-launcher",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 20,
-   "url": "https://github.com/koua29/bruce-launcher"
-  },
-  {
-   "name": "bruce-tv-b-gone",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 19,
-   "url": "https://github.com/koua29/bruce-tv-b-gone"
-  },
-  {
-   "name": "bruce-wifi-qr",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 19,
-   "url": "https://github.com/koua29/bruce-wifi-qr"
   },
   {
    "name": "bruce-flipper-ordered",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 17,
+   "views14": 26,
    "url": "https://github.com/koua29/bruce-flipper-ordered"
   },
   {
-   "name": "bruce-hud-themes",
+   "name": "bruce-wifi-qr",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 16,
-   "url": "https://github.com/koua29/bruce-hud-themes"
+   "views14": 22,
+   "url": "https://github.com/koua29/bruce-wifi-qr"
+  },
+  {
+   "name": "bruce-launcher",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 19,
+   "url": "https://github.com/koua29/bruce-launcher"
   },
   {
    "name": "bruce-sqli-tester",
@@ -331,35 +322,59 @@
    "url": "https://github.com/koua29/bruce-sqli-tester"
   },
   {
-   "name": "bruce-lan-scanner",
-   "private": false,
-   "stars": 2,
-   "forks": 0,
-   "views14": 13,
-   "url": "https://github.com/koua29/bruce-lan-scanner"
-  },
-  {
    "name": "bruce-hacker-theme",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 12,
+   "views14": 15,
    "url": "https://github.com/koua29/bruce-hacker-theme"
+  },
+  {
+   "name": "bruce-tv-b-gone",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 15,
+   "url": "https://github.com/koua29/bruce-tv-b-gone"
   },
   {
    "name": "bruce-nuclear-theme",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 12,
+   "views14": 13,
    "url": "https://github.com/koua29/bruce-nuclear-theme"
+  },
+  {
+   "name": "bruce-lan-scanner",
+   "private": false,
+   "stars": 2,
+   "forks": 0,
+   "views14": 12,
+   "url": "https://github.com/koua29/bruce-lan-scanner"
+  },
+  {
+   "name": "bruce-fallout-theme",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 11,
+   "url": "https://github.com/koua29/bruce-fallout-theme"
+  },
+  {
+   "name": "bruce-hud-themes",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 11,
+   "url": "https://github.com/koua29/bruce-hud-themes"
   },
   {
    "name": "bruce-ssid-safari",
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 11,
+   "views14": 9,
    "url": "https://github.com/koua29/bruce-ssid-safari"
   },
   {
@@ -371,12 +386,20 @@
    "url": "https://github.com/koua29/ollama-image-studio"
   },
   {
-   "name": "bruce-fallout-theme",
+   "name": "pidog-voice",
    "private": false,
    "stars": 0,
    "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/pidog-voice"
+  },
+  {
+   "name": "bruce-wheel-theme",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
    "views14": 8,
-   "url": "https://github.com/koua29/bruce-fallout-theme"
+   "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
    "name": "mt5-export-ticks",
@@ -387,20 +410,20 @@
    "url": "https://github.com/koua29/mt5-export-ticks"
   },
   {
-   "name": "Bruce-Themes",
+   "name": "bruce-spiderman-theme",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 7,
-   "url": "https://github.com/koua29/Bruce-Themes"
+   "url": "https://github.com/koua29/bruce-spiderman-theme"
   },
   {
-   "name": "pidog-voice",
+   "name": "bruce-baby-theme",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 7,
-   "url": "https://github.com/koua29/pidog-voice"
+   "views14": 6,
+   "url": "https://github.com/koua29/bruce-baby-theme"
   },
   {
    "name": "bruce-breakout",
@@ -415,48 +438,56 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 6,
+   "views14": 5,
    "url": "https://github.com/koua29/bruce-snake"
   },
   {
-   "name": "bruce-wheel-theme",
+   "name": "bruce-grille-theme",
    "private": false,
-   "stars": 1,
+   "stars": 0,
    "forks": 0,
-   "views14": 6,
-   "url": "https://github.com/koua29/bruce-wheel-theme"
+   "views14": 4,
+   "url": "https://github.com/koua29/bruce-grille-theme"
   },
   {
    "name": "bruce-lilygo-base-ordered",
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 5,
+   "views14": 4,
    "url": "https://github.com/koua29/bruce-lilygo-base-ordered"
   },
   {
-   "name": "bruce-spiderman-theme",
+   "name": "pidog-energy",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 3,
-   "url": "https://github.com/koua29/bruce-spiderman-theme"
+   "url": "https://github.com/koua29/pidog-energy"
   },
   {
    "name": "pidog-groove",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 2,
+   "views14": 3,
    "url": "https://github.com/koua29/pidog-groove"
   },
   {
-   "name": "bluetooth-radar",
+   "name": "Bruce-Themes",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 1,
-   "url": "https://github.com/koua29/bluetooth-radar"
+   "views14": 2,
+   "url": "https://github.com/koua29/Bruce-Themes"
+  },
+  {
+   "name": "koua29",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 2,
+   "url": "https://github.com/koua29/koua29"
   },
   {
    "name": "bruce-bubble-pop",
@@ -467,14 +498,6 @@
    "url": "https://github.com/koua29/bruce-bubble-pop"
   },
   {
-   "name": "pidog-energy",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 1,
-   "url": "https://github.com/koua29/pidog-energy"
-  },
-  {
    "name": "pidog-patrol",
    "private": false,
    "stars": 0,
@@ -483,37 +506,37 @@
    "url": "https://github.com/koua29/pidog-patrol"
   },
   {
-   "name": "bruce-baby-theme",
+   "name": "App-Store-Data",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 0,
-   "url": "https://github.com/koua29/bruce-baby-theme"
+   "url": "https://github.com/koua29/App-Store-Data"
   },
   {
-   "name": "koua29",
+   "name": "bluetooth-radar",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 0,
-   "url": "https://github.com/koua29/koua29"
+   "url": "https://github.com/koua29/bluetooth-radar"
   }
  ],
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 296,
-   "uniques": 115
+   "count": 285,
+   "uniques": 123
   },
   {
    "referrer": "Google",
-   "count": 15,
-   "uniques": 6
+   "count": 14,
+   "uniques": 5
   },
   {
    "referrer": "koua29.github.io",
-   "count": 10,
-   "uniques": 9
+   "count": 11,
+   "uniques": 10
   },
   {
    "referrer": "yandex.ru",
@@ -526,12 +549,17 @@
    "uniques": 1
   },
   {
+   "referrer": "DuckDuckGo",
+   "count": 2,
+   "uniques": 2
+  },
+  {
    "referrer": "qwant.com",
    "count": 2,
    "uniques": 1
   },
   {
-   "referrer": "DuckDuckGo",
+   "referrer": "forum.sunfounder.com",
    "count": 1,
    "uniques": 1
   }

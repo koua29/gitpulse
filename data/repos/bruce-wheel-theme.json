@@ -2,24 +2,36 @@
  "name": "bruce-wheel-theme",
  "paths": [
   {
-   "count": 5,
+   "count": 6,
    "path": "/koua29/bruce-wheel-theme",
    "title": "Overview",
-   "uniques": 4
+   "uniques": 5
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/clock.png",
+   "title": "/blob/main/Wheel_Dark/clock.png",
+   "uniques": 1
   },
   {
    "count": 1,
    "path": "/koua29/bruce-wheel-theme/blob/main/docs/preview-screens.png",
    "title": "/blob/main/docs/preview-screens.png",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
+   "title": "/tree/main/Wheel_Dark",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 8,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 4
   }
  ],
  "snapshots": {
@@ -78,6 +90,12 @@
    "watchers": 0
   },
   "2026-08-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -228,6 +246,12 @@
    "clones": 1,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-08-26": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-wheel-theme"

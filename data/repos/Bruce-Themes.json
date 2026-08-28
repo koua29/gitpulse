@@ -2,42 +2,18 @@
  "name": "Bruce-Themes",
  "paths": [
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/Bruce-Themes",
    "title": "Overview",
-   "uniques": 3
-  },
-  {
-   "count": 2,
-   "path": "/koua29/Bruce-Themes/tree/main/boot/T-Embed",
-   "title": "/tree/main/boot/T-Embed",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/Bruce-Themes/blob/main/boot/T-Embed/Flipper_Black.gif",
-   "title": "/blob/main/boot/T-Embed/Flipper_Black.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/Bruce-Themes/blob/main/boot/T-Embed/Shark_Eating.gif",
-   "title": "/blob/main/boot/T-Embed/Shark_Eating.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/Bruce-Themes/tree/main/boot",
-   "title": "/tree/main/boot",
-   "uniques": 1
+   "uniques": 2
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 2,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -102,6 +78,12 @@
    "watchers": 0
   },
   "2026-08-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -258,6 +240,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-08-27": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/Bruce-Themes"

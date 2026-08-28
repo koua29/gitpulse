@@ -2,10 +2,10 @@
  "name": "bruce-flipper-ordered",
  "paths": [
   {
-   "count": 12,
+   "count": 14,
    "path": "/koua29/bruce-flipper-ordered",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 10
   },
   {
    "count": 4,
@@ -21,8 +21,8 @@
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-flipper-ordered/tree/main/Flipper_Bruce_Complete_White_By_anonimoKali",
-   "title": "/tree/main/Flipper_Bruce_Complete_White_By_anonimoKali",
+   "path": "/koua29/bruce-flipper-ordered/tree/main/Flipper_Bruce_Complete_By_anonimoKali/192px",
+   "title": "/tree/main/Flipper_Bruce_Complete_By_anonimoKali/192px",
    "uniques": 2
   },
   {
@@ -65,14 +65,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 9,
-   "referrer": "github.com",
-   "uniques": 5
-  },
-  {
    "count": 8,
    "referrer": "Google",
    "uniques": 2
+  },
+  {
+   "count": 4,
+   "referrer": "github.com",
+   "uniques": 4
   }
  ],
  "snapshots": {
@@ -137,6 +137,12 @@
    "watchers": 0
   },
   "2026-08-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -293,6 +299,12 @@
    "clones": 0,
    "view_uniques": 2,
    "views": 14
+  },
+  "2026-08-27": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/bruce-flipper-ordered"

@@ -2,18 +2,18 @@
  "name": "bruce-hacker-theme",
  "paths": [
   {
-   "count": 16,
+   "count": 15,
    "path": "/koua29/bruce-hacker-theme",
    "title": "Overview",
-   "uniques": 12
+   "uniques": 11
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 7
+   "uniques": 6
   },
   {
    "count": 2,
@@ -88,6 +88,12 @@
    "watchers": 0
   },
   "2026-08-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -244,6 +250,12 @@
    "clones": 0,
    "view_uniques": 3,
    "views": 4
+  },
+  "2026-08-27": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-hacker-theme"

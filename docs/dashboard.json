@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-08-28T18:46:03Z",
+ "generated": "2026-08-29T12:43:13Z",
  "kpi": {
   "repos": 33,
-  "views14": 408,
+  "views14": 399,
   "stars": 18,
   "forks": 1,
   "followers": 4
@@ -274,6 +274,13 @@
    "date": "2026-08-28",
    "followers": 4,
    "public_repos": 33,
+   "total_forks": 1,
+   "total_stars": 18
+  },
+  {
+   "date": "2026-08-29",
+   "followers": 4,
+   "public_repos": 33,
    "total_stars": 18,
    "total_forks": 1
   }
@@ -292,7 +299,7 @@
    "private": false,
    "stars": 3,
    "forks": 0,
-   "views14": 46,
+   "views14": 45,
    "url": "https://github.com/koua29/bruce-ble-finder"
   },
   {
@@ -300,7 +307,7 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 33,
+   "views14": 32,
    "url": "https://github.com/koua29/bruce-flipper-ordered"
   },
   {
@@ -344,20 +351,20 @@
    "url": "https://github.com/koua29/bruce-hud-themes"
   },
   {
-   "name": "bruce-tv-b-gone",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 16,
-   "url": "https://github.com/koua29/bruce-tv-b-gone"
-  },
-  {
    "name": "bruce-hacker-theme",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 15,
    "url": "https://github.com/koua29/bruce-hacker-theme"
+  },
+  {
+   "name": "bruce-tv-b-gone",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 15,
+   "url": "https://github.com/koua29/bruce-tv-b-gone"
   },
   {
    "name": "bruce-nuclear-theme",
@@ -382,14 +389,6 @@
    "forks": 0,
    "views14": 12,
    "url": "https://github.com/koua29/bruce-lan-scanner"
-  },
-  {
-   "name": "bruce-ssid-safari",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 9,
-   "url": "https://github.com/koua29/bruce-ssid-safari"
   },
   {
    "name": "ollama-image-studio",
@@ -424,12 +423,12 @@
    "url": "https://github.com/koua29/bruce-spiderman-theme"
   },
   {
-   "name": "mt5-export-ticks",
+   "name": "bruce-ssid-safari",
    "private": false,
-   "stars": 0,
+   "stars": 1,
    "forks": 0,
    "views14": 7,
-   "url": "https://github.com/koua29/mt5-export-ticks"
+   "url": "https://github.com/koua29/bruce-ssid-safari"
   },
   {
    "name": "bruce-baby-theme",
@@ -464,11 +463,19 @@
    "url": "https://github.com/koua29/bruce-snake"
   },
   {
+   "name": "mt5-export-ticks",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 5,
+   "url": "https://github.com/koua29/mt5-export-ticks"
+  },
+  {
    "name": "bruce-lilygo-base-ordered",
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 4,
+   "views14": 3,
    "url": "https://github.com/koua29/bruce-lilygo-base-ordered"
   },
   {
@@ -496,14 +503,6 @@
    "url": "https://github.com/koua29/wifi-auditor"
   },
   {
-   "name": "bruce-bubble-pop",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 2,
-   "url": "https://github.com/koua29/bruce-bubble-pop"
-  },
-  {
    "name": "Bruce-Themes",
    "private": false,
    "stars": 0,
@@ -526,6 +525,14 @@
    "forks": 0,
    "views14": 2,
    "url": "https://github.com/koua29/pidog-patrol"
+  },
+  {
+   "name": "bruce-bubble-pop",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 1,
+   "url": "https://github.com/koua29/bruce-bubble-pop"
   },
   {
    "name": "App-Store-Data",

@@ -1,10 +1,10 @@
 {
  "user": "koua29",
- "generated": "2026-08-30T11:57:59Z",
+ "generated": "2026-08-31T13:56:59Z",
  "kpi": {
   "repos": 33,
-  "views14": 415,
-  "stars": 19,
+  "views14": 409,
+  "stars": 20,
   "forks": 1,
   "followers": 5
  },
@@ -204,6 +204,13 @@
    "view_uniques": 13,
    "clones": 26,
    "clone_uniques": 22
+  },
+  {
+   "date": "2026-08-30",
+   "views": 35,
+   "view_uniques": 8,
+   "clones": 32,
+   "clone_uniques": 31
   }
  ],
  "stars_series": [
@@ -302,7 +309,14 @@
    "date": "2026-08-30",
    "followers": 5,
    "public_repos": 33,
-   "total_stars": 19,
+   "total_forks": 1,
+   "total_stars": 19
+  },
+  {
+   "date": "2026-08-31",
+   "followers": 5,
+   "public_repos": 33,
+   "total_stars": 20,
    "total_forks": 1
   }
  ],
@@ -312,39 +326,47 @@
    "private": false,
    "stars": 6,
    "forks": 0,
-   "views14": 69,
+   "views14": 66,
    "url": "https://github.com/koua29/bruce-flock-detector"
-  },
-  {
-   "name": "bruce-ble-finder",
-   "private": false,
-   "stars": 3,
-   "forks": 0,
-   "views14": 45,
-   "url": "https://github.com/koua29/bruce-ble-finder"
-  },
-  {
-   "name": "gitpulse",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 35,
-   "url": "https://github.com/koua29/gitpulse"
   },
   {
    "name": "bruce-flipper-ordered",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 30,
+   "views14": 42,
    "url": "https://github.com/koua29/bruce-flipper-ordered"
+  },
+  {
+   "name": "bruce-ble-finder",
+   "private": false,
+   "stars": 3,
+   "forks": 0,
+   "views14": 40,
+   "url": "https://github.com/koua29/bruce-ble-finder"
+  },
+  {
+   "name": "bruce-hud-themes",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 29,
+   "url": "https://github.com/koua29/bruce-hud-themes"
+  },
+  {
+   "name": "gitpulse",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 25,
+   "url": "https://github.com/koua29/gitpulse"
   },
   {
    "name": "bruce-wifi-qr",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 21,
+   "views14": 23,
    "url": "https://github.com/koua29/bruce-wifi-qr"
   },
   {
@@ -352,16 +374,8 @@
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 18,
+   "views14": 17,
    "url": "https://github.com/koua29/bruce-launcher"
-  },
-  {
-   "name": "bruce-sqli-tester",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 18,
-   "url": "https://github.com/koua29/bruce-sqli-tester"
   },
   {
    "name": "bruce-tv-b-gone",
@@ -380,14 +394,6 @@
    "url": "https://github.com/koua29/bruce-fallout-theme"
   },
   {
-   "name": "bruce-hud-themes",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 16,
-   "url": "https://github.com/koua29/bruce-hud-themes"
-  },
-  {
    "name": "bruce-nuclear-theme",
    "private": false,
    "stars": 0,
@@ -404,14 +410,6 @@
    "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
-   "name": "bruce-lan-scanner",
-   "private": false,
-   "stars": 2,
-   "forks": 0,
-   "views14": 12,
-   "url": "https://github.com/koua29/bruce-lan-scanner"
-  },
-  {
    "name": "bruce-spiderman-theme",
    "private": false,
    "stars": 0,
@@ -424,7 +422,7 @@
    "private": false,
    "stars": 1,
    "forks": 1,
-   "views14": 9,
+   "views14": 10,
    "url": "https://github.com/koua29/ollama-image-studio"
   },
   {
@@ -442,6 +440,22 @@
    "forks": 0,
    "views14": 8,
    "url": "https://github.com/koua29/bruce-grille-theme"
+  },
+  {
+   "name": "bruce-sqli-tester",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 8,
+   "url": "https://github.com/koua29/bruce-sqli-tester"
+  },
+  {
+   "name": "wifi-auditor",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 8,
+   "url": "https://github.com/koua29/wifi-auditor"
   },
   {
    "name": "bruce-baby-theme",
@@ -468,12 +482,12 @@
    "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
-   "name": "wifi-auditor",
+   "name": "bruce-lan-scanner",
    "private": false,
-   "stars": 0,
+   "stars": 2,
    "forks": 0,
-   "views14": 6,
-   "url": "https://github.com/koua29/wifi-auditor"
+   "views14": 5,
+   "url": "https://github.com/koua29/bruce-lan-scanner"
   },
   {
    "name": "mt5-export-ticks",
@@ -575,8 +589,8 @@
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 260,
-   "uniques": 117
+   "count": 266,
+   "uniques": 114
   },
   {
    "referrer": "koua29.github.io",

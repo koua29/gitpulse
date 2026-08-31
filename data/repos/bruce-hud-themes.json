@@ -2,42 +2,72 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 12,
+   "count": 14,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 11
   },
   {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/security",
-   "title": "/security",
-   "uniques": 1
-  },
-  {
-   "count": 1,
+   "count": 2,
    "path": "/koua29/bruce-hud-themes/tree/main",
    "title": "/tree/main",
-   "uniques": 1
+   "uniques": 2
   },
   {
-   "count": 1,
+   "count": 2,
    "path": "/koua29/bruce-hud-themes/tree/main/Amber HUD",
    "title": "/tree/main/Amber HUD",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
+   "title": "/tree/main/White HUD",
+   "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/BLE.gif",
+   "title": "/blob/main/Blue HUD/BLE.gif",
    "uniques": 1
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
-   "title": "/tree/main/White HUD",
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Blue HUD.json",
+   "title": "/blob/main/Blue HUD/Blue HUD.json",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Clock.gif",
+   "title": "/blob/main/Blue HUD/Clock.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Config.gif",
+   "title": "/blob/main/Blue HUD/Config.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/GPS.gif",
+   "title": "/blob/main/Blue HUD/GPS.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/IR.gif",
+   "title": "/blob/main/Blue HUD/IR.gif",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 3,
+   "count": 17,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 5
   },
   {
    "count": 3,
@@ -128,6 +158,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
+   "watchers": 0
+  },
+  "2026-08-31": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
    "watchers": 0
   }
  },
@@ -299,6 +335,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-30": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 14
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

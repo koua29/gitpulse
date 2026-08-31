@@ -2,24 +2,18 @@
  "name": "bruce-ssid-safari",
  "paths": [
   {
-   "count": 6,
+   "count": 4,
    "path": "/koua29/bruce-ssid-safari",
    "title": "Overview",
-   "uniques": 5
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ssid-safari/blob/main/SSID Safari.js",
-   "title": "/blob/main/SSID Safari.js",
-   "uniques": 1
+   "uniques": 4
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 2,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -102,6 +96,12 @@
    "watchers": 0
   },
   "2026-08-30": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-31": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -274,6 +274,12 @@
   "2026-08-29": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-30": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

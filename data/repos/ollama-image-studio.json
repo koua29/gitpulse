@@ -9,15 +9,15 @@
   },
   {
    "count": 2,
-   "path": "/koua29/ollama-image-studio/pulls",
-   "title": "/pulls",
+   "path": "/koua29/ollama-image-studio/issues",
+   "title": "/issues",
    "uniques": 2
   },
   {
-   "count": 1,
-   "path": "/koua29/ollama-image-studio/issues",
-   "title": "/issues",
-   "uniques": 1
+   "count": 2,
+   "path": "/koua29/ollama-image-studio/pulls",
+   "title": "/pulls",
+   "uniques": 2
   },
   {
    "count": 1,
@@ -114,6 +114,12 @@
    "watchers": 0
   },
   "2026-08-30": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-08-31": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -288,6 +294,12 @@
    "clones": 3,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-08-30": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/ollama-image-studio"

@@ -2,72 +2,36 @@
  "name": "bruce-sqli-tester",
  "paths": [
   {
-   "count": 6,
+   "count": 5,
    "path": "/koua29/bruce-sqli-tester",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 4
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/bruce-sqli-tester/blob/main/docs/menu.jpg",
    "title": "/blob/main/docs/menu.jpg",
-   "uniques": 2
+   "uniques": 1
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/bruce-sqli-tester/blob/main/docs/scanning.jpg",
    "title": "/blob/main/docs/scanning.jpg",
-   "uniques": 2
+   "uniques": 1
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/bruce-sqli-tester/blob/main/docs/targets.jpg",
    "title": "/blob/main/docs/targets.jpg",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/hero.jpg",
-   "title": "/blob/main/docs/hero.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/hw-antenna.jpg",
-   "title": "/blob/main/docs/hw-antenna.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/hw-lilygo-black.jpg",
-   "title": "/blob/main/docs/hw-lilygo-black.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/hw-lilygo.jpg",
-   "title": "/blob/main/docs/hw-lilygo.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/paypal-qr.png",
-   "title": "/blob/main/docs/paypal-qr.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/vulnerable.jpg",
-   "title": "/blob/main/docs/vulnerable.jpg",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 18,
+   "count": 8,
    "referrer": "github.com",
-   "uniques": 5
+   "uniques": 4
   }
  ],
  "snapshots": {
@@ -156,6 +120,12 @@
    "watchers": 0
   },
   "2026-08-31": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-01": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -332,6 +302,12 @@
    "views": 1
   },
   "2026-08-30": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-31": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

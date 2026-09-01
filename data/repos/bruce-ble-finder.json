@@ -2,30 +2,24 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 38,
+   "count": 37,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 18
+   "uniques": 16
   },
   {
-   "count": 7,
+   "count": 6,
    "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
    "title": "/blob/main/BLE Finder.js",
-   "uniques": 6
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/main/docs/search.jpg",
-   "title": "/blob/main/docs/search.jpg",
-   "uniques": 1
+   "uniques": 5
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 37,
+   "count": 35,
    "referrer": "github.com",
-   "uniques": 12
+   "uniques": 11
   },
   {
    "count": 2,
@@ -35,11 +29,6 @@
   {
    "count": 2,
    "referrer": "chatgpt.com",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "referrer": "koua29.github.io",
    "uniques": 1
   }
  ],
@@ -129,6 +118,12 @@
    "watchers": 0
   },
   "2026-08-31": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-09-01": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -309,6 +304,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-08-31": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

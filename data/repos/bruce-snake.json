@@ -2,16 +2,28 @@
  "name": "bruce-snake",
  "paths": [
   {
-   "count": 2,
+   "count": 3,
+   "path": "/koua29/bruce-snake/blob/main/Snake.js",
+   "title": "/blob/main/Snake.js",
+   "uniques": 3
+  },
+  {
+   "count": 3,
    "path": "/koua29/bruce-snake",
    "title": "Overview",
    "uniques": 2
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-snake/blob/main/Snake.js",
-   "title": "/blob/main/Snake.js",
-   "uniques": 2
+   "path": "/koua29/bruce-snake/commit/9bfccbfe5b4b531a2dbc2f3dd139d4eaf544be22",
+   "title": "/commit/9bfccbfe5b4b531a2dbc2f3dd139d4eaf544be22",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-snake/compare/main",
+   "title": "/compare/main",
+   "uniques": 1
   },
   {
    "count": 1,
@@ -23,14 +35,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 3,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "referrer": "koua29.github.io",
-   "uniques": 1
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -125,6 +132,12 @@
    "watchers": 0
   },
   "2026-09-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -311,6 +324,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 2
+  },
+  "2026-09-01": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 6
   }
  },
  "url": "https://github.com/koua29/bruce-snake"

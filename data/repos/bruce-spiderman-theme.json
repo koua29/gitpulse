@@ -2,10 +2,10 @@
  "name": "bruce-spiderman-theme",
  "paths": [
   {
-   "count": 9,
+   "count": 11,
    "path": "/koua29/bruce-spiderman-theme",
    "title": "Overview",
-   "uniques": 7
+   "uniques": 9
   },
   {
    "count": 1,
@@ -17,9 +17,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 2,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 2
+   "uniques": 3
+  },
+  {
+   "count": 1,
+   "referrer": "yandex.ru",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -60,6 +65,12 @@
    "watchers": 0
   },
   "2026-09-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -186,6 +197,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-01": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-spiderman-theme"

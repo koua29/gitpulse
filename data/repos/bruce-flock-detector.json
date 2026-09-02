@@ -14,10 +14,10 @@
    "uniques": 5
   },
   {
-   "count": 2,
+   "count": 3,
    "path": "/koua29/bruce-flock-detector/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 2
+   "uniques": 3
   },
   {
    "count": 1,
@@ -35,19 +35,19 @@
  "private": false,
  "referrers": [
   {
-   "count": 50,
+   "count": 51,
    "referrer": "github.com",
-   "uniques": 24
-  },
-  {
-   "count": 3,
-   "referrer": "koua29.github.io",
-   "uniques": 2
+   "uniques": 23
   },
   {
    "count": 3,
    "referrer": "Google",
    "uniques": 1
+  },
+  {
+   "count": 2,
+   "referrer": "koua29.github.io",
+   "uniques": 2
   },
   {
    "count": 1,
@@ -147,6 +147,12 @@
    "watchers": 0
   },
   "2026-09-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-09-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -333,6 +339,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-01": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

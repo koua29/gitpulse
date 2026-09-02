@@ -2,28 +2,16 @@
  "name": "gitpulse",
  "paths": [
   {
-   "count": 23,
+   "count": 17,
    "path": "/koua29/gitpulse",
    "title": "Overview",
-   "uniques": 9
-  },
-  {
-   "count": 1,
-   "path": "/koua29/gitpulse/actions",
-   "title": "/actions",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/gitpulse/actions/runs/32109860373",
-   "title": "/actions/runs/32109860373",
-   "uniques": 1
+   "uniques": 8
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 10,
+   "count": 8,
    "referrer": "github.com",
    "uniques": 2
   }
@@ -114,6 +102,12 @@
    "watchers": 0
   },
   "2026-09-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -286,6 +280,12 @@
   "2026-08-31": {
    "clone_uniques": 8,
    "clones": 17,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-01": {
+   "clone_uniques": 3,
+   "clones": 4,
    "view_uniques": 0,
    "views": 0
   }

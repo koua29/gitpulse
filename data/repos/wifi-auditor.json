@@ -2,10 +2,10 @@
  "name": "wifi-auditor",
  "paths": [
   {
-   "count": 6,
+   "count": 8,
    "path": "/koua29/wifi-auditor",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 5
   },
   {
    "count": 1,
@@ -33,7 +33,18 @@
   }
  ],
  "private": false,
- "referrers": [],
+ "referrers": [
+  {
+   "count": 1,
+   "referrer": "Bing",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "referrer": "github.com",
+   "uniques": 1
+  }
+ ],
  "snapshots": {
   "2026-08-28": {
    "forks": 0,
@@ -60,6 +71,12 @@
    "watchers": 0
   },
   "2026-09-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -173,6 +190,12 @@
    "clone_uniques": 2,
    "clones": 2,
    "view_uniques": 1,
+   "views": 2
+  },
+  "2026-09-01": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
    "views": 2
   }
  },

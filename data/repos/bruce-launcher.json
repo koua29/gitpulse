@@ -2,10 +2,10 @@
  "name": "bruce-launcher",
  "paths": [
   {
-   "count": 11,
+   "count": 9,
    "path": "/koua29/bruce-launcher",
    "title": "Overview",
-   "uniques": 8
+   "uniques": 7
   },
   {
    "count": 2,
@@ -27,12 +27,6 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-launcher/tree/main",
-   "title": "/tree/main",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/bruce-launcher/tree/main/docs",
    "title": "/tree/main/docs",
    "uniques": 1
@@ -41,9 +35,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 16,
+   "count": 14,
    "referrer": "github.com",
-   "uniques": 8
+   "uniques": 7
   }
  ],
  "snapshots": {
@@ -138,6 +132,12 @@
    "watchers": 0
   },
   "2026-09-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -320,6 +320,12 @@
    "views": 0
   },
   "2026-08-31": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-01": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

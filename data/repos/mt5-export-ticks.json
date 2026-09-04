@@ -6,12 +6,6 @@
    "path": "/koua29/mt5-export-ticks",
    "title": "Overview",
    "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/mt5-export-ticks/tree/main",
-   "title": "/tree/main",
-   "uniques": 1
   }
  ],
  "private": false,
@@ -120,6 +114,12 @@
    "watchers": 0
   },
   "2026-09-03": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-04": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -316,6 +316,12 @@
   "2026-09-02": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-03": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

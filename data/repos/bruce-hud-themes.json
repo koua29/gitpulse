@@ -2,16 +2,16 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 20,
+   "count": 29,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
    "uniques": 14
   },
   {
-   "count": 7,
+   "count": 6,
    "path": "/koua29/bruce-hud-themes/tree/main/Amber HUD",
    "title": "/tree/main/Amber HUD",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 4,
@@ -20,9 +20,15 @@
    "uniques": 3
   },
   {
-   "count": 2,
+   "count": 3,
    "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
    "title": "/tree/main/Blue HUD",
+   "uniques": 3
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Blue HUD.json",
+   "title": "/blob/main/Blue HUD/Blue HUD.json",
    "uniques": 2
   },
   {
@@ -45,12 +51,6 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Blue HUD.json",
-   "title": "/blob/main/Blue HUD/Blue HUD.json",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Clock.gif",
    "title": "/blob/main/Blue HUD/Clock.gif",
    "uniques": 1
@@ -65,7 +65,7 @@
  "private": false,
  "referrers": [
   {
-   "count": 30,
+   "count": 33,
    "referrer": "github.com",
    "uniques": 8
   },
@@ -185,6 +185,12 @@
    "watchers": 0
   },
   "2026-09-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -389,6 +395,12 @@
    "clones": 0,
    "view_uniques": 3,
    "views": 6
+  },
+  "2026-09-04": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 3,
+   "views": 13
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

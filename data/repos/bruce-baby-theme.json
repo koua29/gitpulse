@@ -2,10 +2,22 @@
  "name": "bruce-baby-theme",
  "paths": [
   {
-   "count": 6,
+   "count": 7,
    "path": "/koua29/bruce-baby-theme",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 7
+  },
+  {
+   "count": 4,
+   "path": "/koua29/bruce-baby-theme/tree/main/Baby_Toy2",
+   "title": "/tree/main/Baby_Toy2",
+   "uniques": 1
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-baby-theme/blob/main/docs/grid-toy2.png",
+   "title": "/blob/main/docs/grid-toy2.png",
+   "uniques": 2
   },
   {
    "count": 1,
@@ -15,8 +27,14 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-baby-theme/blob/main/docs/grid-toy2.png",
-   "title": "/blob/main/docs/grid-toy2.png",
+   "path": "/koua29/bruce-baby-theme/tree/main",
+   "title": "/tree/main",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-baby-theme/tree/main/Baby_Toy2/140px",
+   "title": "/tree/main/Baby_Toy2/140px",
    "uniques": 1
   }
  ],
@@ -84,6 +102,12 @@
    "watchers": 0
   },
   "2026-09-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -222,6 +246,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-04": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 8
   }
  },
  "url": "https://github.com/koua29/bruce-baby-theme"

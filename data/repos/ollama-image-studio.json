@@ -8,10 +8,10 @@
    "uniques": 3
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/ollama-image-studio/issues",
    "title": "/issues",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 1,
@@ -144,6 +144,12 @@
    "watchers": 0
   },
   "2026-09-04": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-05": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -346,6 +352,12 @@
   "2026-09-03": {
    "clone_uniques": 1,
    "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-04": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

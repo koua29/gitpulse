@@ -2,10 +2,10 @@
  "name": "ollama-image-studio",
  "paths": [
   {
-   "count": 4,
+   "count": 2,
    "path": "/koua29/ollama-image-studio",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 1,
@@ -18,22 +18,10 @@
    "path": "/koua29/ollama-image-studio/pulls",
    "title": "/pulls",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/ollama-image-studio/tree/main/src",
-   "title": "/tree/main/src",
-   "uniques": 1
   }
  ],
  "private": false,
- "referrers": [
-  {
-   "count": 2,
-   "referrer": "qwant.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 1,
@@ -150,6 +138,12 @@
    "watchers": 0
   },
   "2026-09-05": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-06": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -356,6 +350,12 @@
    "views": 0
   },
   "2026-09-04": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-05": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

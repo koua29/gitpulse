@@ -2,40 +2,16 @@
  "name": "bruce-nuclear-theme",
  "paths": [
   {
-   "count": 14,
+   "count": 10,
    "path": "/koua29/bruce-nuclear-theme",
    "title": "Overview",
-   "uniques": 11
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal",
-   "title": "/tree/main/Nuclear_Terminal",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/blob/main/docs/hero.png",
-   "title": "/blob/main/docs/hero.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/tree/main",
-   "title": "/tree/main",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal/180px",
-   "title": "/tree/main/Nuclear_Terminal/180px",
-   "uniques": 1
+   "uniques": 10
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 14,
+   "count": 8,
    "referrer": "github.com",
    "uniques": 8
   }
@@ -120,6 +96,12 @@
    "watchers": 0
   },
   "2026-09-07": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-08": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -282,6 +264,18 @@
    "clones": 0,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-09-06": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-nuclear-theme"

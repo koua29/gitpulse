@@ -2,16 +2,16 @@
  "name": "bruce-flock-detector",
  "paths": [
   {
-   "count": 65,
+   "count": 70,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 37
+   "uniques": 40
   },
   {
-   "count": 3,
+   "count": 7,
    "path": "/koua29/bruce-flock-detector/blob/main/Flock Detector.js",
    "title": "/blob/main/Flock Detector.js",
-   "uniques": 3
+   "uniques": 7
   },
   {
    "count": 3,
@@ -33,18 +33,6 @@
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-flock-detector/actions",
-   "title": "/actions",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-flock-detector/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 2
-  },
-  {
-   "count": 2,
    "path": "/koua29/bruce-flock-detector/blob/main/sigs.json",
    "title": "/blob/main/sigs.json",
    "uniques": 2
@@ -60,29 +48,31 @@
    "path": "/koua29/bruce-flock-detector/security",
    "title": "/security",
    "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-flock-detector/tree/main/docs",
+   "title": "/tree/main/docs",
+   "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-flock-detector/actions",
+   "title": "/actions",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 49,
+   "count": 44,
    "referrer": "github.com",
-   "uniques": 21
+   "uniques": 20
   },
   {
    "count": 3,
    "referrer": "koua29.github.io",
    "uniques": 2
-  },
-  {
-   "count": 3,
-   "referrer": "Google",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "referrer": "DuckDuckGo",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -216,6 +206,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 10,
+   "watchers": 0
+  },
+  "2026-09-08": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 11,
    "watchers": 0
   }
  },
@@ -429,6 +425,18 @@
    "clones": 9,
    "view_uniques": 8,
    "views": 16
+  },
+  "2026-09-06": {
+   "clone_uniques": 10,
+   "clones": 13,
+   "view_uniques": 6,
+   "views": 12
+  },
+  "2026-09-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 5,
+   "views": 9
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

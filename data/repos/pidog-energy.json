@@ -2,7 +2,7 @@
  "name": "pidog-energy",
  "paths": [
   {
-   "count": 6,
+   "count": 5,
    "path": "/koua29/pidog-energy",
    "title": "Overview",
    "uniques": 3
@@ -16,7 +16,7 @@
    "uniques": 2
   },
   {
-   "count": 2,
+   "count": 1,
    "referrer": "github.com",
    "uniques": 1
   }
@@ -107,6 +107,12 @@
    "watchers": 0
   },
   "2026-09-07": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-08": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -271,6 +277,18 @@
    "views": 0
   },
   "2026-09-05": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-06": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-07": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

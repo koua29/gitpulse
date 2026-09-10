@@ -2,21 +2,15 @@
  "name": "bruce-spiderman-theme",
  "paths": [
   {
-   "count": 16,
+   "count": 12,
    "path": "/koua29/bruce-spiderman-theme",
    "title": "Overview",
-   "uniques": 14
+   "uniques": 12
   },
   {
    "count": 3,
    "path": "/koua29/bruce-spiderman-theme/tree/main/Spiderman",
    "title": "/tree/main/Spiderman",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/grid.png",
-   "title": "/blob/main/docs/grid.png",
    "uniques": 1
   },
   {
@@ -143,6 +137,12 @@
    "watchers": 0
   },
   "2026-09-09": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-10": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -309,6 +309,18 @@
   "2026-09-07": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-08": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 2
+  },
+  "2026-09-09": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

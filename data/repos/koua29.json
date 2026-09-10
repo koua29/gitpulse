@@ -2,10 +2,10 @@
  "name": "koua29",
  "paths": [
   {
-   "count": 3,
+   "count": 1,
    "path": "/koua29/koua29",
    "title": "Overview",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 1,
@@ -17,14 +17,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 3,
+   "count": 2,
    "referrer": "github.com",
    "uniques": 2
-  },
-  {
-   "count": 1,
-   "referrer": "koua29.github.io",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -161,6 +156,12 @@
    "watchers": 0
   },
   "2026-09-09": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-10": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -375,6 +376,18 @@
   "2026-09-07": {
    "clone_uniques": 5,
    "clones": 10,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-08": {
+   "clone_uniques": 4,
+   "clones": 9,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-09": {
+   "clone_uniques": 10,
+   "clones": 17,
    "view_uniques": 0,
    "views": 0
   }

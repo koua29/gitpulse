@@ -2,10 +2,10 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 24,
+   "count": 22,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 12
+   "uniques": 11
   },
   {
    "count": 6,
@@ -14,27 +14,21 @@
    "uniques": 2
   },
   {
-   "count": 4,
-   "path": "/koua29/bruce-hud-themes/tree/main",
-   "title": "/tree/main",
-   "uniques": 3
-  },
-  {
    "count": 3,
    "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
    "title": "/tree/main/Blue HUD",
    "uniques": 3
   },
   {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Blue HUD.json",
-   "title": "/blob/main/Blue HUD/Blue HUD.json",
+   "count": 3,
+   "path": "/koua29/bruce-hud-themes/tree/main",
+   "title": "/tree/main",
    "uniques": 2
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
-   "title": "/tree/main/White HUD",
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Blue HUD.json",
+   "title": "/blob/main/Blue HUD/Blue HUD.json",
    "uniques": 2
   },
   {
@@ -59,6 +53,12 @@
    "count": 1,
    "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Config.gif",
    "title": "/blob/main/Blue HUD/Config.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/GPS.gif",
+   "title": "/blob/main/Blue HUD/GPS.gif",
    "uniques": 1
   }
  ],
@@ -216,6 +216,12 @@
    "watchers": 0
   },
   "2026-09-10": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-11": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -452,6 +458,12 @@
    "views": 0
   },
   "2026-09-09": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-10": {
    "clone_uniques": 1,
    "clones": 1,
    "view_uniques": 0,

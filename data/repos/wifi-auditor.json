@@ -2,27 +2,15 @@
  "name": "wifi-auditor",
  "paths": [
   {
-   "count": 14,
+   "count": 13,
    "path": "/koua29/wifi-auditor",
    "title": "Overview",
-   "uniques": 11
-  },
-  {
-   "count": 1,
-   "path": "/koua29/wifi-auditor/blob/main/docs/03c-hs-captured.jpg",
-   "title": "/blob/main/docs/03c-hs-captured.jpg",
-   "uniques": 1
+   "uniques": 10
   },
   {
    "count": 1,
    "path": "/koua29/wifi-auditor/blob/main/docs/08-hs1.jpg",
    "title": "/blob/main/docs/08-hs1.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/wifi-auditor/blob/main/docs/webui.png",
-   "title": "/blob/main/docs/webui.png",
    "uniques": 1
   },
   {
@@ -131,6 +119,12 @@
    "watchers": 0
   },
   "2026-09-10": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-11": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -295,6 +289,12 @@
    "views": 2
   },
   "2026-09-09": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-10": {
    "clone_uniques": 1,
    "clones": 1,
    "view_uniques": 0,

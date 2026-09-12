@@ -1,0 +1,154 @@
+{
+ "name": "decky-fsg",
+ "paths": [
+  {
+   "count": 19,
+   "path": "/koua29/decky-fsg",
+   "title": "Overview",
+   "uniques": 7
+  },
+  {
+   "count": 2,
+   "path": "/koua29/decky-fsg/releases/tag/v0.2.0",
+   "title": "/releases/tag/v0.2.0",
+   "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/decky-fsg/blob/main/LICENSE",
+   "title": "/blob/main/LICENSE",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/decky-fsg/issues",
+   "title": "/issues",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/decky-fsg/pulls",
+   "title": "/pulls",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/decky-fsg/tags",
+   "title": "/tags",
+   "uniques": 1
+  }
+ ],
+ "private": false,
+ "referrers": [
+  {
+   "count": 9,
+   "referrer": "github.com",
+   "uniques": 3
+  },
+  {
+   "count": 5,
+   "referrer": "com.reddit.frontpage",
+   "uniques": 1
+  },
+  {
+   "count": 2,
+   "referrer": "reddit.com",
+   "uniques": 2
+  }
+ ],
+ "snapshots": {
+  "2026-09-12": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  }
+ },
+ "traffic": {
+  "2026-08-29": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-30": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-08-31": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-01": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-02": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-03": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-04": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-05": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-06": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-08": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-09": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-10": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-11": {
+   "clone_uniques": 10,
+   "clones": 16,
+   "view_uniques": 7,
+   "views": 25
+  }
+ },
+ "url": "https://github.com/koua29/decky-fsg"
+}

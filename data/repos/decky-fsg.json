@@ -2,10 +2,22 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 19,
+   "count": 79,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
-   "uniques": 7
+   "uniques": 49
+  },
+  {
+   "count": 3,
+   "path": "/koua29/decky-fsg/blob/main/docs/screenshot-device.jpg",
+   "title": "/blob/main/docs/screenshot-device.jpg",
+   "uniques": 3
+  },
+  {
+   "count": 2,
+   "path": "/koua29/decky-fsg/blob/main/docs/screenshot-options.jpg",
+   "title": "/blob/main/docs/screenshot-options.jpg",
+   "uniques": 2
   },
   {
    "count": 2,
@@ -33,6 +45,12 @@
   },
   {
    "count": 1,
+   "path": "/koua29/decky-fsg/releases/tag/v0.3.0",
+   "title": "/releases/tag/v0.3.0",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/decky-fsg/tags",
    "title": "/tags",
    "uniques": 1
@@ -41,19 +59,29 @@
  "private": false,
  "referrers": [
   {
-   "count": 9,
-   "referrer": "github.com",
-   "uniques": 3
+   "count": 19,
+   "referrer": "t.co",
+   "uniques": 15
   },
   {
-   "count": 5,
+   "count": 17,
    "referrer": "com.reddit.frontpage",
-   "uniques": 1
+   "uniques": 10
   },
   {
-   "count": 2,
+   "count": 16,
+   "referrer": "github.com",
+   "uniques": 5
+  },
+  {
+   "count": 6,
    "referrer": "reddit.com",
-   "uniques": 2
+   "uniques": 6
+  },
+  {
+   "count": 1,
+   "referrer": "com.twitter.android",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -61,6 +89,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
    "watchers": 0
   }
  },
@@ -148,6 +182,12 @@
    "clones": 16,
    "view_uniques": 7,
    "views": 25
+  },
+  "2026-09-12": {
+   "clone_uniques": 41,
+   "clones": 74,
+   "view_uniques": 45,
+   "views": 66
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

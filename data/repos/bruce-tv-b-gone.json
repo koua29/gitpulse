@@ -2,18 +2,30 @@
  "name": "bruce-tv-b-gone",
  "paths": [
   {
-   "count": 7,
+   "count": 12,
    "path": "/koua29/bruce-tv-b-gone",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 9
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-tv-b-gone/blob/main/TV-B-Gone.js",
+   "title": "/blob/main/TV-B-Gone.js",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-tv-b-gone/blob/main/tvbgone.ir",
+   "title": "/blob/main/tvbgone.ir",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 11,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 8
   }
  ],
  "snapshots": {
@@ -183,6 +195,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
+   "watchers": 0
+  },
+  "2026-09-14": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
    "watchers": 0
   }
  },
@@ -438,6 +456,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-13": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 4,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/bruce-tv-b-gone"

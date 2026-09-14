@@ -2,10 +2,10 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 79,
+   "count": 102,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
-   "uniques": 49
+   "uniques": 67
   },
   {
    "count": 3,
@@ -26,9 +26,27 @@
    "uniques": 2
   },
   {
+   "count": 2,
+   "path": "/koua29/decky-fsg/releases/tag/v0.3.1",
+   "title": "/releases/tag/v0.3.1",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/decky-fsg/releases/tag/v0.1.0",
+   "title": "/releases/tag/v0.1.0",
+   "uniques": 1
+  },
+  {
    "count": 1,
    "path": "/koua29/decky-fsg/blob/main/LICENSE",
    "title": "/blob/main/LICENSE",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/decky-fsg/branches",
+   "title": "/branches",
    "uniques": 1
   },
   {
@@ -42,45 +60,38 @@
    "path": "/koua29/decky-fsg/pulls",
    "title": "/pulls",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/decky-fsg/releases/tag/v0.3.0",
-   "title": "/releases/tag/v0.3.0",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/decky-fsg/tags",
-   "title": "/tags",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 19,
+   "count": 22,
    "referrer": "t.co",
-   "uniques": 15
+   "uniques": 18
   },
   {
-   "count": 17,
-   "referrer": "com.reddit.frontpage",
-   "uniques": 10
-  },
-  {
-   "count": 16,
+   "count": 22,
    "referrer": "github.com",
-   "uniques": 5
-  },
-  {
-   "count": 6,
-   "referrer": "reddit.com",
    "uniques": 6
   },
   {
-   "count": 1,
+   "count": 19,
+   "referrer": "com.reddit.frontpage",
+   "uniques": 12
+  },
+  {
+   "count": 10,
+   "referrer": "reddit.com",
+   "uniques": 10
+  },
+  {
+   "count": 2,
    "referrer": "com.twitter.android",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "referrer": "search.brave.com",
    "uniques": 1
   }
  ],
@@ -95,6 +106,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
+   "watchers": 0
+  },
+  "2026-09-14": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
    "watchers": 0
   }
  },
@@ -188,6 +205,12 @@
    "clones": 74,
    "view_uniques": 45,
    "views": 66
+  },
+  "2026-09-13": {
+   "clone_uniques": 4,
+   "clones": 6,
+   "view_uniques": 21,
+   "views": 29
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

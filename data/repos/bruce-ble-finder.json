@@ -5,7 +5,7 @@
    "count": 44,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 21
+   "uniques": 23
   },
   {
    "count": 5,
@@ -20,15 +20,15 @@
    "uniques": 3
   },
   {
-   "count": 2,
-   "path": "/koua29/bruce-ble-finder/blob/main/LICENSE",
-   "title": "/blob/main/LICENSE",
-   "uniques": 2
+   "count": 3,
+   "path": "/koua29/bruce-ble-finder/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 3
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-ble-finder/blob/main/README.md",
-   "title": "/blob/main/README.md",
+   "path": "/koua29/bruce-ble-finder/blob/main/LICENSE",
+   "title": "/blob/main/LICENSE",
    "uniques": 2
   },
   {
@@ -65,14 +65,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 45,
+   "count": 44,
    "referrer": "github.com",
-   "uniques": 13
+   "uniques": 14
   },
   {
-   "count": 5,
+   "count": 7,
    "referrer": "Google",
-   "uniques": 2
+   "uniques": 3
   },
   {
    "count": 1,
@@ -250,6 +250,12 @@
    "watchers": 0
   },
   "2026-09-14": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-09-15": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -514,6 +520,12 @@
    "clones": 0,
    "view_uniques": 5,
    "views": 10
+  },
+  "2026-09-14": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 3,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

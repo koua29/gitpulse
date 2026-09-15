@@ -2,34 +2,10 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 22,
+   "count": 21,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 10
-  },
-  {
-   "count": 5,
-   "path": "/koua29/bruce-hud-themes/tree/main/Amber HUD",
-   "title": "/tree/main/Amber HUD",
-   "uniques": 1
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
-   "title": "/tree/main/Blue HUD",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/tree/main",
-   "title": "/tree/main",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/Amber HUD/Amber HUD.json",
-   "title": "/blob/main/Amber HUD/Amber HUD.json",
-   "uniques": 1
+   "uniques": 9
   },
   {
    "count": 1,
@@ -45,17 +21,17 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/tree/delete/main/Amber HUD",
-   "title": "/tree/delete/main/Amber HUD",
+   "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
+   "title": "/tree/main/Blue HUD",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 20,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 7
+   "uniques": 6
   }
  ],
  "snapshots": {
@@ -228,6 +204,12 @@
    "watchers": 0
   },
   "2026-09-14": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-09-15": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -492,6 +474,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 2
+  },
+  "2026-09-14": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

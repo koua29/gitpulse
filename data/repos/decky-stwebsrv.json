@@ -2,21 +2,27 @@
  "name": "decky-stwebsrv",
  "paths": [
   {
-   "count": 8,
+   "count": 10,
    "path": "/koua29/decky-stwebsrv",
    "title": "Overview",
-   "uniques": 4
+   "uniques": 6
+  },
+  {
+   "count": 2,
+   "path": "/koua29/decky-stwebsrv/blob/main/docs/screenshot-files.png",
+   "title": "/blob/main/docs/screenshot-files.png",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/decky-stwebsrv/releases/tag/v0.1.0",
+   "title": "/releases/tag/v0.1.0",
+   "uniques": 1
   },
   {
    "count": 2,
    "path": "/koua29/decky-stwebsrv/releases/tag/v0.2.0-beta.1",
    "title": "/releases/tag/v0.2.0-beta.1",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/decky-stwebsrv/blob/main/docs/screenshot-files.png",
-   "title": "/blob/main/docs/screenshot-files.png",
    "uniques": 1
   },
   {
@@ -54,25 +60,24 @@
    "path": "/koua29/decky-stwebsrv/releases/tag/v0.2.0-beta.4",
    "title": "/releases/tag/v0.2.0-beta.4",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/decky-stwebsrv/tags",
-   "title": "/tags",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
    "count": 4,
+   "referrer": "github.com",
+   "uniques": 3
+  },
+  {
+   "count": 4,
    "referrer": "com.reddit.frontpage",
    "uniques": 2
   },
   {
-   "count": 2,
-   "referrer": "github.com",
-   "uniques": 2
+   "count": 3,
+   "referrer": "reddit.com",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -83,6 +88,12 @@
    "watchers": 0
   },
   "2026-09-15": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-16": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -179,6 +190,12 @@
    "clones": 22,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-15": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "view_uniques": 2,
+   "views": 5
   }
  },
  "url": "https://github.com/koua29/decky-stwebsrv"

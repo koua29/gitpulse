@@ -2,15 +2,39 @@
  "name": "bruce-hacker-theme",
  "paths": [
   {
-   "count": 13,
+   "count": 15,
    "path": "/koua29/bruce-hacker-theme",
    "title": "Overview",
-   "uniques": 10
+   "uniques": 11
+  },
+  {
+   "count": 5,
+   "path": "/koua29/bruce-hacker-theme/tree/main/Hacker v3",
+   "title": "/tree/main/Hacker v3",
+   "uniques": 3
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hacker-theme/tree/main/Hacker v3",
-   "title": "/tree/main/Hacker v3",
+   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v3/Connect.gif",
+   "title": "/blob/main/Hacker v3/Connect.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v3/Hacker v3.json",
+   "title": "/blob/main/Hacker v3/Hacker v3.json",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hacker-theme/blob/main/docs/hacker-v3.png",
+   "title": "/blob/main/docs/hacker-v3.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hacker-theme/upload/main",
+   "title": "/upload/main",
    "uniques": 1
   }
  ],
@@ -198,6 +222,12 @@
    "watchers": 0
   },
   "2026-09-15": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-16": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -468,6 +498,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-15": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 10
   }
  },
  "url": "https://github.com/koua29/bruce-hacker-theme"

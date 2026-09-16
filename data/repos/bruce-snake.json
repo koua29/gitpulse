@@ -2,34 +2,22 @@
  "name": "bruce-snake",
  "paths": [
   {
-   "count": 9,
+   "count": 7,
    "path": "/koua29/bruce-snake",
    "title": "Overview",
    "uniques": 4
   },
   {
-   "count": 3,
+   "count": 1,
    "path": "/koua29/bruce-snake/commit/9bfccbfe5b4b531a2dbc2f3dd139d4eaf544be22",
    "title": "/commit/9bfccbfe5b4b531a2dbc2f3dd139d4eaf544be22",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/Snake.js",
-   "title": "/blob/main/Snake.js",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/compare/main",
-   "title": "/compare/main",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 13,
+   "count": 7,
    "referrer": "github.com",
    "uniques": 4
   }
@@ -210,6 +198,12 @@
    "watchers": 0
   },
   "2026-09-15": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-16": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -476,6 +470,12 @@
    "views": 1
   },
   "2026-09-14": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-15": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

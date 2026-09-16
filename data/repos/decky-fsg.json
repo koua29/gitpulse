@@ -2,10 +2,10 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 114,
+   "count": 121,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
-   "uniques": 73
+   "uniques": 77
   },
   {
    "count": 6,
@@ -65,24 +65,29 @@
  "private": false,
  "referrers": [
   {
-   "count": 25,
+   "count": 26,
    "referrer": "github.com",
-   "uniques": 7
+   "uniques": 8
   },
   {
-   "count": 22,
+   "count": 23,
    "referrer": "t.co",
    "uniques": 18
   },
   {
-   "count": 22,
+   "count": 23,
    "referrer": "com.reddit.frontpage",
-   "uniques": 14
+   "uniques": 15
   },
   {
-   "count": 11,
+   "count": 13,
    "referrer": "reddit.com",
-   "uniques": 11
+   "uniques": 13
+  },
+  {
+   "count": 3,
+   "referrer": "search.brave.com",
+   "uniques": 2
   },
   {
    "count": 2,
@@ -91,12 +96,12 @@
   },
   {
    "count": 2,
-   "referrer": "search.brave.com",
+   "referrer": "steamcommunity.com",
    "uniques": 1
   },
   {
-   "count": 2,
-   "referrer": "steamcommunity.com",
+   "count": 1,
+   "referrer": "koua29.github.io",
    "uniques": 1
   }
  ],
@@ -120,6 +125,12 @@
    "watchers": 0
   },
   "2026-09-15": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-09-16": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -228,6 +239,12 @@
    "clones": 44,
    "view_uniques": 7,
    "views": 16
+  },
+  "2026-09-15": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "view_uniques": 7,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

@@ -2,10 +2,10 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 121,
+   "count": 124,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
-   "uniques": 77
+   "uniques": 80
   },
   {
    "count": 6,
@@ -18,6 +18,12 @@
    "path": "/koua29/decky-fsg/blob/main/docs/screenshot-device.jpg",
    "title": "/blob/main/docs/screenshot-device.jpg",
    "uniques": 3
+  },
+  {
+   "count": 3,
+   "path": "/koua29/decky-fsg/branches",
+   "title": "/branches",
+   "uniques": 2
   },
   {
    "count": 2,
@@ -45,12 +51,6 @@
   },
   {
    "count": 1,
-   "path": "/koua29/decky-fsg/branches",
-   "title": "/branches",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/decky-fsg/issues",
    "title": "/issues",
    "uniques": 1
@@ -65,9 +65,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 26,
+   "count": 27,
    "referrer": "github.com",
-   "uniques": 8
+   "uniques": 9
+  },
+  {
+   "count": 24,
+   "referrer": "com.reddit.frontpage",
+   "uniques": 16
   },
   {
    "count": 23,
@@ -75,14 +80,9 @@
    "uniques": 18
   },
   {
-   "count": 23,
-   "referrer": "com.reddit.frontpage",
-   "uniques": 15
-  },
-  {
-   "count": 13,
+   "count": 14,
    "referrer": "reddit.com",
-   "uniques": 13
+   "uniques": 14
   },
   {
    "count": 3,
@@ -131,6 +131,12 @@
    "watchers": 0
   },
   "2026-09-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-09-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -245,6 +251,12 @@
    "clones": 3,
    "view_uniques": 7,
    "views": 7
+  },
+  "2026-09-16": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 3,
+   "views": 5
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

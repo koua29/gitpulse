@@ -119,11 +119,11 @@ GitPulse collects **public repos only** (`visibility=public`, plus a defensive f
 
 ## 📚 Recommended reading / À lire
 
-Des livres sur le *vibe coding*, Git & GitHub — liens affiliés Amazon :
+Books on *vibe coding*, Git & GitHub — Amazon affiliate links:
 
-| [<img src="docs/img/book-git-github.jpg" height="210" alt="Git & GitHub Sans Panique">](https://link.amazon/B0cC1eCIM) | [<img src="docs/img/book-vibe-agents.jpg" height="210" alt="Vibe Coding avec Agents IA">](https://link.amazon/B073oCAtj) | [<img src="docs/img/book-vibe-playbook.jpg" height="210" alt="Vibe Coding Playbook">](https://link.amazon/B07Ovlcx0) |
+| [<img src="docs/img/amazon-1394159161.jpg" width="200" alt="GitHub For Dummies">](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-B0FPGHVGD8.jpg" width="200" alt="Vibe Coding">](https://www.amazon.com/dp/B0FPGHVGD8?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-B0F6S5425Y.jpg" width="200" alt="Beyond Vibe Coding">](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) |
 |:---:|:---:|:---:|
-| 🐙 **[Git & GitHub Sans Panique](https://link.amazon/B0cC1eCIM)**<br><sub>J.P. Deffo Fotso</sub> | 🤖 **[Vibe Coding avec Agents IA](https://link.amazon/B073oCAtj)**<br><sub>Manuel Mayer · Cursor, Copilot & Lovable</sub> | ⚡ **[Vibe Coding Playbook](https://link.amazon/B07Ovlcx0)**<br><sub>Tung Knowya</sub> |
+| 🐙 **[GitHub For Dummies](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Le contrôle de version et les pull requests, pas à pas</sub> | 🤖 **[Vibe Coding](https://www.amazon.com/dp/B0FPGHVGD8?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Du logiciel de production avec l'IA et les agents</sub> | ⚡ **[Beyond Vibe Coding](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Du codeur au développeur de l'ère IA</sub> |
 
 <sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
 

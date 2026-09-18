@@ -2,34 +2,46 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 43,
+   "count": 41,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 22
+   "uniques": 20
+  },
+  {
+   "count": 7,
+   "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
+   "title": "/blob/main/BLE Finder.js",
+   "uniques": 6
   },
   {
    "count": 6,
-   "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
-   "title": "/blob/main/BLE Finder.js",
-   "uniques": 5
-  },
-  {
-   "count": 4,
    "path": "/koua29/bruce-ble-finder/tree/main/docs",
    "title": "/tree/main/docs",
-   "uniques": 3
+   "uniques": 4
   },
   {
-   "count": 3,
+   "count": 5,
    "path": "/koua29/bruce-ble-finder/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 3
+   "uniques": 4
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-ble-finder/blob/main/docs/radar.jpg",
+   "title": "/blob/main/docs/radar.jpg",
+   "uniques": 2
   },
   {
    "count": 2,
    "path": "/koua29/bruce-ble-finder/pulls",
    "title": "/pulls",
    "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-ble-finder/blob/main/docs/hw-antenna.jpg",
+   "title": "/blob/main/docs/hw-antenna.jpg",
+   "uniques": 1
   },
   {
    "count": 1,
@@ -45,34 +57,22 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/main/docs/radar.jpg",
-   "title": "/blob/main/docs/radar.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/issues",
-   "title": "/issues",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/tree/main",
-   "title": "/tree/main",
+   "path": "/koua29/bruce-ble-finder/blob/main/docs/paypal-qr.png",
+   "title": "/blob/main/docs/paypal-qr.png",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 45,
+   "count": 44,
    "referrer": "github.com",
    "uniques": 15
   },
   {
-   "count": 7,
+   "count": 8,
    "referrer": "Google",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 1,
@@ -268,6 +268,12 @@
    "watchers": 0
   },
   "2026-09-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-09-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -550,6 +556,12 @@
    "clones": 1,
    "view_uniques": 4,
    "views": 6
+  },
+  "2026-09-17": {
+   "clone_uniques": 5,
+   "clones": 7,
+   "view_uniques": 2,
+   "views": 12
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

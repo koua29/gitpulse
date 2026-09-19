@@ -2,10 +2,10 @@
  "name": "mt5-export-ticks",
  "paths": [
   {
-   "count": 3,
+   "count": 5,
    "path": "/koua29/mt5-export-ticks",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 5
   },
   {
    "count": 1,
@@ -23,9 +23,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 6,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 5
   }
  ],
  "snapshots": {
@@ -222,6 +222,12 @@
    "watchers": 0
   },
   "2026-09-18": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-19": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -510,6 +516,12 @@
    "clones": 3,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-18": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/mt5-export-ticks"

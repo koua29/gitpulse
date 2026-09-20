@@ -2,7 +2,7 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 137,
+   "count": 138,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
    "uniques": 87
@@ -96,12 +96,12 @@
   },
   {
    "count": 2,
-   "referrer": "steamcommunity.com",
+   "referrer": "koua29.github.io",
    "uniques": 1
   },
   {
-   "count": 1,
-   "referrer": "koua29.github.io",
+   "count": 2,
+   "referrer": "steamcommunity.com",
    "uniques": 1
   }
  ],
@@ -152,6 +152,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
+   "watchers": 0
+  },
+  "2026-09-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
    "watchers": 0
   }
  },
@@ -281,6 +287,12 @@
    "clones": 1,
    "view_uniques": 4,
    "views": 4
+  },
+  "2026-09-19": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

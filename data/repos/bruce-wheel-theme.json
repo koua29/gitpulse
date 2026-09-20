@@ -2,10 +2,10 @@
  "name": "bruce-wheel-theme",
  "paths": [
   {
-   "count": 11,
+   "count": 10,
    "path": "/koua29/bruce-wheel-theme",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 8
   },
   {
    "count": 2,
@@ -24,20 +24,14 @@
    "path": "/koua29/bruce-wheel-theme/issues",
    "title": "/issues",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
-   "title": "/tree/main/Wheel_Dark",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 13,
+   "count": 11,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 8
   }
  ],
  "snapshots": {
@@ -240,6 +234,12 @@
    "watchers": 0
   },
   "2026-09-19": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-09-20": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -534,6 +534,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-19": {
+   "clone_uniques": 7,
+   "clones": 9,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-wheel-theme"

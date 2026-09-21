@@ -8,16 +8,16 @@
    "uniques": 2
   },
   {
-   "count": 3,
+   "count": 4,
    "path": "/koua29/pidog-voice/tree/main",
    "title": "/tree/main",
    "uniques": 1
   },
   {
-   "count": 1,
+   "count": 2,
    "path": "/koua29/pidog-voice",
    "title": "Overview",
-   "uniques": 1
+   "uniques": 2
   }
  ],
  "private": false,
@@ -192,6 +192,12 @@
    "watchers": 0
   },
   "2026-09-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -444,6 +450,12 @@
    "clones": 2,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-20": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/pidog-voice"

@@ -2,10 +2,10 @@
  "name": "bruce-grille-theme",
  "paths": [
   {
-   "count": 4,
+   "count": 7,
    "path": "/koua29/bruce-grille-theme",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 5
   },
   {
    "count": 2,
@@ -21,6 +21,12 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-grille-theme/blob/main/Grille_Dark/180px/Ble.png",
+   "title": "/blob/main/Grille_Dark/180px/Ble.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-grille-theme/blob/main/LICENSE",
    "title": "/blob/main/LICENSE",
    "uniques": 1
@@ -30,14 +36,26 @@
    "path": "/koua29/bruce-grille-theme/tree/main/Grille",
    "title": "/tree/main/Grille",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-grille-theme/tree/main/Grille_Dark",
+   "title": "/tree/main/Grille_Dark",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-grille-theme/tree/main/Grille_Dark/180px",
+   "title": "/tree/main/Grille_Dark/180px",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 2,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 2
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -186,6 +204,12 @@
    "watchers": 0
   },
   "2026-09-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-09-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -420,6 +444,12 @@
    "clones": 1,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-20": {
+   "clone_uniques": 1,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 6
   }
  },
  "url": "https://github.com/koua29/bruce-grille-theme"

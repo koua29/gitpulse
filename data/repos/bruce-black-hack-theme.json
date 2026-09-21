@@ -2,10 +2,22 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 27,
+   "count": 29,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 16
+   "uniques": 17
+  },
+  {
+   "count": 5,
+   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
+   "title": "/tree/main/Black_Hack",
+   "uniques": 2
+  },
+  {
+   "count": 3,
+   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack/105px",
+   "title": "/tree/main/Black_Hack/105px",
+   "uniques": 1
   },
   {
    "count": 1,
@@ -21,8 +33,20 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
-   "title": "/tree/main/Black_Hack",
+   "path": "/koua29/bruce-black-hack-theme/commit/2e7df9f484299e2c742fc85595159199e9d7adc9",
+   "title": "/commit/2e7df9f484299e2c742fc85595159199e9d7adc9",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/commits/main/Black_Hack/105px",
+   "title": "/commits/main/Black_Hack/105px",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/tree/main",
+   "title": "/tree/main",
    "uniques": 1
   },
   {
@@ -132,6 +156,12 @@
    "watchers": 0
   },
   "2026-09-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-09-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -312,6 +342,12 @@
    "clones": 5,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-20": {
+   "clone_uniques": 2,
+   "clones": 3,
+   "view_uniques": 3,
+   "views": 14
   }
  },
  "url": "https://github.com/koua29/bruce-black-hack-theme"

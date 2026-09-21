@@ -2,10 +2,10 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 138,
+   "count": 142,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
-   "uniques": 87
+   "uniques": 91
   },
   {
    "count": 6,
@@ -26,6 +26,12 @@
    "uniques": 3
   },
   {
+   "count": 3,
+   "path": "/koua29/decky-fsg/releases",
+   "title": "/releases",
+   "uniques": 3
+  },
+  {
    "count": 2,
    "path": "/koua29/decky-fsg/blob/main/docs/screenshot-options.jpg",
    "title": "/blob/main/docs/screenshot-options.jpg",
@@ -33,14 +39,14 @@
   },
   {
    "count": 2,
-   "path": "/koua29/decky-fsg/pulls",
-   "title": "/pulls",
+   "path": "/koua29/decky-fsg/issues",
+   "title": "/issues",
    "uniques": 2
   },
   {
    "count": 2,
-   "path": "/koua29/decky-fsg/releases",
-   "title": "/releases",
+   "path": "/koua29/decky-fsg/pulls",
+   "title": "/pulls",
    "uniques": 2
   },
   {
@@ -54,25 +60,19 @@
    "path": "/koua29/decky-fsg/releases/tag/v0.4.0",
    "title": "/releases/tag/v0.4.0",
    "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/decky-fsg/releases/tag/v0.1.0",
-   "title": "/releases/tag/v0.1.0",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 33,
+   "count": 35,
    "referrer": "github.com",
-   "uniques": 11
+   "uniques": 13
   },
   {
-   "count": 27,
+   "count": 28,
    "referrer": "com.reddit.frontpage",
-   "uniques": 18
+   "uniques": 19
   },
   {
    "count": 23,
@@ -155,6 +155,12 @@
    "watchers": 0
   },
   "2026-09-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-09-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -293,6 +299,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-09-20": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 5,
+   "views": 6
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

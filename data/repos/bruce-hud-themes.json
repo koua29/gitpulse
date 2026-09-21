@@ -6,14 +6,44 @@
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
    "uniques": 5
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Amber HUD/BLE.gif",
+   "title": "/blob/main/Amber HUD/BLE.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Amber HUD/Config.gif",
+   "title": "/blob/main/Amber HUD/Config.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Clock.gif",
+   "title": "/blob/main/Blue HUD/Clock.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/tree/main/Amber HUD",
+   "title": "/tree/main/Amber HUD",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hud-themes/tree/main/Blue HUD",
+   "title": "/tree/main/Blue HUD",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 4,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -222,6 +252,12 @@
    "watchers": 0
   },
   "2026-09-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-09-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -522,6 +558,12 @@
    "clones": 2,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-20": {
+   "clone_uniques": 2,
+   "clones": 3,
+   "view_uniques": 1,
+   "views": 6
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

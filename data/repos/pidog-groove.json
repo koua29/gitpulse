@@ -2,10 +2,10 @@
  "name": "pidog-groove",
  "paths": [
   {
-   "count": 4,
+   "count": 5,
    "path": "/koua29/pidog-groove",
    "title": "Overview",
-   "uniques": 4
+   "uniques": 5
   },
   {
    "count": 1,
@@ -23,9 +23,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 2,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 2
+   "uniques": 3
   },
   {
    "count": 1,
@@ -197,6 +197,12 @@
    "watchers": 0
   },
   "2026-09-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-22": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -447,6 +453,12 @@
   "2026-09-20": {
    "clone_uniques": 2,
    "clones": 3,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-09-21": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 1,
    "views": 1
   }

@@ -8,22 +8,22 @@
    "uniques": 24
   },
   {
-   "count": 8,
+   "count": 6,
    "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
    "title": "/blob/main/BLE Finder.js",
-   "uniques": 6
-  },
-  {
-   "count": 7,
-   "path": "/koua29/bruce-ble-finder/tree/main/docs",
-   "title": "/tree/main/docs",
    "uniques": 5
   },
   {
    "count": 5,
+   "path": "/koua29/bruce-ble-finder/tree/main/docs",
+   "title": "/tree/main/docs",
+   "uniques": 4
+  },
+  {
+   "count": 4,
    "path": "/koua29/bruce-ble-finder/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 4
+   "uniques": 3
   },
   {
    "count": 3,
@@ -57,27 +57,22 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/main/LICENSE",
-   "title": "/blob/main/LICENSE",
+   "path": "/koua29/bruce-ble-finder/blob/main/docs/paypal-qr.png",
+   "title": "/blob/main/docs/paypal-qr.png",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 45,
+   "count": 38,
    "referrer": "github.com",
-   "uniques": 15
+   "uniques": 16
   },
   {
    "count": 10,
    "referrer": "Google",
    "uniques": 6
-  },
-  {
-   "count": 1,
-   "referrer": "search.brave.com",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -304,6 +299,12 @@
    "watchers": 0
   },
   "2026-09-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-09-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -622,6 +623,12 @@
    "clones": 1,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-23": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 4,
+   "views": 5
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

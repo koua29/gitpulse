@@ -2,24 +2,54 @@
  "name": "wifi-auditor",
  "paths": [
   {
-   "count": 8,
+   "count": 10,
    "path": "/koua29/wifi-auditor",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 8
+  },
+  {
+   "count": 2,
+   "path": "/koua29/wifi-auditor/blob/main/docs/webui.png",
+   "title": "/blob/main/docs/webui.png",
+   "uniques": 1
   },
   {
    "count": 1,
    "path": "/koua29/wifi-auditor/blob/main/README.md",
    "title": "/blob/main/README.md",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/wifi-auditor/blob/main/WiFi Auditor.command",
+   "title": "/blob/main/WiFi Auditor.command",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/wifi-auditor/blob/main/ui.html",
+   "title": "/blob/main/ui.html",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/wifi-auditor/tree/main/docs",
+   "title": "/tree/main/docs",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/wifi-auditor/tree/main/wordlists",
+   "title": "/tree/main/wordlists",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 7,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 5
+   "uniques": 7
   }
  ],
  "snapshots": {
@@ -180,6 +210,12 @@
    "watchers": 0
   },
   "2026-09-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-09-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -426,6 +462,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-23": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 8
   }
  },
  "url": "https://github.com/koua29/wifi-auditor"

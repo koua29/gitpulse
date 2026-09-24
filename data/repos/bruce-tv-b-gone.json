@@ -2,28 +2,28 @@
  "name": "bruce-tv-b-gone",
  "paths": [
   {
-   "count": 13,
+   "count": 20,
    "path": "/koua29/bruce-tv-b-gone",
    "title": "Overview",
-   "uniques": 10
+   "uniques": 16
+  },
+  {
+   "count": 4,
+   "path": "/koua29/bruce-tv-b-gone/blob/main/TV-B-Gone.js",
+   "title": "/blob/main/TV-B-Gone.js",
+   "uniques": 3
+  },
+  {
+   "count": 4,
+   "path": "/koua29/bruce-tv-b-gone/blob/main/tvbgone.ir",
+   "title": "/blob/main/tvbgone.ir",
+   "uniques": 3
   },
   {
    "count": 4,
    "path": "/koua29/bruce-tv-b-gone/tree/main/docs",
    "title": "/tree/main/docs",
    "uniques": 1
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-tv-b-gone/blob/main/TV-B-Gone.js",
-   "title": "/blob/main/TV-B-Gone.js",
-   "uniques": 2
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-tv-b-gone/blob/main/tvbgone.ir",
-   "title": "/blob/main/tvbgone.ir",
-   "uniques": 2
   },
   {
    "count": 2,
@@ -35,6 +35,12 @@
    "count": 1,
    "path": "/koua29/bruce-tv-b-gone/actions",
    "title": "/actions",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-tv-b-gone/blob/main/README.md",
+   "title": "/blob/main/README.md",
    "uniques": 1
   },
   {
@@ -54,20 +60,19 @@
    "path": "/koua29/bruce-tv-b-gone/issues",
    "title": "/issues",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-tv-b-gone/labels",
-   "title": "/labels",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 12,
+   "count": 18,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 14
+  },
+  {
+   "count": 1,
+   "referrer": "Google",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -297,6 +302,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
+   "watchers": 0
+  },
+  "2026-09-24": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
    "watchers": 0
   }
  },
@@ -612,6 +623,12 @@
    "clones": 1,
    "view_uniques": 3,
    "views": 3
+  },
+  "2026-09-23": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 6,
+   "views": 10
   }
  },
  "url": "https://github.com/koua29/bruce-tv-b-gone"

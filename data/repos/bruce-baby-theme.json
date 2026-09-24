@@ -2,28 +2,10 @@
  "name": "bruce-baby-theme",
  "paths": [
   {
-   "count": 4,
+   "count": 5,
    "path": "/koua29/bruce-baby-theme",
    "title": "Overview",
-   "uniques": 4
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-baby-theme/blob/main/docs/device-toy1.jpg",
-   "title": "/blob/main/docs/device-toy1.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-baby-theme/blob/main/docs/grid-toy1.png",
-   "title": "/blob/main/docs/grid-toy1.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-baby-theme/blob/main/docs/grid-toy2.png",
-   "title": "/blob/main/docs/grid-toy2.png",
-   "uniques": 1
+   "uniques": 5
   },
   {
    "count": 1,
@@ -35,9 +17,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 1,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 1
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -210,6 +192,12 @@
    "watchers": 0
   },
   "2026-09-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -462,6 +450,12 @@
    "clones": 2,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-23": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-baby-theme"

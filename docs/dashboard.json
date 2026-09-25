@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-09-24T11:51:34Z",
+ "generated": "2026-09-25T11:54:53Z",
  "kpi": {
   "repos": 38,
-  "views14": 838,
+  "views14": 794,
   "stars": 65,
   "forks": 1,
   "followers": 8
@@ -652,6 +652,13 @@
    "date": "2026-09-24",
    "followers": 8,
    "public_repos": 38,
+   "total_forks": 1,
+   "total_stars": 65
+  },
+  {
+   "date": "2026-09-25",
+   "followers": 8,
+   "public_repos": 38,
    "total_stars": 65,
    "total_forks": 1
   }
@@ -662,7 +669,7 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 183,
+   "views14": 158,
    "url": "https://github.com/koua29/decky-fsg"
   },
   {
@@ -670,7 +677,7 @@
    "private": false,
    "stars": 14,
    "forks": 0,
-   "views14": 79,
+   "views14": 76,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -678,7 +685,7 @@
    "private": false,
    "stars": 5,
    "forks": 0,
-   "views14": 71,
+   "views14": 70,
    "url": "https://github.com/koua29/bruce-ble-finder"
   },
   {
@@ -702,7 +709,7 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 43,
+   "views14": 42,
    "url": "https://github.com/koua29/bruce-black-hack-theme"
   },
   {
@@ -722,14 +729,6 @@
    "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
-   "name": "bruce-sqli-tester",
-   "private": false,
-   "stars": 4,
-   "forks": 0,
-   "views14": 23,
-   "url": "https://github.com/koua29/bruce-sqli-tester"
-  },
-  {
    "name": "bruce-wheel-theme",
    "private": false,
    "stars": 3,
@@ -746,6 +745,14 @@
    "url": "https://github.com/koua29/bruce-spiderman-theme"
   },
   {
+   "name": "bruce-sqli-tester",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
+   "views14": 22,
+   "url": "https://github.com/koua29/bruce-sqli-tester"
+  },
+  {
    "name": "bruce-hud-themes",
    "private": false,
    "stars": 2,
@@ -758,7 +765,7 @@
    "private": false,
    "stars": 2,
    "forks": 0,
-   "views14": 19,
+   "views14": 18,
    "url": "https://github.com/koua29/bruce-launcher"
   },
   {
@@ -810,14 +817,6 @@
    "url": "https://github.com/koua29/bruce-lan-scanner"
   },
   {
-   "name": "ollama-image-studio",
-   "private": false,
-   "stars": 1,
-   "forks": 1,
-   "views14": 13,
-   "url": "https://github.com/koua29/ollama-image-studio"
-  },
-  {
    "name": "pidog-voice",
    "private": false,
    "stars": 1,
@@ -830,7 +829,7 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 9,
+   "views14": 8,
    "url": "https://github.com/koua29/gitpulse"
   },
   {
@@ -848,14 +847,6 @@
    "forks": 0,
    "views14": 7,
    "url": "https://github.com/koua29/bruce-wifi-qr"
-  },
-  {
-   "name": "mt5-export-ticks",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 7,
-   "url": "https://github.com/koua29/mt5-export-ticks"
   },
   {
    "name": "bruce-baby-theme",
@@ -882,6 +873,22 @@
    "url": "https://github.com/koua29/pidog-groove"
   },
   {
+   "name": "mt5-export-ticks",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 5,
+   "url": "https://github.com/koua29/mt5-export-ticks"
+  },
+  {
+   "name": "ollama-image-studio",
+   "private": false,
+   "stars": 1,
+   "forks": 1,
+   "views14": 5,
+   "url": "https://github.com/koua29/ollama-image-studio"
+  },
+  {
    "name": "pidog-patrol",
    "private": false,
    "stars": 0,
@@ -894,7 +901,7 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 4,
+   "views14": 3,
    "url": "https://github.com/koua29/bruce-snake"
   },
   {

@@ -1,10 +1,10 @@
 {
  "user": "koua29",
- "generated": "2026-09-28T14:01:46Z",
+ "generated": "2026-09-29T12:58:29Z",
  "kpi": {
   "repos": 38,
-  "views14": 558,
-  "stars": 66,
+  "views14": 514,
+  "stars": 67,
   "forks": 1,
   "followers": 8
  },
@@ -680,7 +680,14 @@
    "date": "2026-09-28",
    "followers": 8,
    "public_repos": 38,
-   "total_stars": 66,
+   "total_forks": 1,
+   "total_stars": 66
+  },
+  {
+   "date": "2026-09-29",
+   "followers": 8,
+   "public_repos": 38,
+   "total_stars": 67,
    "total_forks": 1
   }
  ],
@@ -690,15 +697,15 @@
    "private": false,
    "stars": 15,
    "forks": 0,
-   "views14": 59,
+   "views14": 54,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
    "name": "bruce-ble-finder",
    "private": false,
-   "stars": 5,
+   "stars": 6,
    "forks": 0,
-   "views14": 53,
+   "views14": 52,
    "url": "https://github.com/koua29/bruce-ble-finder"
   },
   {
@@ -706,7 +713,7 @@
    "private": false,
    "stars": 2,
    "forks": 0,
-   "views14": 49,
+   "views14": 43,
    "url": "https://github.com/koua29/bruce-fallout-theme"
   },
   {
@@ -714,7 +721,7 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 47,
+   "views14": 40,
    "url": "https://github.com/koua29/decky-fsg"
   },
   {
@@ -722,7 +729,7 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 36,
+   "views14": 35,
    "url": "https://github.com/koua29/bruce-black-hack-theme"
   },
   {
@@ -730,7 +737,7 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 31,
+   "views14": 29,
    "url": "https://github.com/koua29/bruce-tv-b-gone"
   },
   {
@@ -738,16 +745,8 @@
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 31,
+   "views14": 26,
    "url": "https://github.com/koua29/decky-stwebsrv"
-  },
-  {
-   "name": "bruce-hacker-theme",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 23,
-   "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
    "name": "bruce-sqli-tester",
@@ -766,20 +765,20 @@
    "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
-   "name": "bruce-spiderman-theme",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 18,
-   "url": "https://github.com/koua29/bruce-spiderman-theme"
-  },
-  {
    "name": "bruce-hud-themes",
    "private": false,
    "stars": 2,
    "forks": 0,
    "views14": 17,
    "url": "https://github.com/koua29/bruce-hud-themes"
+  },
+  {
+   "name": "bruce-spiderman-theme",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 17,
+   "url": "https://github.com/koua29/bruce-spiderman-theme"
   },
   {
    "name": "savewaypoint",
@@ -802,7 +801,7 @@
    "private": false,
    "stars": 2,
    "forks": 0,
-   "views14": 15,
+   "views14": 14,
    "url": "https://github.com/koua29/wifi-auditor"
   },
   {
@@ -814,6 +813,14 @@
    "url": "https://github.com/koua29/bruce-grille-theme"
   },
   {
+   "name": "bruce-hacker-theme",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 13,
+   "url": "https://github.com/koua29/bruce-hacker-theme"
+  },
+  {
    "name": "bruce-flipper-ordered",
    "private": false,
    "stars": 1,
@@ -822,20 +829,20 @@
    "url": "https://github.com/koua29/bruce-flipper-ordered"
   },
   {
-   "name": "pidog-voice",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 12,
-   "url": "https://github.com/koua29/pidog-voice"
-  },
-  {
    "name": "bruce-lan-scanner",
    "private": false,
    "stars": 5,
    "forks": 0,
-   "views14": 11,
+   "views14": 10,
    "url": "https://github.com/koua29/bruce-lan-scanner"
+  },
+  {
+   "name": "pidog-voice",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/pidog-voice"
   },
   {
    "name": "bruce-launcher",
@@ -902,20 +909,20 @@
    "url": "https://github.com/koua29/bruce-ssid-safari"
   },
   {
-   "name": "gitpulse",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 4,
-   "url": "https://github.com/koua29/gitpulse"
-  },
-  {
    "name": "ollama-image-studio",
    "private": false,
    "stars": 1,
    "forks": 1,
    "views14": 4,
    "url": "https://github.com/koua29/ollama-image-studio"
+  },
+  {
+   "name": "gitpulse",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 3,
+   "url": "https://github.com/koua29/gitpulse"
   },
   {
    "name": "bruce-snake",

@@ -2,18 +2,24 @@
  "name": "leboncoin-mcp",
  "paths": [
   {
-   "count": 1,
+   "count": 3,
    "path": "/koua29/leboncoin-mcp",
    "title": "Overview",
+   "uniques": 3
+  },
+  {
+   "count": 1,
+   "path": "/koua29/leboncoin-mcp/releases/tag/v1.0.0",
+   "title": "/releases/tag/v1.0.0",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 1,
+   "count": 2,
    "referrer": "github.com",
-   "uniques": 1
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -78,6 +84,12 @@
    "watchers": 0
   },
   "2026-09-29": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-09-30": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -198,6 +210,42 @@
    "clones": 1,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-09-24": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-09-25": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-26": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-27": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-28": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-29": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/leboncoin-mcp"

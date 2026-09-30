@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-09-29T12:58:29Z",
+ "generated": "2026-09-30T12:40:05Z",
  "kpi": {
   "repos": 38,
-  "views14": 514,
+  "views14": 749,
   "stars": 67,
   "forks": 1,
   "followers": 8
@@ -379,6 +379,48 @@
    "view_uniques": 65,
    "clones": 53,
    "clone_uniques": 42
+  },
+  {
+   "date": "2026-09-24",
+   "views": 59,
+   "view_uniques": 34,
+   "clones": 45,
+   "clone_uniques": 37
+  },
+  {
+   "date": "2026-09-25",
+   "views": 35,
+   "view_uniques": 16,
+   "clones": 48,
+   "clone_uniques": 41
+  },
+  {
+   "date": "2026-09-26",
+   "views": 28,
+   "view_uniques": 17,
+   "clones": 105,
+   "clone_uniques": 90
+  },
+  {
+   "date": "2026-09-27",
+   "views": 50,
+   "view_uniques": 32,
+   "clones": 54,
+   "clone_uniques": 42
+  },
+  {
+   "date": "2026-09-28",
+   "views": 41,
+   "view_uniques": 21,
+   "clones": 86,
+   "clone_uniques": 52
+  },
+  {
+   "date": "2026-09-29",
+   "views": 60,
+   "view_uniques": 33,
+   "clones": 49,
+   "clone_uniques": 40
   }
  ],
  "stars_series": [
@@ -687,6 +729,13 @@
    "date": "2026-09-29",
    "followers": 8,
    "public_repos": 38,
+   "total_forks": 1,
+   "total_stars": 67
+  },
+  {
+   "date": "2026-09-30",
+   "followers": 8,
+   "public_repos": 38,
    "total_stars": 67,
    "total_forks": 1
   }
@@ -697,7 +746,7 @@
    "private": false,
    "stars": 15,
    "forks": 0,
-   "views14": 54,
+   "views14": 124,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -705,15 +754,31 @@
    "private": false,
    "stars": 6,
    "forks": 0,
-   "views14": 52,
+   "views14": 57,
    "url": "https://github.com/koua29/bruce-ble-finder"
+  },
+  {
+   "name": "bruce-black-hack-theme",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
+   "views14": 48,
+   "url": "https://github.com/koua29/bruce-black-hack-theme"
+  },
+  {
+   "name": "decky-stwebsrv",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 48,
+   "url": "https://github.com/koua29/decky-stwebsrv"
   },
   {
    "name": "bruce-fallout-theme",
    "private": false,
    "stars": 2,
    "forks": 0,
-   "views14": 43,
+   "views14": 47,
    "url": "https://github.com/koua29/bruce-fallout-theme"
   },
   {
@@ -721,80 +786,104 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 40,
+   "views14": 43,
    "url": "https://github.com/koua29/decky-fsg"
-  },
-  {
-   "name": "bruce-black-hack-theme",
-   "private": false,
-   "stars": 4,
-   "forks": 0,
-   "views14": 35,
-   "url": "https://github.com/koua29/bruce-black-hack-theme"
   },
   {
    "name": "bruce-tv-b-gone",
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 29,
+   "views14": 36,
    "url": "https://github.com/koua29/bruce-tv-b-gone"
-  },
-  {
-   "name": "decky-stwebsrv",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 26,
-   "url": "https://github.com/koua29/decky-stwebsrv"
-  },
-  {
-   "name": "bruce-sqli-tester",
-   "private": false,
-   "stars": 4,
-   "forks": 0,
-   "views14": 20,
-   "url": "https://github.com/koua29/bruce-sqli-tester"
-  },
-  {
-   "name": "bruce-wheel-theme",
-   "private": false,
-   "stars": 3,
-   "forks": 0,
-   "views14": 20,
-   "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
    "name": "bruce-hud-themes",
    "private": false,
    "stars": 2,
    "forks": 0,
-   "views14": 17,
+   "views14": 30,
    "url": "https://github.com/koua29/bruce-hud-themes"
-  },
-  {
-   "name": "bruce-spiderman-theme",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 17,
-   "url": "https://github.com/koua29/bruce-spiderman-theme"
-  },
-  {
-   "name": "savewaypoint",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 17,
-   "url": "https://github.com/koua29/savewaypoint"
   },
   {
    "name": "bruce-nuclear-theme",
    "private": false,
    "stars": 2,
    "forks": 0,
-   "views14": 16,
+   "views14": 30,
    "url": "https://github.com/koua29/bruce-nuclear-theme"
+  },
+  {
+   "name": "bruce-wheel-theme",
+   "private": false,
+   "stars": 3,
+   "forks": 0,
+   "views14": 25,
+   "url": "https://github.com/koua29/bruce-wheel-theme"
+  },
+  {
+   "name": "bruce-flipper-ordered",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 24,
+   "url": "https://github.com/koua29/bruce-flipper-ordered"
+  },
+  {
+   "name": "bruce-sqli-tester",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
+   "views14": 24,
+   "url": "https://github.com/koua29/bruce-sqli-tester"
+  },
+  {
+   "name": "bruce-spiderman-theme",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 21,
+   "url": "https://github.com/koua29/bruce-spiderman-theme"
+  },
+  {
+   "name": "bruce-snake",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 19,
+   "url": "https://github.com/koua29/bruce-snake"
+  },
+  {
+   "name": "bruce-lan-scanner",
+   "private": false,
+   "stars": 5,
+   "forks": 0,
+   "views14": 18,
+   "url": "https://github.com/koua29/bruce-lan-scanner"
+  },
+  {
+   "name": "savewaypoint",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 18,
+   "url": "https://github.com/koua29/savewaypoint"
+  },
+  {
+   "name": "bruce-grille-theme",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 17,
+   "url": "https://github.com/koua29/bruce-grille-theme"
+  },
+  {
+   "name": "bruce-hacker-theme",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 16,
+   "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
    "name": "wifi-auditor",
@@ -805,52 +894,44 @@
    "url": "https://github.com/koua29/wifi-auditor"
   },
   {
-   "name": "bruce-grille-theme",
+   "name": "bruce-launcher",
    "private": false,
-   "stars": 1,
+   "stars": 2,
    "forks": 0,
-   "views14": 13,
-   "url": "https://github.com/koua29/bruce-grille-theme"
-  },
-  {
-   "name": "bruce-hacker-theme",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 13,
-   "url": "https://github.com/koua29/bruce-hacker-theme"
-  },
-  {
-   "name": "bruce-flipper-ordered",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 12,
-   "url": "https://github.com/koua29/bruce-flipper-ordered"
-  },
-  {
-   "name": "bruce-lan-scanner",
-   "private": false,
-   "stars": 5,
-   "forks": 0,
-   "views14": 10,
-   "url": "https://github.com/koua29/bruce-lan-scanner"
+   "views14": 11,
+   "url": "https://github.com/koua29/bruce-launcher"
   },
   {
    "name": "pidog-voice",
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 9,
+   "views14": 11,
    "url": "https://github.com/koua29/pidog-voice"
   },
   {
-   "name": "bruce-launcher",
+   "name": "bruce-ssid-safari",
    "private": false,
    "stars": 2,
    "forks": 0,
+   "views14": 10,
+   "url": "https://github.com/koua29/bruce-ssid-safari"
+  },
+  {
+   "name": "bruce-lilygo-base-ordered",
+   "private": false,
+   "stars": 3,
+   "forks": 0,
    "views14": 8,
-   "url": "https://github.com/koua29/bruce-launcher"
+   "url": "https://github.com/koua29/bruce-lilygo-base-ordered"
+  },
+  {
+   "name": "bruce-baby-theme",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 6,
+   "url": "https://github.com/koua29/bruce-baby-theme"
   },
   {
    "name": "bruce-wifi-qr",
@@ -861,12 +942,12 @@
    "url": "https://github.com/koua29/bruce-wifi-qr"
   },
   {
-   "name": "bruce-baby-theme",
+   "name": "gitpulse",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 5,
-   "url": "https://github.com/koua29/bruce-baby-theme"
+   "url": "https://github.com/koua29/gitpulse"
   },
   {
    "name": "mt5-export-ticks",
@@ -877,12 +958,12 @@
    "url": "https://github.com/koua29/mt5-export-ticks"
   },
   {
-   "name": "pidog-groove",
+   "name": "ollama-image-studio",
    "private": false,
-   "stars": 0,
-   "forks": 0,
+   "stars": 1,
+   "forks": 1,
    "views14": 5,
-   "url": "https://github.com/koua29/pidog-groove"
+   "url": "https://github.com/koua29/ollama-image-studio"
   },
   {
    "name": "pidog-patrol",
@@ -893,44 +974,28 @@
    "url": "https://github.com/koua29/pidog-patrol"
   },
   {
-   "name": "bruce-lilygo-base-ordered",
-   "private": false,
-   "stars": 3,
-   "forks": 0,
-   "views14": 4,
-   "url": "https://github.com/koua29/bruce-lilygo-base-ordered"
-  },
-  {
-   "name": "bruce-ssid-safari",
-   "private": false,
-   "stars": 2,
-   "forks": 0,
-   "views14": 4,
-   "url": "https://github.com/koua29/bruce-ssid-safari"
-  },
-  {
-   "name": "ollama-image-studio",
+   "name": "bruce-breakout",
    "private": false,
    "stars": 1,
-   "forks": 1,
+   "forks": 0,
    "views14": 4,
-   "url": "https://github.com/koua29/ollama-image-studio"
+   "url": "https://github.com/koua29/bruce-breakout"
   },
   {
-   "name": "gitpulse",
+   "name": "leboncoin-mcp",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 3,
-   "url": "https://github.com/koua29/gitpulse"
+   "views14": 4,
+   "url": "https://github.com/koua29/leboncoin-mcp"
   },
   {
-   "name": "bruce-snake",
+   "name": "pidog-groove",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 2,
-   "url": "https://github.com/koua29/bruce-snake"
+   "views14": 4,
+   "url": "https://github.com/koua29/pidog-groove"
   },
   {
    "name": "Bruce-Themes",
@@ -941,20 +1006,12 @@
    "url": "https://github.com/koua29/Bruce-Themes"
   },
   {
-   "name": "bluetooth-radar",
+   "name": "pidog-energy",
    "private": false,
    "stars": 0,
    "forks": 0,
-   "views14": 1,
-   "url": "https://github.com/koua29/bluetooth-radar"
-  },
-  {
-   "name": "bruce-breakout",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 1,
-   "url": "https://github.com/koua29/bruce-breakout"
+   "views14": 2,
+   "url": "https://github.com/koua29/pidog-energy"
   },
   {
    "name": "bruce-bubble-pop",
@@ -965,12 +1022,12 @@
    "url": "https://github.com/koua29/bruce-bubble-pop"
   },
   {
-   "name": "leboncoin-mcp",
+   "name": "koua29",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 1,
-   "url": "https://github.com/koua29/leboncoin-mcp"
+   "url": "https://github.com/koua29/koua29"
   },
   {
    "name": "App-Store-Data",
@@ -981,72 +1038,64 @@
    "url": "https://github.com/koua29/App-Store-Data"
   },
   {
-   "name": "koua29",
+   "name": "bluetooth-radar",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 0,
-   "url": "https://github.com/koua29/koua29"
-  },
-  {
-   "name": "pidog-energy",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 0,
-   "url": "https://github.com/koua29/pidog-energy"
+   "url": "https://github.com/koua29/bluetooth-radar"
   }
  ],
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 308,
-   "uniques": 210
+   "count": 262,
+   "uniques": 216
   },
   {
    "referrer": "reddit.com",
-   "count": 39,
-   "uniques": 15
-  },
-  {
-   "referrer": "com.reddit.frontpage",
-   "count": 32,
-   "uniques": 21
-  },
-  {
-   "referrer": "t.co",
-   "count": 23,
-   "uniques": 18
-  },
-  {
-   "referrer": "Google",
-   "count": 13,
-   "uniques": 9
-  },
-  {
-   "referrer": "bruce.computer",
-   "count": 9,
-   "uniques": 6
-  },
-  {
-   "referrer": "koua29.github.io",
-   "count": 8,
-   "uniques": 2
-  },
-  {
-   "referrer": "forum.sunfounder.com",
-   "count": 6,
+   "count": 47,
    "uniques": 3
   },
   {
-   "referrer": "search.brave.com",
-   "count": 4,
+   "referrer": "bruce.computer",
+   "count": 11,
+   "uniques": 10
+  },
+  {
+   "referrer": "Google",
+   "count": 10,
+   "uniques": 10
+  },
+  {
+   "referrer": "com.reddit.frontpage",
+   "count": 5,
+   "uniques": 4
+  },
+  {
+   "referrer": "forum.sunfounder.com",
+   "count": 5,
    "uniques": 2
   },
   {
-   "referrer": "com.twitter.android",
-   "count": 2,
-   "uniques": 2
+   "referrer": "claude.ai",
+   "count": 1,
+   "uniques": 1
+  },
+  {
+   "referrer": "chatgpt.com",
+   "count": 1,
+   "uniques": 1
+  },
+  {
+   "referrer": "Bing",
+   "count": 1,
+   "uniques": 1
+  },
+  {
+   "referrer": "koua29.github.io",
+   "count": 1,
+   "uniques": 1
   }
  ]
 }

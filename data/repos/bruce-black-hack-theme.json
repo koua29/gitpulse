@@ -2,21 +2,51 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 33,
+   "count": 34,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 20
+   "uniques": 21
   },
   {
-   "count": 4,
+   "count": 8,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
    "title": "/tree/main/Black_Hack",
-   "uniques": 1
+   "uniques": 2
   },
   {
    "count": 3,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack/105px",
    "title": "/tree/main/Black_Hack/105px",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/blob/main/.gitignore",
+   "title": "/blob/main/.gitignore",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/blob/main/LICENSE",
+   "title": "/blob/main/LICENSE",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/blob/main/fond.png",
+   "title": "/blob/main/fond.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/blob/main/generate_theme.py",
+   "title": "/blob/main/generate_theme.py",
    "uniques": 1
   },
   {
@@ -29,12 +59,6 @@
    "count": 1,
    "path": "/koua29/bruce-black-hack-theme/commits/main/Black_Hack/105px",
    "title": "/commits/main/Black_Hack/105px",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/tree/main",
-   "title": "/tree/main",
    "uniques": 1
   }
  ],
@@ -197,6 +221,12 @@
    "watchers": 0
   },
   "2026-09-29": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-09-30": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -400,6 +430,42 @@
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 3,
+   "views": 4
+  },
+  "2026-09-24": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-09-25": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-26": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "view_uniques": 2,
+   "views": 2
+  },
+  "2026-09-27": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 2
+  },
+  "2026-09-28": {
+   "clone_uniques": 2,
+   "clones": 3,
+   "view_uniques": 3,
+   "views": 10
+  },
+  "2026-09-29": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
    "views": 4
   }
  },

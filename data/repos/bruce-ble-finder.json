@@ -2,45 +2,33 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 48,
+   "count": 42,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 24
-  },
-  {
-   "count": 6,
-   "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
-   "title": "/blob/main/BLE Finder.js",
-   "uniques": 5
+   "uniques": 27
   },
   {
    "count": 5,
-   "path": "/koua29/bruce-ble-finder/tree/main/docs",
-   "title": "/tree/main/docs",
+   "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
+   "title": "/blob/main/BLE Finder.js",
    "uniques": 4
   },
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-ble-finder/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 3,
-   "path": "/koua29/bruce-ble-finder/blob/main/docs/radar.jpg",
-   "title": "/blob/main/docs/radar.jpg",
-   "uniques": 3
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-ble-finder/pulls",
-   "title": "/pulls",
+   "path": "/koua29/bruce-ble-finder/tree/main/docs",
+   "title": "/tree/main/docs",
    "uniques": 2
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-ble-finder/tree/main",
-   "title": "/tree/main",
+   "path": "/koua29/bruce-ble-finder/blob/main/docs/radar.jpg",
+   "title": "/blob/main/docs/radar.jpg",
    "uniques": 2
   },
   {
@@ -60,19 +48,31 @@
    "path": "/koua29/bruce-ble-finder/blob/main/docs/paypal-qr.png",
    "title": "/blob/main/docs/paypal-qr.png",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-ble-finder/commit/85fcd1b386af9803b7a631be0dda221a43c5ffb0",
+   "title": "/commit/85fcd1b386af9803b7a631be0dda221a43c5ffb0",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-ble-finder/edit/main/BLE Finder.js",
+   "title": "/edit/main/BLE Finder.js",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 38,
+   "count": 31,
    "referrer": "github.com",
-   "uniques": 16
+   "uniques": 17
   },
   {
-   "count": 10,
+   "count": 3,
    "referrer": "Google",
-   "uniques": 6
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -335,6 +335,12 @@
    "watchers": 0
   },
   "2026-09-29": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-09-30": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -659,6 +665,42 @@
    "clones": 1,
    "view_uniques": 4,
    "views": 5
+  },
+  "2026-09-24": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 2
+  },
+  "2026-09-25": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 2
+  },
+  "2026-09-26": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 3,
+   "views": 3
+  },
+  "2026-09-27": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-28": {
+   "clone_uniques": 1,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-29": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 4,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

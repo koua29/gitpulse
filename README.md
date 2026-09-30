@@ -119,11 +119,11 @@ GitPulse collects **public repos only** (`visibility=public`, plus a defensive f
 
 ## 📚 Recommended reading / À lire
 
-Books on *vibe coding*, Git & GitHub — Amazon affiliate links:
+Books on coding, Git & GitHub — Amazon affiliate links:
 
-| [<img src="docs/img/amazon-1394159161.jpg" width="200" alt="GitHub For Dummies">](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-B0FPGHVGD8.jpg" width="200" alt="Vibe Coding">](https://www.amazon.com/dp/B0FPGHVGD8?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-B0F6S5425Y.jpg" width="200" alt="Beyond Vibe Coding">](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) |
+| [<img src="docs/img/amazon-1394159161.jpg" width="200" alt="GitHub For Dummies">](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-0135957052.jpg" width="200" alt="The Pragmatic Programmer">](https://www.amazon.com/dp/0135957052?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-B0F6S5425Y.jpg" width="200" alt="Beyond Vibe Coding">](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl) |
 |:---:|:---:|:---:|
-| 🐙 **[GitHub For Dummies](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Le contrôle de version et les pull requests, pas à pas</sub> | 🤖 **[Vibe Coding](https://www.amazon.com/dp/B0FPGHVGD8?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Du logiciel de production avec l'IA et les agents</sub> | ⚡ **[Beyond Vibe Coding](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Du codeur au développeur de l'ère IA</sub> |
+| 🐙 **[GitHub For Dummies](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Le contrôle de version et les pull requests, pas à pas</sub> | 📘 **[The Pragmatic Programmer](https://www.amazon.com/dp/0135957052?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Le classique du métier, 20 ans après</sub> | ⚡ **[Beyond Vibe Coding](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29-20&ref_=as_li_ss_tl)**<br><sub>Du codeur au développeur de l'ère IA</sub> |
 
 <sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
 

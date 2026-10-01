@@ -9,12 +9,6 @@
   },
   {
    "count": 1,
-   "path": "/koua29/pidog-groove/issues",
-   "title": "/issues",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/pidog-groove/pulls",
    "title": "/pulls",
    "uniques": 1
@@ -251,6 +245,12 @@
    "watchers": 0
   },
   "2026-09-30": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-01": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -555,6 +555,12 @@
   "2026-09-29": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-09-30": {
+   "clone_uniques": 13,
+   "clones": 19,
    "view_uniques": 0,
    "views": 0
   }

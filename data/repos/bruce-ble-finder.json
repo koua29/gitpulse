@@ -2,16 +2,16 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 42,
+   "count": 38,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 26
+   "uniques": 24
   },
   {
-   "count": 5,
+   "count": 4,
    "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
    "title": "/blob/main/BLE Finder.js",
-   "uniques": 4
+   "uniques": 3
   },
   {
    "count": 1,
@@ -21,20 +21,8 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/bruce-ble-finder/blob/main/docs/hero.jpg",
    "title": "/blob/main/docs/hero.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/main/docs/radar.jpg",
-   "title": "/blob/main/docs/radar.jpg",
    "uniques": 1
   },
   {
@@ -54,20 +42,14 @@
    "path": "/koua29/bruce-ble-finder/tree/main",
    "title": "/tree/main",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/tree/main/docs",
-   "title": "/tree/main/docs",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 28,
+   "count": 25,
    "referrer": "github.com",
-   "uniques": 16
+   "uniques": 15
   },
   {
    "count": 3,
@@ -353,6 +335,12 @@
    "watchers": 0
   },
   "2026-10-02": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-10-03": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -725,6 +713,12 @@
    "clones": 2,
    "view_uniques": 2,
    "views": 7
+  },
+  "2026-10-02": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

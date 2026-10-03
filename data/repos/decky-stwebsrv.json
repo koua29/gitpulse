@@ -8,7 +8,7 @@
    "uniques": 5
   },
   {
-   "count": 12,
+   "count": 7,
    "path": "/koua29/decky-stwebsrv/releases/tag/v0.1.0",
    "title": "/releases/tag/v0.1.0",
    "uniques": 1
@@ -35,7 +35,7 @@
  "private": false,
  "referrers": [
   {
-   "count": 41,
+   "count": 36,
    "referrer": "reddit.com",
    "uniques": 1
   },
@@ -155,6 +155,12 @@
    "watchers": 0
   },
   "2026-10-02": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-03": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -351,6 +357,12 @@
   "2026-10-01": {
    "clone_uniques": 7,
    "clones": 14,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-02": {
+   "clone_uniques": 3,
+   "clones": 3,
    "view_uniques": 0,
    "views": 0
   }

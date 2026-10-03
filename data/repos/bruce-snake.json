@@ -2,10 +2,10 @@
  "name": "bruce-snake",
  "paths": [
   {
-   "count": 9,
+   "count": 7,
    "path": "/koua29/bruce-snake",
    "title": "Overview",
-   "uniques": 7
+   "uniques": 5
   },
   {
    "count": 4,
@@ -68,11 +68,6 @@
    "count": 4,
    "referrer": "Google",
    "uniques": 3
-  },
-  {
-   "count": 2,
-   "referrer": "github.com",
-   "uniques": 2
   }
  ],
  "snapshots": {
@@ -353,6 +348,12 @@
    "watchers": 0
   },
   "2026-10-02": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-03": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -725,6 +726,12 @@
    "clones": 1,
    "view_uniques": 2,
    "views": 4
+  },
+  "2026-10-02": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-snake"

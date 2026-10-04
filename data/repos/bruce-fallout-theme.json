@@ -2,63 +2,45 @@
  "name": "bruce-fallout-theme",
  "paths": [
   {
-   "count": 17,
+   "count": 15,
    "path": "/koua29/bruce-fallout-theme",
    "title": "Overview",
-   "uniques": 14
-  },
-  {
-   "count": 4,
-   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy",
-   "title": "/tree/main/Fallout_PipBoy",
-   "uniques": 4
+   "uniques": 13
   },
   {
    "count": 3,
-   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy/192px",
-   "title": "/tree/main/Fallout_PipBoy/192px",
-   "uniques": 2
+   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy",
+   "title": "/tree/main/Fallout_PipBoy",
+   "uniques": 3
   },
   {
-   "count": 2,
+   "count": 1,
+   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/180px/Clock.png",
+   "title": "/blob/main/Fallout_PipBoy/180px/Clock.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/192px/Config.png",
+   "title": "/blob/main/Fallout_PipBoy/192px/Config.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-fallout-theme/blob/main/docs/hero.png",
+   "title": "/blob/main/docs/hero.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy/180px",
    "title": "/tree/main/Fallout_PipBoy/180px",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/105px/Fm.png",
-   "title": "/blob/main/Fallout_PipBoy/105px/Fm.png",
-   "uniques": 1
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy/140px",
-   "title": "/tree/main/Fallout_PipBoy/140px",
    "uniques": 1
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/105px/Ble.png",
-   "title": "/blob/main/Fallout_PipBoy/105px/Ble.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/105px/Clock.png",
-   "title": "/blob/main/Fallout_PipBoy/105px/Clock.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/105px/Eth.png",
-   "title": "/blob/main/Fallout_PipBoy/105px/Eth.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/105px/Files.png",
-   "title": "/blob/main/Fallout_PipBoy/105px/Files.png",
+   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy/192px",
+   "title": "/tree/main/Fallout_PipBoy/192px",
    "uniques": 1
   }
  ],
@@ -70,9 +52,9 @@
    "uniques": 9
   },
   {
-   "count": 5,
+   "count": 3,
    "referrer": "bruce.computer",
-   "uniques": 4
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -311,6 +293,12 @@
    "watchers": 0
   },
   "2026-10-03": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-04": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -635,6 +623,12 @@
    "clones": 2,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-03": {
+   "clone_uniques": 3,
+   "clones": 5,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-fallout-theme"

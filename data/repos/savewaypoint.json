@@ -2,28 +2,10 @@
  "name": "savewaypoint",
  "paths": [
   {
-   "count": 6,
+   "count": 2,
    "path": "/koua29/savewaypoint",
    "title": "Overview",
-   "uniques": 3
-  },
-  {
-   "count": 6,
-   "path": "/koua29/savewaypoint/releases",
-   "title": "/releases",
-   "uniques": 1
-  },
-  {
-   "count": 3,
-   "path": "/koua29/savewaypoint/releases/tag/v0.1.0",
-   "title": "/releases/tag/v0.1.0",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/savewaypoint/branches",
-   "title": "/branches",
-   "uniques": 1
+   "uniques": 2
   },
   {
    "count": 1,
@@ -39,13 +21,7 @@
   }
  ],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-09-20": {
    "forks": 0,
@@ -126,6 +102,12 @@
    "watchers": 0
   },
   "2026-10-03": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-10-04": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -292,6 +274,12 @@
   "2026-10-02": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-03": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

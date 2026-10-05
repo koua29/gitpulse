@@ -2,10 +2,10 @@
  "name": "bruce-baby-theme",
  "paths": [
   {
-   "count": 6,
+   "count": 5,
    "path": "/koua29/bruce-baby-theme",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 5
   },
   {
    "count": 1,
@@ -17,12 +17,6 @@
    "count": 1,
    "path": "/koua29/bruce-baby-theme/commit/009e6964edbb15d44575a40c55f69ddfde8de97e",
    "title": "/commit/009e6964edbb15d44575a40c55f69ddfde8de97e",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-baby-theme/tree/main/Baby_Toy2",
-   "title": "/tree/main/Baby_Toy2",
    "uniques": 1
   }
  ],
@@ -270,6 +264,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -586,6 +586,12 @@
   "2026-10-03": {
    "clone_uniques": 1,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-04": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

@@ -2,27 +2,15 @@
  "name": "decky-stwebsrv",
  "paths": [
   {
-   "count": 35,
+   "count": 36,
    "path": "/koua29/decky-stwebsrv",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 6
   },
   {
    "count": 1,
    "path": "/koua29/decky-stwebsrv/issues",
    "title": "/issues",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/decky-stwebsrv/pulls",
-   "title": "/pulls",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/decky-stwebsrv/releases/tag/v0.1.0",
-   "title": "/releases/tag/v0.1.0",
    "uniques": 1
   },
   {
@@ -40,9 +28,9 @@
    "uniques": 2
   },
   {
-   "count": 3,
+   "count": 4,
    "referrer": "github.com",
-   "uniques": 2
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -167,6 +155,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -377,6 +371,12 @@
    "clones": 4,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-04": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/decky-stwebsrv"

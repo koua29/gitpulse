@@ -8,36 +8,6 @@
    "uniques": 15
   },
   {
-   "count": 2,
-   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
-   "title": "/tree/main/Wheel_Dark",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/ble.png",
-   "title": "/blob/main/Wheel_Dark/ble.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/clock.png",
-   "title": "/blob/main/Wheel_Dark/clock.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Light/clock.png",
-   "title": "/blob/main/Wheel_Light/clock.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Light/ethernet.png",
-   "title": "/blob/main/Wheel_Light/ethernet.png",
-   "uniques": 1
-  },
-  {
    "count": 1,
    "path": "/koua29/bruce-wheel-theme/pulls",
    "title": "/pulls",
@@ -54,20 +24,14 @@
    "path": "/koua29/bruce-wheel-theme/tags",
    "title": "/tags",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Light",
-   "title": "/tree/main/Wheel_Light",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 10,
+   "count": 11,
    "referrer": "github.com",
-   "uniques": 10
+   "uniques": 11
   }
  ],
  "snapshots": {
@@ -360,6 +324,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -742,6 +712,12 @@
   "2026-10-03": {
    "clone_uniques": 4,
    "clones": 5,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-10-04": {
+   "clone_uniques": 2,
+   "clones": 2,
    "view_uniques": 1,
    "views": 1
   }

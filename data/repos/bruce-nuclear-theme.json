@@ -2,34 +2,22 @@
  "name": "bruce-nuclear-theme",
  "paths": [
   {
-   "count": 17,
+   "count": 16,
    "path": "/koua29/bruce-nuclear-theme",
    "title": "Overview",
-   "uniques": 15
+   "uniques": 14
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal",
    "title": "/tree/main/Nuclear_Terminal",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 2,
    "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal/192px",
    "title": "/tree/main/Nuclear_Terminal/192px",
    "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/blob/main/.DS_Store",
-   "title": "/blob/main/.DS_Store",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/blob/main/Nuclear_Terminal/180px/Ble.png",
-   "title": "/blob/main/Nuclear_Terminal/180px/Ble.png",
-   "uniques": 1
   },
   {
    "count": 1,
@@ -47,12 +35,6 @@
    "count": 1,
    "path": "/koua29/bruce-nuclear-theme/blob/main/docs/hero.png",
    "title": "/blob/main/docs/hero.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal/180px",
-   "title": "/tree/main/Nuclear_Terminal/180px",
    "uniques": 1
   }
  ],
@@ -306,6 +288,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -634,6 +622,12 @@
   "2026-10-03": {
    "clone_uniques": 2,
    "clones": 3,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-04": {
+   "clone_uniques": 2,
+   "clones": 2,
    "view_uniques": 0,
    "views": 0
   }

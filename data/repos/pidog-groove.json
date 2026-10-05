@@ -2,19 +2,14 @@
  "name": "pidog-groove",
  "paths": [
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/pidog-groove",
    "title": "Overview",
-   "uniques": 2
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
-  {
-   "count": 1,
-   "referrer": "forum.sunfounder.com",
-   "uniques": 1
-  },
   {
    "count": 1,
    "referrer": "github.com",
@@ -263,6 +258,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -591,6 +592,12 @@
   "2026-10-03": {
    "clone_uniques": 3,
    "clones": 4,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-04": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

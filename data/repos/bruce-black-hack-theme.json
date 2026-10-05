@@ -2,21 +2,15 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 22,
+   "count": 18,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 19
+   "uniques": 16
   },
   {
-   "count": 8,
+   "count": 4,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
    "title": "/tree/main/Black_Hack",
-   "uniques": 2
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack/105px",
-   "title": "/tree/main/Black_Hack/105px",
    "uniques": 1
   },
   {
@@ -51,23 +45,17 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/commit/2e7df9f484299e2c742fc85595159199e9d7adc9",
-   "title": "/commit/2e7df9f484299e2c742fc85595159199e9d7adc9",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/commits/main/Black_Hack/105px",
-   "title": "/commits/main/Black_Hack/105px",
+   "path": "/koua29/bruce-black-hack-theme/releases",
+   "title": "/releases",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 13,
+   "count": 12,
    "referrer": "github.com",
-   "uniques": 12
+   "uniques": 11
   },
   {
    "count": 1,
@@ -251,6 +239,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -513,6 +507,12 @@
   "2026-10-03": {
    "clone_uniques": 1,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-04": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

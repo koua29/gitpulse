@@ -2,10 +2,10 @@
  "name": "bruce-flock-detector",
  "paths": [
   {
-   "count": 80,
+   "count": 82,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 59
+   "uniques": 62
   },
   {
    "count": 18,
@@ -14,10 +14,10 @@
    "uniques": 13
   },
   {
-   "count": 9,
+   "count": 7,
    "path": "/koua29/bruce-flock-detector/tree/main/docs",
    "title": "/tree/main/docs",
-   "uniques": 8
+   "uniques": 7
   },
   {
    "count": 3,
@@ -30,12 +30,6 @@
    "path": "/koua29/bruce-flock-detector/issues",
    "title": "/issues",
    "uniques": 3
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-flock-detector/blob/main/docs/amazon-B0C1FCZM94.jpg",
-   "title": "/blob/main/docs/amazon-B0C1FCZM94.jpg",
-   "uniques": 2
   },
   {
    "count": 2,
@@ -59,6 +53,12 @@
    "count": 1,
    "path": "/koua29/bruce-flock-detector/activity",
    "title": "/activity",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-flock-detector/blob/main/LICENSE",
+   "title": "/blob/main/LICENSE",
    "uniques": 1
   }
  ],
@@ -365,6 +365,12 @@
    "watchers": 0
   },
   "2026-10-04": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 18,
+   "watchers": 0
+  },
+  "2026-10-05": {
    "forks": 1,
    "open_issues": 0,
    "stars": 18,
@@ -749,6 +755,12 @@
    "clones": 5,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-04": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 3,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

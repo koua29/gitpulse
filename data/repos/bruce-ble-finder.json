@@ -5,18 +5,24 @@
    "count": 31,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 22
+   "uniques": 24
+  },
+  {
+   "count": 3,
+   "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
+   "title": "/blob/main/BLE Finder.js",
+   "uniques": 3
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
-   "title": "/blob/main/BLE Finder.js",
+   "path": "/koua29/bruce-ble-finder/issues",
+   "title": "/issues",
    "uniques": 2
   },
   {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/85fcd1b386af9803b7a631be0dda221a43c5ffb0/BLE Finder.js",
-   "title": "/blob/85fcd1b386af9803b7a631be0dda221a43c5ffb0/BLE Finder.js",
+   "count": 2,
+   "path": "/koua29/bruce-ble-finder/tree/main",
+   "title": "/tree/main",
    "uniques": 1
   },
   {
@@ -27,32 +33,26 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-ble-finder/commit/85fcd1b386af9803b7a631be0dda221a43c5ffb0",
-   "title": "/commit/85fcd1b386af9803b7a631be0dda221a43c5ffb0",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/issues",
-   "title": "/issues",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/bruce-ble-finder/pulls",
    "title": "/pulls",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-ble-finder/tree/main/docs",
+   "title": "/tree/main/docs",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 17,
+   "count": 16,
    "referrer": "github.com",
-   "uniques": 12
+   "uniques": 14
   },
   {
-   "count": 3,
+   "count": 4,
    "referrer": "Google",
    "uniques": 3
   }
@@ -356,6 +356,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
+   "watchers": 0
+  },
+  "2026-10-06": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
    "watchers": 0
   }
  },
@@ -743,6 +749,12 @@
    "clones": 2,
    "view_uniques": 3,
    "views": 3
+  },
+  "2026-10-05": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 6,
+   "views": 10
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

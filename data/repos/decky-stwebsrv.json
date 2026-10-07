@@ -2,7 +2,7 @@
  "name": "decky-stwebsrv",
  "paths": [
   {
-   "count": 36,
+   "count": 32,
    "path": "/koua29/decky-stwebsrv",
    "title": "Overview",
    "uniques": 6
@@ -17,7 +17,7 @@
  "private": false,
  "referrers": [
   {
-   "count": 31,
+   "count": 27,
    "referrer": "reddit.com",
    "uniques": 2
   },
@@ -161,6 +161,12 @@
    "watchers": 0
   },
   "2026-10-06": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-07": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -381,6 +387,12 @@
   "2026-10-05": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-06": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

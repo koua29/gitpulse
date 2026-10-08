@@ -2,48 +2,18 @@
  "name": "wifi-auditor",
  "paths": [
   {
-   "count": 5,
+   "count": 3,
    "path": "/koua29/wifi-auditor",
    "title": "Overview",
-   "uniques": 4
-  },
-  {
-   "count": 2,
-   "path": "/koua29/wifi-auditor/blob/main/docs/webui.png",
-   "title": "/blob/main/docs/webui.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/wifi-auditor/blob/main/WiFi Auditor.command",
-   "title": "/blob/main/WiFi Auditor.command",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/wifi-auditor/blob/main/ui.html",
-   "title": "/blob/main/ui.html",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/wifi-auditor/tree/main/docs",
-   "title": "/tree/main/docs",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/wifi-auditor/tree/main/wordlists",
-   "title": "/tree/main/wordlists",
-   "uniques": 1
+   "uniques": 2
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -288,6 +258,12 @@
    "watchers": 0
   },
   "2026-10-07": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-08": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -616,6 +592,12 @@
   "2026-10-06": {
    "clone_uniques": 1,
    "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-07": {
+   "clone_uniques": 1,
+   "clones": 4,
    "view_uniques": 0,
    "views": 0
   }

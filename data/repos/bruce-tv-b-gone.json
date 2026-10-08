@@ -2,27 +2,21 @@
  "name": "bruce-tv-b-gone",
  "paths": [
   {
-   "count": 19,
+   "count": 12,
    "path": "/koua29/bruce-tv-b-gone",
    "title": "Overview",
-   "uniques": 18
+   "uniques": 12
   },
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-tv-b-gone/blob/main/TV-B-Gone.js",
    "title": "/blob/main/TV-B-Gone.js",
-   "uniques": 4
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-tv-b-gone/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 2
+   "uniques": 3
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-tv-b-gone/blob/main/tvbgone.ir",
-   "title": "/blob/main/tvbgone.ir",
+   "path": "/koua29/bruce-tv-b-gone/blob/main/README.md",
+   "title": "/blob/main/README.md",
    "uniques": 1
   },
   {
@@ -35,14 +29,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 16,
+   "count": 10,
    "referrer": "github.com",
-   "uniques": 15
-  },
-  {
-   "count": 1,
-   "referrer": "Google",
-   "uniques": 1
+   "uniques": 10
   }
  ],
  "snapshots": {
@@ -353,6 +342,12 @@
    "watchers": 0
   },
   "2026-10-07": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-10-08": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -755,6 +750,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 2
+  },
+  "2026-10-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-tv-b-gone"

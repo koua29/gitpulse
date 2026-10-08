@@ -2,10 +2,10 @@
  "name": "bruce-nuclear-theme",
  "paths": [
   {
-   "count": 13,
+   "count": 11,
    "path": "/koua29/bruce-nuclear-theme",
    "title": "Overview",
-   "uniques": 12
+   "uniques": 10
   },
   {
    "count": 2,
@@ -41,9 +41,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 11,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 10
+   "uniques": 8
   }
  ],
  "snapshots": {
@@ -306,6 +306,12 @@
    "watchers": 0
   },
   "2026-10-07": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-08": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -654,6 +660,12 @@
    "clones": 2,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-nuclear-theme"

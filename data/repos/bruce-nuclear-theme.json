@@ -2,48 +2,36 @@
  "name": "bruce-nuclear-theme",
  "paths": [
   {
-   "count": 11,
+   "count": 8,
    "path": "/koua29/bruce-nuclear-theme",
    "title": "Overview",
-   "uniques": 10
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal",
-   "title": "/tree/main/Nuclear_Terminal",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal/192px",
-   "title": "/tree/main/Nuclear_Terminal/192px",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/blob/main/Nuclear_Terminal/192px/Config.png",
-   "title": "/blob/main/Nuclear_Terminal/192px/Config.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-nuclear-theme/blob/main/Nuclear_Terminal/192px/Wifi.png",
-   "title": "/blob/main/Nuclear_Terminal/192px/Wifi.png",
-   "uniques": 1
+   "uniques": 7
   },
   {
    "count": 1,
    "path": "/koua29/bruce-nuclear-theme/blob/main/docs/hero.png",
    "title": "/blob/main/docs/hero.png",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal",
+   "title": "/tree/main/Nuclear_Terminal",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal/192px",
+   "title": "/tree/main/Nuclear_Terminal/192px",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 9,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 8
+   "uniques": 6
   }
  ],
  "snapshots": {
@@ -312,6 +300,12 @@
    "watchers": 0
   },
   "2026-10-08": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-09": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -666,6 +660,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-08": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-nuclear-theme"

@@ -2,16 +2,10 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 8,
+   "count": 6,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 8
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
-   "title": "/tree/main/White HUD",
-   "uniques": 1
+   "uniques": 6
   },
   {
    "count": 1,
@@ -29,12 +23,6 @@
    "count": 1,
    "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Files.gif",
    "title": "/blob/main/Blue HUD/Files.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/tree/main",
-   "title": "/tree/main",
    "uniques": 1
   },
   {
@@ -378,6 +366,12 @@
    "watchers": 0
   },
   "2026-10-09": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-10": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -792,6 +786,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-09": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

@@ -2,72 +2,30 @@
  "name": "bruce-snake",
  "paths": [
   {
-   "count": 8,
+   "count": 6,
    "path": "/koua29/bruce-snake",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 5
   },
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-snake/blob/main/Snake.js",
    "title": "/blob/main/Snake.js",
-   "uniques": 4
+   "uniques": 3
   },
   {
    "count": 2,
    "path": "/koua29/bruce-snake/blob/main/README.md",
    "title": "/blob/main/README.md",
    "uniques": 1
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-snake/tree/main/docs",
-   "title": "/tree/main/docs",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/docs/amazon-B0B7NVMBPL.jpg",
-   "title": "/blob/main/docs/amazon-B0B7NVMBPL.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/docs/amazon-B0C1FCZM94.jpg",
-   "title": "/blob/main/docs/amazon-B0C1FCZM94.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/docs/amazon-B0GXB24SRR.jpg",
-   "title": "/blob/main/docs/amazon-B0GXB24SRR.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/docs/gameover.jpg",
-   "title": "/blob/main/docs/gameover.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/docs/menu.jpg",
-   "title": "/blob/main/docs/menu.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/docs/paypal-qr.png",
-   "title": "/blob/main/docs/paypal-qr.png",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 3,
    "referrer": "Google",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 1,
@@ -395,6 +353,12 @@
    "watchers": 0
   },
   "2026-10-09": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-10": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -805,6 +769,12 @@
    "views": 0
   },
   "2026-10-08": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-09": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

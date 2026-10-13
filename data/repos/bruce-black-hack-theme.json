@@ -2,51 +2,27 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 11,
+   "count": 9,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 8
+   "uniques": 6
   },
   {
-   "count": 5,
+   "count": 4,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
    "title": "/tree/main/Black_Hack",
    "uniques": 2
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/bruce-black-hack-theme/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 2
+   "uniques": 1
   },
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/bruce-black-hack-theme/blob/main/fond.png",
    "title": "/blob/main/fond.png",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/.gitignore",
-   "title": "/blob/main/.gitignore",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/LICENSE",
-   "title": "/blob/main/LICENSE",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/generate_theme.py",
-   "title": "/blob/main/generate_theme.py",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/releases",
-   "title": "/releases",
    "uniques": 1
   }
  ],
@@ -282,6 +258,12 @@
    "watchers": 0
   },
   "2026-10-12": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-10-13": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -594,6 +576,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 6
+  },
+  "2026-10-12": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-black-hack-theme"

@@ -2,10 +2,10 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 27,
+   "count": 30,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 17
+   "uniques": 19
   },
   {
    "count": 6,
@@ -14,7 +14,7 @@
    "uniques": 6
   },
   {
-   "count": 3,
+   "count": 4,
    "path": "/koua29/bruce-ble-finder/issues",
    "title": "/issues",
    "uniques": 3
@@ -47,9 +47,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 11,
+   "count": 14,
    "referrer": "github.com",
-   "uniques": 7
+   "uniques": 9
   },
   {
    "count": 5,
@@ -395,6 +395,12 @@
    "watchers": 0
   },
   "2026-10-12": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 8,
+   "watchers": 0
+  },
+  "2026-10-13": {
    "forks": 0,
    "open_issues": 0,
    "stars": 8,
@@ -827,6 +833,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-12": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 3,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-ble-finder"

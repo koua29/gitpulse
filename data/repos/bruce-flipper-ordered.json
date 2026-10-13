@@ -2,45 +2,15 @@
  "name": "bruce-flipper-ordered",
  "paths": [
   {
-   "count": 8,
+   "count": 7,
    "path": "/koua29/bruce-flipper-ordered",
    "title": "Overview",
-   "uniques": 8
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flipper-ordered/blob/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px/11.png",
-   "title": "/blob/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px/11.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flipper-ordered/blob/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px/13.png",
-   "title": "/blob/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px/13.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flipper-ordered/blob/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px/Theme_Flipper_Bruce_Complete_Black_By_anonimoKali.json",
-   "title": "/blob/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px/Theme_Flipper_Bruce_Complete_Black_By_anonimoKali.json",
-   "uniques": 1
+   "uniques": 7
   },
   {
    "count": 1,
    "path": "/koua29/bruce-flipper-ordered/blob/main/Flipper_Bruce_Complete_By_anonimoKali/140px/Theme_Flipper_Bruce_Complete_By_anonimoKali.json",
    "title": "/blob/main/Flipper_Bruce_Complete_By_anonimoKali/140px/Theme_Flipper_Bruce_Complete_By_anonimoKali.json",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flipper-ordered/tree/main/Flipper_Bruce_Complete_Black_By_anonimoKali",
-   "title": "/tree/main/Flipper_Bruce_Complete_Black_By_anonimoKali",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flipper-ordered/tree/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px",
-   "title": "/tree/main/Flipper_Bruce_Complete_Black_By_anonimoKali/192px",
    "uniques": 1
   },
   {
@@ -59,9 +29,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 6,
+   "count": 5,
    "referrer": "github.com",
-   "uniques": 6
+   "uniques": 5
   }
  ],
  "snapshots": {
@@ -402,6 +372,12 @@
    "watchers": 0
   },
   "2026-10-12": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-10-13": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -830,6 +806,12 @@
    "views": 0
   },
   "2026-10-11": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-12": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

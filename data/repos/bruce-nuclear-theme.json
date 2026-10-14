@@ -9,8 +9,32 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-nuclear-theme/actions",
+   "title": "/actions",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-nuclear-theme/blob/main/Nuclear_Terminal/180px/Ble.png",
+   "title": "/blob/main/Nuclear_Terminal/180px/Ble.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-nuclear-theme/blob/main/docs/hero.png",
    "title": "/blob/main/docs/hero.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal",
+   "title": "/tree/main/Nuclear_Terminal",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-nuclear-theme/tree/main/Nuclear_Terminal/180px",
+   "title": "/tree/main/Nuclear_Terminal/180px",
    "uniques": 1
   }
  ],
@@ -318,6 +342,12 @@
    "watchers": 0
   },
   "2026-10-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -702,6 +732,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-13": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-nuclear-theme"

@@ -2,29 +2,58 @@
  "name": "bruce-wheel-theme",
  "paths": [
   {
-   "count": 11,
+   "count": 13,
    "path": "/koua29/bruce-wheel-theme",
    "title": "Overview",
-   "uniques": 11
+   "uniques": 13
+  },
+  {
+   "count": 3,
+   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
+   "title": "/tree/main/Wheel_Dark",
+   "uniques": 3
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/config.png",
+   "title": "/blob/main/Wheel_Dark/config.png",
+   "uniques": 2
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
-   "title": "/tree/main/Wheel_Dark",
+   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/interpreter.png",
+   "title": "/blob/main/Wheel_Dark/interpreter.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Light/rf.png",
+   "title": "/blob/main/Wheel_Light/rf.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Light",
+   "title": "/tree/main/Wheel_Light",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 10,
    "referrer": "github.com",
-   "uniques": 8
+   "uniques": 10
   },
   {
    "count": 2,
    "referrer": "Google",
    "uniques": 2
+  },
+  {
+   "count": 1,
+   "referrer": "search.brave.com",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -371,6 +400,12 @@
    "watchers": 0
   },
   "2026-10-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -809,6 +844,12 @@
    "clones": 0,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-10-13": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 3,
+   "views": 10
   }
  },
  "url": "https://github.com/koua29/bruce-wheel-theme"

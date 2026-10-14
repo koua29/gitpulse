@@ -9,6 +9,12 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-lilygo-base-ordered/blob/main/180px/Connect.png",
+   "title": "/blob/main/180px/Connect.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-lilygo-base-ordered/commits",
    "title": "/commits",
    "uniques": 1
@@ -27,8 +33,8 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-lilygo-base-ordered/tree/main/140px",
-   "title": "/tree/main/140px",
+   "path": "/koua29/bruce-lilygo-base-ordered/tree/main/180px",
+   "title": "/tree/main/180px",
    "uniques": 1
   }
  ],
@@ -384,6 +390,12 @@
    "watchers": 0
   },
   "2026-10-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-10-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -822,6 +834,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-13": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-lilygo-base-ordered"

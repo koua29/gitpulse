@@ -2,16 +2,16 @@
  "name": "bruce-sqli-tester",
  "paths": [
   {
-   "count": 8,
+   "count": 6,
    "path": "/koua29/bruce-sqli-tester",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 4
   },
   {
-   "count": 5,
+   "count": 4,
    "path": "/koua29/bruce-sqli-tester/blob/main/SQL Injection.js",
    "title": "/blob/main/SQL Injection.js",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 1,
@@ -29,9 +29,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 2,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -378,6 +378,12 @@
    "watchers": 0
   },
   "2026-10-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-10-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -816,6 +822,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 2
+  },
+  "2026-10-13": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-sqli-tester"

@@ -1,19 +1,6 @@
 {
  "name": "leboncoin-mcp",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/leboncoin-mcp",
-   "title": "Overview",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/leboncoin-mcp/releases/tag/v1.0.0",
-   "title": "/releases/tag/v1.0.0",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
  "referrers": [],
  "snapshots": {
@@ -162,6 +149,12 @@
    "watchers": 0
   },
   "2026-10-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -392,6 +385,12 @@
    "views": 0
   },
   "2026-10-12": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-13": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

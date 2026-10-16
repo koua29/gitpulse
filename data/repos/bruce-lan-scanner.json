@@ -2,16 +2,16 @@
  "name": "bruce-lan-scanner",
  "paths": [
   {
-   "count": 10,
+   "count": 3,
    "path": "/koua29/bruce-lan-scanner",
    "title": "Overview",
-   "uniques": 8
+   "uniques": 3
   },
   {
-   "count": 3,
+   "count": 1,
    "path": "/koua29/bruce-lan-scanner/blob/main/Lan Scanner.js",
    "title": "/blob/main/Lan Scanner.js",
-   "uniques": 3
+   "uniques": 1
   },
   {
    "count": 1,
@@ -35,9 +35,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 7
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -396,6 +396,12 @@
    "watchers": 0
   },
   "2026-10-15": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-10-16": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -842,6 +848,12 @@
    "views": 1
   },
   "2026-10-14": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-15": {
    "clone_uniques": 2,
    "clones": 2,
    "view_uniques": 0,

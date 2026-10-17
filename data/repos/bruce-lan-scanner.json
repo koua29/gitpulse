@@ -24,12 +24,6 @@
    "path": "/koua29/bruce-lan-scanner/issues",
    "title": "/issues",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lan-scanner/pulls",
-   "title": "/pulls",
-   "uniques": 1
   }
  ],
  "private": false,
@@ -402,6 +396,12 @@
    "watchers": 0
   },
   "2026-10-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-10-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -856,6 +856,12 @@
   "2026-10-15": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-16": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

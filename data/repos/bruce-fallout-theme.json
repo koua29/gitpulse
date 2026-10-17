@@ -9,22 +9,40 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-fallout-theme/blob/main/Fallout_PipBoy/192px/Clock.png",
+   "title": "/blob/main/Fallout_PipBoy/192px/Clock.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-fallout-theme/commit/8218ecd2e0020b15ba1d14a2a8f0c1bb37543615",
    "title": "/commit/8218ecd2e0020b15ba1d14a2a8f0c1bb37543615",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy",
+   "title": "/tree/main/Fallout_PipBoy",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy/192px",
+   "title": "/tree/main/Fallout_PipBoy/192px",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 3,
-   "referrer": "github.com",
-   "uniques": 3
+   "count": 2,
+   "referrer": "bruce.computer",
+   "uniques": 2
   },
   {
-   "count": 1,
-   "referrer": "bruce.computer",
-   "uniques": 1
+   "count": 2,
+   "referrer": "github.com",
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -341,6 +359,12 @@
    "watchers": 0
   },
   "2026-10-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-10-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -743,6 +767,12 @@
    "clones": 1,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-fallout-theme"

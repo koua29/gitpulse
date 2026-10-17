@@ -21,12 +21,6 @@
   },
   {
    "count": 1,
-   "path": "/koua29/decky-fsg/pulls",
-   "title": "/pulls",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/decky-fsg/releases/tag/v0.4.0",
    "title": "/releases/tag/v0.4.0",
    "uniques": 1
@@ -35,14 +29,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 6,
    "referrer": "reddit.com",
-   "uniques": 4
+   "uniques": 5
   },
   {
-   "count": 3,
+   "count": 2,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -251,6 +245,12 @@
    "watchers": 0
   },
   "2026-10-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -545,6 +545,12 @@
    "clones": 1,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

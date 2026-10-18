@@ -2,22 +2,28 @@
  "name": "bruce-wheel-theme",
  "paths": [
   {
-   "count": 11,
+   "count": 14,
    "path": "/koua29/bruce-wheel-theme",
    "title": "Overview",
-   "uniques": 11
+   "uniques": 12
   },
   {
-   "count": 3,
+   "count": 4,
    "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
    "title": "/tree/main/Wheel_Dark",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 2,
    "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/config.png",
    "title": "/blob/main/Wheel_Dark/config.png",
    "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-wheel-theme/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 1
   },
   {
    "count": 1,
@@ -33,6 +39,12 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-wheel-theme/commit/cb4c928a96e8e8ccb4f76678cf7e94fdbee2fcdc",
+   "title": "/commit/cb4c928a96e8e8ccb4f76678cf7e94fdbee2fcdc",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Light",
    "title": "/tree/main/Wheel_Light",
    "uniques": 1
@@ -41,14 +53,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 8
+   "uniques": 7
   },
   {
-   "count": 2,
+   "count": 5,
    "referrer": "Google",
-   "uniques": 2
+   "uniques": 4
   },
   {
    "count": 1,
@@ -424,6 +436,12 @@
    "watchers": 0
   },
   "2026-10-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -886,6 +904,12 @@
    "clones": 3,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-17": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 7
   }
  },
  "url": "https://github.com/koua29/bruce-wheel-theme"

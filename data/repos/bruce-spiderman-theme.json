@@ -2,21 +2,21 @@
  "name": "bruce-spiderman-theme",
  "paths": [
   {
-   "count": 6,
+   "count": 5,
    "path": "/koua29/bruce-spiderman-theme",
    "title": "Overview",
-   "uniques": 5
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/grid.png",
-   "title": "/blob/main/docs/grid.png",
-   "uniques": 2
+   "uniques": 4
   },
   {
    "count": 3,
    "path": "/koua29/bruce-spiderman-theme/commits",
    "title": "/commits",
+   "uniques": 1
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/grid.png",
+   "title": "/blob/main/docs/grid.png",
    "uniques": 1
   },
   {
@@ -65,9 +65,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 3,
+   "count": 2,
    "referrer": "bruce.computer",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 2,
@@ -400,6 +400,12 @@
    "watchers": 0
   },
   "2026-10-18": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-19": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -808,6 +814,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 3
+  },
+  "2026-10-18": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-spiderman-theme"

@@ -2,22 +2,10 @@
  "name": "bruce-sqli-tester",
  "paths": [
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-sqli-tester",
    "title": "Overview",
-   "uniques": 3
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-sqli-tester/blob/main/SQL Injection.js",
-   "title": "/blob/main/SQL Injection.js",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/SQL%20Injection.js",
-   "title": "/blob/main/SQL%20Injection.js",
-   "uniques": 1
+   "uniques": 2
   },
   {
    "count": 1,
@@ -414,6 +402,12 @@
    "watchers": 0
   },
   "2026-10-19": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-10-20": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -886,6 +880,12 @@
   "2026-10-18": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-19": {
+   "clone_uniques": 2,
+   "clones": 2,
    "view_uniques": 0,
    "views": 0
   }

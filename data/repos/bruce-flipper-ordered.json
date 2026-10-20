@@ -8,6 +8,12 @@
    "uniques": 2
   },
   {
+   "count": 2,
+   "path": "/koua29/bruce-flipper-ordered/tree/main/Flipper_Bruce_Complete_Black_By_anonimoKali",
+   "title": "/tree/main/Flipper_Bruce_Complete_Black_By_anonimoKali",
+   "uniques": 1
+  },
+  {
    "count": 1,
    "path": "/koua29/bruce-flipper-ordered/activity",
    "title": "/activity",
@@ -17,13 +23,13 @@
  "private": false,
  "referrers": [
   {
-   "count": 1,
-   "referrer": "Google",
-   "uniques": 1
+   "count": 2,
+   "referrer": "github.com",
+   "uniques": 2
   },
   {
    "count": 1,
-   "referrer": "github.com",
+   "referrer": "Google",
    "uniques": 1
   }
  ],
@@ -407,6 +413,12 @@
    "watchers": 0
   },
   "2026-10-19": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-10-20": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -881,6 +893,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-19": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-flipper-ordered"

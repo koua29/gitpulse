@@ -2,10 +2,10 @@
  "name": "bruce-grille-theme",
  "paths": [
   {
-   "count": 4,
+   "count": 6,
    "path": "/koua29/bruce-grille-theme",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 3,
@@ -41,13 +41,13 @@
  "private": false,
  "referrers": [
   {
-   "count": 1,
-   "referrer": "bruce.computer",
-   "uniques": 1
+   "count": 3,
+   "referrer": "github.com",
+   "uniques": 2
   },
   {
    "count": 1,
-   "referrer": "github.com",
+   "referrer": "bruce.computer",
    "uniques": 1
   }
  ],
@@ -380,6 +380,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
+   "watchers": 0
+  },
+  "2026-10-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
    "watchers": 0
   }
  },
@@ -791,6 +797,12 @@
    "clones": 2,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-20": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-grille-theme"

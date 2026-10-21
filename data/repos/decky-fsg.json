@@ -2,10 +2,10 @@
  "name": "decky-fsg",
  "paths": [
   {
-   "count": 7,
+   "count": 6,
    "path": "/koua29/decky-fsg",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 5
   },
   {
    "count": 1,
@@ -29,9 +29,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 5,
+   "count": 4,
    "referrer": "reddit.com",
-   "uniques": 5
+   "uniques": 4
   }
  ],
  "snapshots": {
@@ -264,6 +264,12 @@
    "watchers": 0
   },
   "2026-10-20": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-21": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -582,6 +588,12 @@
    "clones": 2,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-20": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/decky-fsg"

@@ -1,27 +1,8 @@
 {
  "name": "bruce-wifi-qr",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wifi-qr",
-   "title": "Overview",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wifi-qr/blob/main/WiFi QR.js",
-   "title": "/blob/main/WiFi QR.js",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -411,6 +392,12 @@
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
    "watchers": 0
   }
  },
@@ -886,6 +873,12 @@
   "2026-10-19": {
    "clone_uniques": 1,
    "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-20": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

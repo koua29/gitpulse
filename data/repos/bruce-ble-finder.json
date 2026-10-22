@@ -2,16 +2,16 @@
  "name": "bruce-ble-finder",
  "paths": [
   {
-   "count": 12,
+   "count": 11,
    "path": "/koua29/bruce-ble-finder",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 8
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
    "title": "/blob/main/BLE Finder.js",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 1,
@@ -23,9 +23,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 5
+   "uniques": 4
   },
   {
    "count": 2,
@@ -425,6 +425,12 @@
    "watchers": 0
   },
   "2026-10-21": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 9,
+   "watchers": 0
+  },
+  "2026-10-22": {
    "forks": 0,
    "open_issues": 0,
    "stars": 9,
@@ -909,6 +915,12 @@
   "2026-10-20": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-21": {
+   "clone_uniques": 5,
+   "clones": 5,
    "view_uniques": 0,
    "views": 0
   }

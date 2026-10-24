@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-10-23T11:44:02Z",
+ "generated": "2026-10-24T11:07:23Z",
  "kpi": {
   "repos": 38,
-  "views14": 252,
+  "views14": 253,
   "stars": 107,
   "forks": 3,
   "followers": 8
@@ -580,8 +580,15 @@
    "date": "2026-10-22",
    "views": 21,
    "view_uniques": 5,
-   "clones": 44,
-   "clone_uniques": 29
+   "clones": 53,
+   "clone_uniques": 31
+  },
+  {
+   "date": "2026-10-23",
+   "views": 8,
+   "view_uniques": 4,
+   "clones": 46,
+   "clone_uniques": 36
   }
  ],
  "stars_series": [
@@ -1058,6 +1065,13 @@
    "date": "2026-10-23",
    "followers": 8,
    "public_repos": 38,
+   "total_forks": 3,
+   "total_stars": 107
+  },
+  {
+   "date": "2026-10-24",
+   "followers": 8,
+   "public_repos": 38,
    "total_stars": 107,
    "total_forks": 3
   }
@@ -1076,7 +1090,7 @@
    "private": false,
    "stars": 20,
    "forks": 1,
-   "views14": 34,
+   "views14": 38,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -1136,20 +1150,20 @@
    "url": "https://github.com/koua29/bruce-fallout-theme"
   },
   {
-   "name": "decky-fsg",
-   "private": false,
-   "stars": 4,
-   "forks": 0,
-   "views14": 8,
-   "url": "https://github.com/koua29/decky-fsg"
-  },
-  {
    "name": "bruce-ble-finder",
    "private": false,
    "stars": 9,
    "forks": 0,
-   "views14": 7,
+   "views14": 8,
    "url": "https://github.com/koua29/bruce-ble-finder"
+  },
+  {
+   "name": "bruce-launcher",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
+   "views14": 8,
+   "url": "https://github.com/koua29/bruce-launcher"
   },
   {
    "name": "bruce-grille-theme",
@@ -1158,14 +1172,6 @@
    "forks": 0,
    "views14": 7,
    "url": "https://github.com/koua29/bruce-grille-theme"
-  },
-  {
-   "name": "bruce-launcher",
-   "private": false,
-   "stars": 4,
-   "forks": 0,
-   "views14": 7,
-   "url": "https://github.com/koua29/bruce-launcher"
   },
   {
    "name": "bruce-flipper-ordered",
@@ -1200,6 +1206,14 @@
    "url": "https://github.com/koua29/bruce-ssid-safari"
   },
   {
+   "name": "decky-fsg",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
+   "views14": 4,
+   "url": "https://github.com/koua29/decky-fsg"
+  },
+  {
    "name": "bruce-baby-theme",
    "private": false,
    "stars": 1,
@@ -1228,7 +1242,7 @@
    "private": false,
    "stars": 7,
    "forks": 0,
-   "views14": 3,
+   "views14": 2,
    "url": "https://github.com/koua29/bruce-sqli-tester"
   },
   {
@@ -1371,13 +1385,13 @@
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 81,
-   "uniques": 70
+   "count": 76,
+   "uniques": 67
   },
   {
    "referrer": "Google",
-   "count": 8,
-   "uniques": 7
+   "count": 10,
+   "uniques": 9
   },
   {
    "referrer": "bruce.computer",
@@ -1395,12 +1409,12 @@
    "uniques": 3
   },
   {
-   "referrer": "forum.sunfounder.com",
-   "count": 3,
-   "uniques": 3
+   "referrer": "DuckDuckGo",
+   "count": 2,
+   "uniques": 2
   },
   {
-   "referrer": "DuckDuckGo",
+   "referrer": "forum.sunfounder.com",
    "count": 2,
    "uniques": 2
   },

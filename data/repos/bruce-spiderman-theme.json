@@ -2,12 +2,6 @@
  "name": "bruce-spiderman-theme",
  "paths": [
   {
-   "count": 5,
-   "path": "/koua29/bruce-spiderman-theme",
-   "title": "Overview",
-   "uniques": 4
-  },
-  {
    "count": 3,
    "path": "/koua29/bruce-spiderman-theme/commits",
    "title": "/commits",
@@ -15,9 +9,9 @@
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/grid.png",
-   "title": "/blob/main/docs/grid.png",
-   "uniques": 1
+   "path": "/koua29/bruce-spiderman-theme",
+   "title": "Overview",
+   "uniques": 2
   },
   {
    "count": 2,
@@ -29,18 +23,6 @@
    "count": 1,
    "path": "/koua29/bruce-spiderman-theme/blob/main/Spiderman/105px/Eth.png",
    "title": "/blob/main/Spiderman/105px/Eth.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/device.jpg",
-   "title": "/blob/main/docs/device.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-spiderman-theme/blob/main/docs/hero.png",
-   "title": "/blob/main/docs/hero.png",
    "uniques": 1
   },
   {
@@ -59,13 +41,13 @@
  "private": false,
  "referrers": [
   {
-   "count": 2,
-   "referrer": "github.com",
-   "uniques": 2
+   "count": 1,
+   "referrer": "bruce.computer",
+   "uniques": 1
   },
   {
    "count": 1,
-   "referrer": "bruce.computer",
+   "referrer": "github.com",
    "uniques": 1
   },
   {
@@ -424,6 +406,12 @@
    "watchers": 0
   },
   "2026-10-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-10-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -860,6 +848,12 @@
   "2026-10-22": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-23": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

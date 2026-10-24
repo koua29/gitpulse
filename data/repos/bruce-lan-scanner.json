@@ -12,12 +12,6 @@
    "path": "/koua29/bruce-lan-scanner/blob/main/docs/scanning.jpg",
    "title": "/blob/main/docs/scanning.jpg",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lan-scanner/issues",
-   "title": "/issues",
-   "uniques": 1
   }
  ],
  "private": false,
@@ -432,6 +426,12 @@
    "watchers": 0
   },
   "2026-10-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 8,
+   "watchers": 0
+  },
+  "2026-10-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 8,
@@ -926,6 +926,12 @@
    "views": 0
   },
   "2026-10-22": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-23": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

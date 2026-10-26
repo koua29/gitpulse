@@ -1,8 +1,75 @@
 {
  "name": "pidog-voice",
- "paths": [],
+ "paths": [
+  {
+   "count": 2,
+   "path": "/koua29/pidog-voice",
+   "title": "Overview",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/assets/demo.mp4",
+   "title": "/blob/main/assets/demo.mp4",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/commandes.json",
+   "title": "/blob/main/commandes.json",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/config.py",
+   "title": "/blob/main/config.py",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/demos/demo_table.py",
+   "title": "/blob/main/demos/demo_table.py",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/outils/lister_commandes.py",
+   "title": "/blob/main/outils/lister_commandes.py",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/pi/pidog_actions.py",
+   "title": "/blob/main/pi/pidog_actions.py",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/pi/pidog_ears.py",
+   "title": "/blob/main/pi/pidog_ears.py",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/blob/main/tests/test_filtres.py",
+   "title": "/blob/main/tests/test_filtres.py",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/tree/main/demos",
+   "title": "/tree/main/demos",
+   "uniques": 1
+  }
+ ],
  "private": false,
- "referrers": [],
+ "referrers": [
+  {
+   "count": 2,
+   "referrer": "forum.sunfounder.com",
+   "uniques": 1
+  }
+ ],
  "snapshots": {
   "2026-08-24": {
    "forks": 0,
@@ -377,6 +444,12 @@
    "watchers": 0
   },
   "2026-10-25": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-10-26": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -839,6 +912,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-25": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "view_uniques": 1,
+   "views": 17
   }
  },
  "url": "https://github.com/koua29/pidog-voice"

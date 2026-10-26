@@ -2,28 +2,16 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 13,
+   "count": 10,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 10
+   "uniques": 9
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
    "title": "/tree/main/Black_Hack",
-   "uniques": 3
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/fond.png",
-   "title": "/blob/main/fond.png",
-   "uniques": 1
+   "uniques": 2
   },
   {
    "count": 1,
@@ -35,9 +23,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 10,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 8
   }
  ],
  "snapshots": {
@@ -342,6 +330,12 @@
    "watchers": 0
   },
   "2026-10-25": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-10-26": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -732,6 +726,12 @@
    "clones": 2,
    "view_uniques": 2,
    "views": 3
+  },
+  "2026-10-25": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-black-hack-theme"

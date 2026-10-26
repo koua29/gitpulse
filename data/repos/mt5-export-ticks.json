@@ -1,27 +1,8 @@
 {
  "name": "mt5-export-ticks",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/mt5-export-ticks",
-   "title": "Overview",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/mt5-export-ticks/blob/main/ExportTicks.mq5",
-   "title": "/blob/main/ExportTicks.mq5",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -438,6 +419,12 @@
    "watchers": 0
   },
   "2026-10-25": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-10-26": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -944,6 +931,12 @@
    "views": 0
   },
   "2026-10-24": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-25": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

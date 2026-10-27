@@ -1,27 +1,8 @@
 {
  "name": "bruce-sqli-tester",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester",
-   "title": "Overview",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/scanning.jpg",
-   "title": "/blob/main/docs/scanning.jpg",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -444,6 +425,12 @@
    "watchers": 0
   },
   "2026-10-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-10-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -958,6 +945,12 @@
   "2026-10-25": {
    "clone_uniques": 1,
    "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-26": {
+   "clone_uniques": 1,
+   "clones": 2,
    "view_uniques": 0,
    "views": 0
   }

@@ -2,20 +2,14 @@
  "name": "bruce-ssid-safari",
  "paths": [
   {
-   "count": 4,
+   "count": 1,
    "path": "/koua29/bruce-ssid-safari",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 1
   }
  ],
  "private": false,
- "referrers": [
-  {
-   "count": 2,
-   "referrer": "github.com",
-   "uniques": 2
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -438,6 +432,12 @@
    "watchers": 0
   },
   "2026-10-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -952,6 +952,12 @@
   "2026-10-25": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-26": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

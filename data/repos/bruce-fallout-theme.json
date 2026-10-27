@@ -2,10 +2,10 @@
  "name": "bruce-fallout-theme",
  "paths": [
   {
-   "count": 5,
+   "count": 4,
    "path": "/koua29/bruce-fallout-theme",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 4
   },
   {
    "count": 1,
@@ -29,9 +29,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 3,
+   "count": 2,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 1,
@@ -413,6 +413,12 @@
    "watchers": 0
   },
   "2026-10-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-10-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -873,6 +879,12 @@
   "2026-10-25": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-26": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

@@ -2,30 +2,30 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 12,
+   "count": 9,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 11
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
-   "title": "/tree/main/Black_Hack",
-   "uniques": 2
+   "uniques": 9
   },
   {
    "count": 1,
    "path": "/koua29/bruce-black-hack-theme/commits",
    "title": "/commits",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
+   "title": "/tree/main/Black_Hack",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 10,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 7
   }
  ],
  "snapshots": {
@@ -342,6 +342,12 @@
    "watchers": 0
   },
   "2026-10-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-10-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -744,6 +750,12 @@
    "clones": 3,
    "view_uniques": 3,
    "views": 3
+  },
+  "2026-10-27": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-black-hack-theme"

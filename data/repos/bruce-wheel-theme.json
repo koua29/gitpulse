@@ -2,28 +2,16 @@
  "name": "bruce-wheel-theme",
  "paths": [
   {
-   "count": 14,
+   "count": 11,
    "path": "/koua29/bruce-wheel-theme",
    "title": "Overview",
-   "uniques": 11
+   "uniques": 8
   },
   {
-   "count": 7,
+   "count": 5,
    "path": "/koua29/bruce-wheel-theme/tree/main/Wheel_Dark",
    "title": "/tree/main/Wheel_Dark",
-   "uniques": 6
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/config.png",
-   "title": "/blob/main/Wheel_Dark/config.png",
-   "uniques": 3
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/interpreter.png",
-   "title": "/blob/main/Wheel_Dark/interpreter.png",
-   "uniques": 2
+   "uniques": 4
   },
   {
    "count": 2,
@@ -57,8 +45,20 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/config.png",
+   "title": "/blob/main/Wheel_Dark/config.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/ethernet.png",
    "title": "/blob/main/Wheel_Dark/ethernet.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-wheel-theme/blob/main/Wheel_Dark/files.png",
+   "title": "/blob/main/Wheel_Dark/files.png",
    "uniques": 1
   }
  ],
@@ -70,14 +70,9 @@
    "uniques": 5
   },
   {
-   "count": 5,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 4
-  },
-  {
-   "count": 1,
-   "referrer": "search.brave.com",
-   "uniques": 1
+   "uniques": 2
   }
  ],
  "snapshots": {
@@ -508,6 +503,12 @@
    "watchers": 0
   },
   "2026-10-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-10-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -1028,6 +1029,12 @@
   "2026-10-26": {
    "clone_uniques": 1,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-10-27": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

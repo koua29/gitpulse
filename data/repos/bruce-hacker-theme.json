@@ -2,60 +2,18 @@
  "name": "bruce-hacker-theme",
  "paths": [
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-hacker-theme",
    "title": "Overview",
-   "uniques": 4
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v2/Clock.gif",
-   "title": "/blob/main/Hacker v2/Clock.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v2/Config.gif",
-   "title": "/blob/main/Hacker v2/Config.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v2/Ethernet.gif",
-   "title": "/blob/main/Hacker v2/Ethernet.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v2/GPS.gif",
-   "title": "/blob/main/Hacker v2/GPS.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v3/FM.gif",
-   "title": "/blob/main/Hacker v3/FM.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v3/WiFi.gif",
-   "title": "/blob/main/Hacker v3/WiFi.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hacker-theme/tree/main/Hacker v2",
-   "title": "/tree/main/Hacker v2",
-   "uniques": 1
+   "uniques": 3
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -486,6 +444,12 @@
    "watchers": 0
   },
   "2026-10-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-10-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -1008,6 +972,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-10-27": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-hacker-theme"

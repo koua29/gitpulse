@@ -2,10 +2,10 @@
  "name": "bruce-tv-b-gone",
  "paths": [
   {
-   "count": 12,
+   "count": 13,
    "path": "/koua29/bruce-tv-b-gone",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 10
   },
   {
    "count": 2,
@@ -36,6 +36,11 @@
   {
    "count": 2,
    "referrer": "Bing",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "referrer": "aocr.org",
    "uniques": 1
   }
  ],
@@ -485,6 +490,12 @@
    "watchers": 0
   },
   "2026-10-30": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-10-31": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -1021,6 +1032,12 @@
    "views": 0
   },
   "2026-10-29": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-10-30": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 1,

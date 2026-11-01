@@ -8,22 +8,22 @@
    "uniques": 15
   },
   {
-   "count": 12,
+   "count": 10,
    "path": "/koua29/bruce-flock-detector/blob/main/Flock Detector.js",
    "title": "/blob/main/Flock Detector.js",
-   "uniques": 8
+   "uniques": 7
   },
   {
-   "count": 8,
+   "count": 9,
    "path": "/koua29/bruce-flock-detector/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 6
+   "uniques": 7
   },
   {
-   "count": 3,
+   "count": 4,
    "path": "/koua29/bruce-flock-detector/blob/main/sigs.json",
    "title": "/blob/main/sigs.json",
-   "uniques": 2
+   "uniques": 3
   },
   {
    "count": 3,
@@ -44,6 +44,12 @@
    "uniques": 2
   },
   {
+   "count": 2,
+   "path": "/koua29/bruce-flock-detector/blob/main/docs/ui-lan.svg",
+   "title": "/blob/main/docs/ui-lan.svg",
+   "uniques": 2
+  },
+  {
    "count": 1,
    "path": "/koua29/bruce-flock-detector/blob/main/docs/amazon-B0C1FCZM94.jpg",
    "title": "/blob/main/docs/amazon-B0C1FCZM94.jpg",
@@ -54,30 +60,19 @@
    "path": "/koua29/bruce-flock-detector/blob/main/docs/amazon-B0D45MSMJR.jpg",
    "title": "/blob/main/docs/amazon-B0D45MSMJR.jpg",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-flock-detector/blob/main/docs/ras.jpg",
-   "title": "/blob/main/docs/ras.jpg",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 10,
+   "count": 11,
    "referrer": "github.com",
-   "uniques": 8
+   "uniques": 9
   },
   {
-   "count": 7,
+   "count": 8,
    "referrer": "Google",
-   "uniques": 6
-  },
-  {
-   "count": 1,
-   "referrer": "claude.ai",
-   "uniques": 1
+   "uniques": 7
   },
   {
    "count": 1,
@@ -537,6 +532,12 @@
    "watchers": 0
   },
   "2026-10-31": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 20,
+   "watchers": 0
+  },
+  "2026-11-01": {
    "forks": 1,
    "open_issues": 0,
    "stars": 20,
@@ -1083,6 +1084,12 @@
    "clones": 1,
    "view_uniques": 5,
    "views": 14
+  },
+  "2026-10-31": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

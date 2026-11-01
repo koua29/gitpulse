@@ -2,7 +2,7 @@
  "name": "bruce-lan-scanner",
  "paths": [
   {
-   "count": 12,
+   "count": 13,
    "path": "/koua29/bruce-lan-scanner",
    "title": "Overview",
    "uniques": 5
@@ -21,12 +21,6 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-lan-scanner/blob/main/docs/scanning.jpg",
-   "title": "/blob/main/docs/scanning.jpg",
-   "uniques": 1
-  },
-  {
-   "count": 1,
    "path": "/koua29/bruce-lan-scanner/issues",
    "title": "/issues",
    "uniques": 1
@@ -41,7 +35,7 @@
  "private": false,
  "referrers": [
   {
-   "count": 8,
+   "count": 9,
    "referrer": "github.com",
    "uniques": 4
   },
@@ -503,6 +497,12 @@
    "watchers": 0
   },
   "2026-10-31": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 8,
+   "watchers": 0
+  },
+  "2026-11-01": {
    "forks": 0,
    "open_issues": 0,
    "stars": 8,
@@ -1049,6 +1049,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-10-31": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-lan-scanner"

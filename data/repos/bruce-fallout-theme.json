@@ -2,14 +2,25 @@
  "name": "bruce-fallout-theme",
  "paths": [
   {
-   "count": 2,
+   "count": 4,
    "path": "/koua29/bruce-fallout-theme",
    "title": "Overview",
-   "uniques": 2
+   "uniques": 4
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy",
+   "title": "/tree/main/Fallout_PipBoy",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
+  {
+   "count": 2,
+   "referrer": "bruce.computer",
+   "uniques": 2
+  },
   {
    "count": 1,
    "referrer": "github.com",
@@ -426,6 +437,12 @@
    "watchers": 0
   },
   "2026-11-01": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-11-02": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -924,6 +941,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-01": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-fallout-theme"

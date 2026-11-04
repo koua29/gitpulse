@@ -2,7 +2,7 @@
  "name": "bruce-lan-scanner",
  "paths": [
   {
-   "count": 13,
+   "count": 14,
    "path": "/koua29/bruce-lan-scanner",
    "title": "Overview",
    "uniques": 5
@@ -515,6 +515,12 @@
    "watchers": 0
   },
   "2026-11-03": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 8,
+   "watchers": 0
+  },
+  "2026-11-04": {
    "forks": 0,
    "open_issues": 0,
    "stars": 8,
@@ -1077,6 +1083,12 @@
   "2026-11-02": {
    "clone_uniques": 3,
    "clones": 3,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-11-03": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 1,
    "views": 1
   }

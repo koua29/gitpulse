@@ -2,9 +2,15 @@
  "name": "pidog-energy",
  "paths": [
   {
-   "count": 1,
+   "count": 2,
    "path": "/koua29/pidog-energy",
    "title": "Overview",
+   "uniques": 2
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-energy/commits",
+   "title": "/commits",
    "uniques": 1
   }
  ],
@@ -13,6 +19,11 @@
   {
    "count": 1,
    "referrer": "forum.sunfounder.com",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "referrer": "github.com",
    "uniques": 1
   }
  ],
@@ -456,6 +467,12 @@
    "watchers": 0
   },
   "2026-11-05": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-11-06": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -984,6 +1001,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-05": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/pidog-energy"

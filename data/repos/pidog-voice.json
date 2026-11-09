@@ -2,57 +2,15 @@
  "name": "pidog-voice",
  "paths": [
   {
-   "count": 5,
+   "count": 3,
    "path": "/koua29/pidog-voice",
    "title": "Overview",
-   "uniques": 3
-  },
-  {
-   "count": 2,
-   "path": "/koua29/pidog-voice/blob/main/assets/demo.mp4",
-   "title": "/blob/main/assets/demo.mp4",
    "uniques": 2
   },
   {
    "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/commandes.json",
-   "title": "/blob/main/commandes.json",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/config.py",
-   "title": "/blob/main/config.py",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/demos/demo_table.py",
-   "title": "/blob/main/demos/demo_table.py",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/outils/lister_commandes.py",
-   "title": "/blob/main/outils/lister_commandes.py",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/pi/pidog_actions.py",
-   "title": "/blob/main/pi/pidog_actions.py",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/pi/pidog_ears.py",
-   "title": "/blob/main/pi/pidog_ears.py",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/tests/test_filtres.py",
-   "title": "/blob/main/tests/test_filtres.py",
+   "path": "/koua29/pidog-voice/blob/main/assets/demo.mp4",
+   "title": "/blob/main/assets/demo.mp4",
    "uniques": 1
   },
   {
@@ -60,14 +18,26 @@
    "path": "/koua29/pidog-voice/commit/46bcdfc1a4a4373fd04292d954cab8b5b0afc78d",
    "title": "/commit/46bcdfc1a4a4373fd04292d954cab8b5b0afc78d",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/issues",
+   "title": "/issues",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/pidog-voice/pulls",
+   "title": "/pulls",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 2,
    "referrer": "forum.sunfounder.com",
-   "uniques": 2
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -528,6 +498,12 @@
    "watchers": 0
   },
   "2026-11-08": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-09": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -1070,6 +1046,12 @@
    "views": 0
   },
   "2026-11-07": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-08": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

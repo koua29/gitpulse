@@ -2,21 +2,27 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 12,
+   "count": 13,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 10
   },
   {
-   "count": 3,
+   "count": 4,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack",
    "title": "/tree/main/Black_Hack",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 2,
    "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack/105px",
    "title": "/tree/main/Black_Hack/105px",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack/192px",
+   "title": "/tree/main/Black_Hack/192px",
    "uniques": 2
   },
   {
@@ -33,6 +39,12 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-black-hack-theme/blob/main/Black_Hack/192px/Clock.png",
+   "title": "/blob/main/Black_Hack/192px/Clock.png",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-black-hack-theme/blob/main/Black_Hack/192px/Gps.png",
    "title": "/blob/main/Black_Hack/192px/Gps.png",
    "uniques": 1
@@ -41,12 +53,6 @@
    "count": 1,
    "path": "/koua29/bruce-black-hack-theme/blob/main/Black_Hack/192px/Js.png",
    "title": "/blob/main/Black_Hack/192px/Js.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/tree/main/Black_Hack/192px",
-   "title": "/tree/main/Black_Hack/192px",
    "uniques": 1
   }
  ],
@@ -449,6 +455,12 @@
    "watchers": 0
   },
   "2026-11-08": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-11-09": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -923,6 +935,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-11-08": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-black-hack-theme"

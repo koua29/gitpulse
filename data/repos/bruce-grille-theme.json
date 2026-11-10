@@ -8,22 +8,10 @@
    "uniques": 6
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-grille-theme/tree/main/Grille_Dark",
    "title": "/tree/main/Grille_Dark",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-grille-theme/tree/main/Grille",
-   "title": "/tree/main/Grille",
-   "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-grille-theme/tree/main/Grille_Dark/140px",
-   "title": "/tree/main/Grille_Dark/140px",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 2,
@@ -57,17 +45,29 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-grille-theme/commit/0285e50ae45f3a09fff51ef1b95123cc43c9ffc5",
-   "title": "/commit/0285e50ae45f3a09fff51ef1b95123cc43c9ffc5",
+   "path": "/koua29/bruce-grille-theme/tree/main/Grille",
+   "title": "/tree/main/Grille",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-grille-theme/tree/main/Grille/105px",
+   "title": "/tree/main/Grille/105px",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-grille-theme/tree/main/Grille_Dark/140px",
+   "title": "/tree/main/Grille_Dark/140px",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 5,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 2,
@@ -521,6 +521,12 @@
    "watchers": 0
   },
   "2026-11-09": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-11-10": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -1055,6 +1061,12 @@
    "clones": 0,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-11-09": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-grille-theme"

@@ -8,16 +8,10 @@
    "uniques": 11
   },
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-ble-finder/blob/main/BLE Finder.js",
    "title": "/blob/main/BLE Finder.js",
-   "uniques": 4
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-ble-finder/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 1
+   "uniques": 3
   },
   {
    "count": 1,
@@ -42,11 +36,6 @@
    "count": 3,
    "referrer": "Google",
    "uniques": 2
-  },
-  {
-   "count": 1,
-   "referrer": "DuckDuckGo",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -555,6 +544,12 @@
    "watchers": 0
   },
   "2026-11-09": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 9,
+   "watchers": 0
+  },
+  "2026-11-10": {
    "forks": 0,
    "open_issues": 0,
    "stars": 9,
@@ -1151,6 +1146,12 @@
    "views": 1
   },
   "2026-11-08": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-09": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

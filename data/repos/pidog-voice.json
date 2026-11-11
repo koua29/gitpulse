@@ -2,21 +2,9 @@
  "name": "pidog-voice",
  "paths": [
   {
-   "count": 3,
+   "count": 1,
    "path": "/koua29/pidog-voice",
    "title": "Overview",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/blob/main/assets/demo.mp4",
-   "title": "/blob/main/assets/demo.mp4",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/commit/46bcdfc1a4a4373fd04292d954cab8b5b0afc78d",
-   "title": "/commit/46bcdfc1a4a4373fd04292d954cab8b5b0afc78d",
    "uniques": 1
   },
   {
@@ -33,13 +21,7 @@
   }
  ],
  "private": false,
- "referrers": [
-  {
-   "count": 2,
-   "referrer": "forum.sunfounder.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-24": {
    "forks": 0,
@@ -510,6 +492,12 @@
    "watchers": 0
   },
   "2026-11-10": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-11": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -1064,6 +1052,12 @@
    "views": 0
   },
   "2026-11-09": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-10": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

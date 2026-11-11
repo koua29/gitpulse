@@ -1,10 +1,10 @@
 {
  "user": "koua29",
- "generated": "2026-11-10T14:57:27Z",
+ "generated": "2026-11-11T14:28:02Z",
  "kpi": {
   "repos": 39,
-  "views14": 345,
-  "stars": 110,
+  "views14": 348,
+  "stars": 111,
   "forks": 3,
   "followers": 8
  },
@@ -708,6 +708,13 @@
    "view_uniques": 14,
    "clones": 55,
    "clone_uniques": 35
+  },
+  {
+   "date": "2026-11-10",
+   "views": 11,
+   "view_uniques": 7,
+   "clones": 31,
+   "clone_uniques": 26
   }
  ],
  "stars_series": [
@@ -1310,7 +1317,14 @@
    "date": "2026-11-10",
    "followers": 8,
    "public_repos": 39,
-   "total_stars": 110,
+   "total_forks": 3,
+   "total_stars": 110
+  },
+  {
+   "date": "2026-11-11",
+   "followers": 8,
+   "public_repos": 39,
+   "total_stars": 111,
    "total_forks": 3
   }
  ],
@@ -1318,7 +1332,7 @@
   {
    "name": "bruce-flock-detector",
    "private": false,
-   "stars": 21,
+   "stars": 22,
    "forks": 1,
    "views14": 54,
    "url": "https://github.com/koua29/bruce-flock-detector"
@@ -1336,7 +1350,7 @@
    "private": false,
    "stars": 6,
    "forks": 0,
-   "views14": 28,
+   "views14": 29,
    "url": "https://github.com/koua29/bruce-black-hack-theme"
   },
   {
@@ -1376,7 +1390,7 @@
    "private": false,
    "stars": 7,
    "forks": 0,
-   "views14": 15,
+   "views14": 13,
    "url": "https://github.com/koua29/bruce-sqli-tester"
   },
   {
@@ -1428,12 +1442,20 @@
    "url": "https://github.com/koua29/bruce-nuclear-theme"
   },
   {
-   "name": "bruce-lan-scanner",
+   "name": "bruce-ssid-safari",
    "private": false,
-   "stars": 8,
+   "stars": 5,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/bruce-ssid-safari"
+  },
+  {
+   "name": "bruce-breakout",
+   "private": false,
+   "stars": 2,
    "forks": 0,
    "views14": 7,
-   "url": "https://github.com/koua29/bruce-lan-scanner"
+   "url": "https://github.com/koua29/bruce-breakout"
   },
   {
    "name": "bruce-baby-theme",
@@ -1444,28 +1466,20 @@
    "url": "https://github.com/koua29/bruce-baby-theme"
   },
   {
-   "name": "bruce-breakout",
+   "name": "bruce-flipper-ordered",
    "private": false,
    "stars": 2,
-   "forks": 0,
+   "forks": 1,
    "views14": 6,
-   "url": "https://github.com/koua29/bruce-breakout"
+   "url": "https://github.com/koua29/bruce-flipper-ordered"
   },
   {
-   "name": "bruce-launcher",
+   "name": "bruce-lan-scanner",
    "private": false,
-   "stars": 4,
+   "stars": 8,
    "forks": 0,
    "views14": 6,
-   "url": "https://github.com/koua29/bruce-launcher"
-  },
-  {
-   "name": "bruce-ssid-safari",
-   "private": false,
-   "stars": 5,
-   "forks": 0,
-   "views14": 6,
-   "url": "https://github.com/koua29/bruce-ssid-safari"
+   "url": "https://github.com/koua29/bruce-lan-scanner"
   },
   {
    "name": "savewaypoint",
@@ -1476,12 +1490,20 @@
    "url": "https://github.com/koua29/savewaypoint"
   },
   {
-   "name": "bruce-flipper-ordered",
+   "name": "wifi-auditor",
    "private": false,
-   "stars": 2,
-   "forks": 1,
+   "stars": 3,
+   "forks": 0,
+   "views14": 6,
+   "url": "https://github.com/koua29/wifi-auditor"
+  },
+  {
+   "name": "bruce-launcher",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
    "views14": 5,
-   "url": "https://github.com/koua29/bruce-flipper-ordered"
+   "url": "https://github.com/koua29/bruce-launcher"
   },
   {
    "name": "decky-fsg",
@@ -1492,19 +1514,11 @@
    "url": "https://github.com/koua29/decky-fsg"
   },
   {
-   "name": "wifi-auditor",
-   "private": false,
-   "stars": 3,
-   "forks": 0,
-   "views14": 5,
-   "url": "https://github.com/koua29/wifi-auditor"
-  },
-  {
    "name": "bruce-snake",
    "private": false,
    "stars": 1,
    "forks": 0,
-   "views14": 4,
+   "views14": 3,
    "url": "https://github.com/koua29/bruce-snake"
   },
   {
@@ -1532,6 +1546,14 @@
    "url": "https://github.com/koua29/pidog-voice"
   },
   {
+   "name": "bruce-bubble-pop",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 2,
+   "url": "https://github.com/koua29/bruce-bubble-pop"
+  },
+  {
    "name": "bruce-spiderman-theme",
    "private": false,
    "stars": 1,
@@ -1546,14 +1568,6 @@
    "forks": 0,
    "views14": 1,
    "url": "https://github.com/koua29/bluetooth-radar"
-  },
-  {
-   "name": "bruce-bubble-pop",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 1,
-   "url": "https://github.com/koua29/bruce-bubble-pop"
   },
   {
    "name": "bruce-wifi-qr",
@@ -1631,23 +1645,23 @@
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 93,
-   "uniques": 71
+   "count": 91,
+   "uniques": 68
   },
   {
    "referrer": "Google",
-   "count": 21,
-   "uniques": 16
-  },
-  {
-   "referrer": "search.brave.com",
-   "count": 10,
-   "uniques": 5
+   "count": 19,
+   "uniques": 14
   },
   {
    "referrer": "aocr.org",
    "count": 10,
    "uniques": 10
+  },
+  {
+   "referrer": "search.brave.com",
+   "count": 9,
+   "uniques": 4
   },
   {
    "referrer": "bruce.computer",
@@ -1660,17 +1674,17 @@
    "uniques": 2
   },
   {
-   "referrer": "forum.sunfounder.com",
-   "count": 4,
-   "uniques": 3
-  },
-  {
    "referrer": "Bing",
-   "count": 3,
-   "uniques": 2
+   "count": 2,
+   "uniques": 1
   },
   {
    "referrer": "reddit.com",
+   "count": 2,
+   "uniques": 2
+  },
+  {
+   "referrer": "forum.sunfounder.com",
    "count": 2,
    "uniques": 2
   },

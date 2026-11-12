@@ -2,10 +2,10 @@
  "name": "bruce-sqli-tester",
  "paths": [
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-sqli-tester",
    "title": "Overview",
-   "uniques": 4
+   "uniques": 3
   },
   {
    "count": 2,
@@ -51,14 +51,14 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/scanning.jpg",
-   "title": "/blob/main/docs/scanning.jpg",
+   "path": "/koua29/bruce-sqli-tester/blob/main/docs/vulnerable.jpg",
+   "title": "/blob/main/docs/vulnerable.jpg",
    "uniques": 1
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-sqli-tester/blob/main/docs/vulnerable.jpg",
-   "title": "/blob/main/docs/vulnerable.jpg",
+   "path": "/koua29/bruce-sqli-tester/tree/main/docs",
+   "title": "/tree/main/docs",
    "uniques": 1
   }
  ],
@@ -593,6 +593,12 @@
    "watchers": 0
   },
   "2026-11-11": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-11-12": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -1203,6 +1209,12 @@
   "2026-11-10": {
    "clone_uniques": 1,
    "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-11": {
+   "clone_uniques": 2,
+   "clones": 2,
    "view_uniques": 0,
    "views": 0
   }

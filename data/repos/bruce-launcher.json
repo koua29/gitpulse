@@ -17,14 +17,14 @@
  "private": false,
  "referrers": [
   {
-   "count": 2,
-   "referrer": "aocr.org",
-   "uniques": 2
+   "count": 3,
+   "referrer": "github.com",
+   "uniques": 3
   },
   {
-   "count": 2,
-   "referrer": "github.com",
-   "uniques": 2
+   "count": 1,
+   "referrer": "aocr.org",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -551,6 +551,12 @@
    "watchers": 0
   },
   "2026-11-12": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-11-13": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -1169,6 +1175,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-12": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-launcher"

@@ -6,21 +6,10 @@
    "path": "/koua29/ollama-image-studio",
    "title": "Overview",
    "uniques": 9
-  },
-  {
-   "count": 1,
-   "path": "/koua29/ollama-image-studio/releases",
-   "title": "/releases",
-   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
-  {
-   "count": 1,
-   "referrer": "aocr.org",
-   "uniques": 1
-  },
   {
    "count": 1,
    "referrer": "github.com",
@@ -556,6 +545,12 @@
    "watchers": 0
   },
   "2026-11-12": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-13": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -1170,6 +1165,12 @@
    "views": 0
   },
   "2026-11-11": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-12": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

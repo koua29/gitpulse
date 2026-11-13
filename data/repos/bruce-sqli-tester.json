@@ -2,10 +2,10 @@
  "name": "bruce-sqli-tester",
  "paths": [
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-sqli-tester",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 2,
@@ -68,11 +68,6 @@
    "count": 2,
    "referrer": "github.com",
    "uniques": 2
-  },
-  {
-   "count": 1,
-   "referrer": "aocr.org",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -599,6 +594,12 @@
    "watchers": 0
   },
   "2026-11-12": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-11-13": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -1215,6 +1216,12 @@
   "2026-11-11": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-12": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

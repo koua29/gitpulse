@@ -2,16 +2,16 @@
  "name": "bruce-ssid-safari",
  "paths": [
   {
-   "count": 4,
+   "count": 5,
    "path": "/koua29/bruce-ssid-safari/blob/main/SSID Safari.js",
    "title": "/blob/main/SSID Safari.js",
-   "uniques": 2
+   "uniques": 3
   },
   {
-   "count": 3,
+   "count": 4,
    "path": "/koua29/bruce-ssid-safari",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 1,
@@ -30,14 +30,20 @@
    "path": "/koua29/bruce-ssid-safari/blob/main/docs/hero.jpg",
    "title": "/blob/main/docs/hero.jpg",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-ssid-safari/pulls",
+   "title": "/pulls",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 2,
+   "count": 3,
    "referrer": "github.com",
-   "uniques": 2
+   "uniques": 3
   }
  ],
  "snapshots": {
@@ -570,6 +576,12 @@
    "watchers": 0
   },
   "2026-11-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-11-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -1194,6 +1206,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-11-13": {
+   "clone_uniques": 1,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-ssid-safari"

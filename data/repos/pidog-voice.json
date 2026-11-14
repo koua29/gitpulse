@@ -12,12 +12,6 @@
    "path": "/koua29/pidog-voice/issues",
    "title": "/issues",
    "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/pidog-voice/pulls",
-   "title": "/pulls",
-   "uniques": 1
   }
  ],
  "private": false,
@@ -510,6 +504,12 @@
    "watchers": 0
   },
   "2026-11-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -1084,6 +1084,12 @@
   "2026-11-12": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-13": {
+   "clone_uniques": 2,
+   "clones": 3,
    "view_uniques": 0,
    "views": 0
   }

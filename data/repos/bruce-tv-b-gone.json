@@ -30,22 +30,17 @@
  "referrers": [
   {
    "count": 5,
+   "referrer": "github.com",
+   "uniques": 4
+  },
+  {
+   "count": 5,
    "referrer": "Bing",
    "uniques": 2
   },
   {
-   "count": 4,
-   "referrer": "github.com",
-   "uniques": 3
-  },
-  {
    "count": 1,
    "referrer": "Google",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "referrer": "aocr.org",
    "uniques": 1
   }
  ],
@@ -579,6 +574,12 @@
    "watchers": 0
   },
   "2026-11-13": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-11-14": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -1203,6 +1204,12 @@
    "clones": 0,
    "view_uniques": 1,
    "views": 3
+  },
+  "2026-11-13": {
+   "clone_uniques": 1,
+   "clones": 2,
+   "view_uniques": 1,
+   "views": 1
   }
  },
  "url": "https://github.com/koua29/bruce-tv-b-gone"

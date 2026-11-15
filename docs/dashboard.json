@@ -1,9 +1,9 @@
 {
  "user": "koua29",
- "generated": "2026-11-14T13:36:37Z",
+ "generated": "2026-11-15T13:59:36Z",
  "kpi": {
   "repos": 39,
-  "views14": 335,
+  "views14": 352,
   "stars": 111,
   "forks": 3,
   "followers": 8
@@ -736,6 +736,13 @@
    "view_uniques": 18,
    "clones": 99,
    "clone_uniques": 60
+  },
+  {
+   "date": "2026-11-14",
+   "views": 24,
+   "view_uniques": 15,
+   "clones": 33,
+   "clone_uniques": 26
   }
  ],
  "stars_series": [
@@ -1366,6 +1373,13 @@
    "date": "2026-11-14",
    "followers": 8,
    "public_repos": 39,
+   "total_forks": 3,
+   "total_stars": 111
+  },
+  {
+   "date": "2026-11-15",
+   "followers": 8,
+   "public_repos": 39,
    "total_stars": 111,
    "total_forks": 3
   }
@@ -1376,7 +1390,7 @@
    "private": false,
    "stars": 22,
    "forks": 1,
-   "views14": 48,
+   "views14": 50,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -1384,7 +1398,7 @@
    "private": false,
    "stars": 4,
    "forks": 0,
-   "views14": 45,
+   "views14": 49,
    "url": "https://github.com/koua29/bruce-fallout-theme"
   },
   {
@@ -1424,7 +1438,7 @@
    "private": false,
    "stars": 9,
    "forks": 0,
-   "views14": 12,
+   "views14": 13,
    "url": "https://github.com/koua29/bruce-ble-finder"
   },
   {
@@ -1444,20 +1458,36 @@
    "url": "https://github.com/koua29/mt5-export-ticks"
   },
   {
-   "name": "bruce-hacker-theme",
-   "private": false,
-   "stars": 2,
-   "forks": 0,
-   "views14": 10,
-   "url": "https://github.com/koua29/bruce-hacker-theme"
-  },
-  {
    "name": "bruce-sqli-tester",
    "private": false,
    "stars": 7,
    "forks": 0,
    "views14": 10,
    "url": "https://github.com/koua29/bruce-sqli-tester"
+  },
+  {
+   "name": "bruce-hacker-theme",
+   "private": false,
+   "stars": 2,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/bruce-hacker-theme"
+  },
+  {
+   "name": "bruce-lan-scanner",
+   "private": false,
+   "stars": 8,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/bruce-lan-scanner"
+  },
+  {
+   "name": "bruce-nuclear-theme",
+   "private": false,
+   "stars": 3,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/bruce-nuclear-theme"
   },
   {
    "name": "bruce-wheel-theme",
@@ -1468,12 +1498,12 @@
    "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
-   "name": "bruce-nuclear-theme",
+   "name": "bruce-launcher",
    "private": false,
-   "stars": 3,
+   "stars": 4,
    "forks": 0,
    "views14": 8,
-   "url": "https://github.com/koua29/bruce-nuclear-theme"
+   "url": "https://github.com/koua29/bruce-launcher"
   },
   {
    "name": "bruce-ssid-safari",
@@ -1508,22 +1538,6 @@
    "url": "https://github.com/koua29/bruce-flipper-ordered"
   },
   {
-   "name": "bruce-lan-scanner",
-   "private": false,
-   "stars": 8,
-   "forks": 0,
-   "views14": 6,
-   "url": "https://github.com/koua29/bruce-lan-scanner"
-  },
-  {
-   "name": "bruce-launcher",
-   "private": false,
-   "stars": 4,
-   "forks": 0,
-   "views14": 6,
-   "url": "https://github.com/koua29/bruce-launcher"
-  },
-  {
    "name": "decky-wicked-dupe",
    "private": false,
    "stars": 0,
@@ -1538,6 +1552,22 @@
    "forks": 0,
    "views14": 4,
    "url": "https://github.com/koua29/bruce-baby-theme"
+  },
+  {
+   "name": "decky-fsg",
+   "private": false,
+   "stars": 4,
+   "forks": 0,
+   "views14": 4,
+   "url": "https://github.com/koua29/decky-fsg"
+  },
+  {
+   "name": "pidog-energy",
+   "private": false,
+   "stars": 0,
+   "forks": 0,
+   "views14": 4,
+   "url": "https://github.com/koua29/pidog-energy"
   },
   {
    "name": "savewaypoint",
@@ -1564,12 +1594,12 @@
    "url": "https://github.com/koua29/bruce-snake"
   },
   {
-   "name": "pidog-energy",
+   "name": "ollama-image-studio",
    "private": false,
-   "stars": 0,
-   "forks": 0,
+   "stars": 1,
+   "forks": 1,
    "views14": 3,
-   "url": "https://github.com/koua29/pidog-energy"
+   "url": "https://github.com/koua29/ollama-image-studio"
   },
   {
    "name": "bruce-spiderman-theme",
@@ -1588,28 +1618,12 @@
    "url": "https://github.com/koua29/bruce-wifi-qr"
   },
   {
-   "name": "decky-fsg",
+   "name": "pidog-patrol",
    "private": false,
-   "stars": 4,
+   "stars": 0,
    "forks": 0,
    "views14": 2,
-   "url": "https://github.com/koua29/decky-fsg"
-  },
-  {
-   "name": "ollama-image-studio",
-   "private": false,
-   "stars": 1,
-   "forks": 1,
-   "views14": 2,
-   "url": "https://github.com/koua29/ollama-image-studio"
-  },
-  {
-   "name": "pidog-voice",
-   "private": false,
-   "stars": 1,
-   "forks": 0,
-   "views14": 2,
-   "url": "https://github.com/koua29/pidog-voice"
+   "url": "https://github.com/koua29/pidog-patrol"
   },
   {
    "name": "koua29",
@@ -1620,12 +1634,20 @@
    "url": "https://github.com/koua29/koua29"
   },
   {
-   "name": "pidog-patrol",
+   "name": "pidog-groove",
    "private": false,
    "stars": 0,
    "forks": 0,
    "views14": 1,
-   "url": "https://github.com/koua29/pidog-patrol"
+   "url": "https://github.com/koua29/pidog-groove"
+  },
+  {
+   "name": "pidog-voice",
+   "private": false,
+   "stars": 1,
+   "forks": 0,
+   "views14": 1,
+   "url": "https://github.com/koua29/pidog-voice"
   },
   {
    "name": "App-Store-Data",
@@ -1674,26 +1696,18 @@
    "forks": 0,
    "views14": 0,
    "url": "https://github.com/koua29/leboncoin-mcp"
-  },
-  {
-   "name": "pidog-groove",
-   "private": false,
-   "stars": 0,
-   "forks": 0,
-   "views14": 0,
-   "url": "https://github.com/koua29/pidog-groove"
   }
  ],
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 106,
-   "uniques": 82
+   "count": 100,
+   "uniques": 76
   },
   {
    "referrer": "Google",
-   "count": 16,
-   "uniques": 13
+   "count": 15,
+   "uniques": 12
   },
   {
    "referrer": "search.brave.com",
@@ -1721,7 +1735,7 @@
    "uniques": 3
   },
   {
-   "referrer": "reddit.com",
+   "referrer": "DuckDuckGo",
    "count": 2,
    "uniques": 2
   },
@@ -1729,11 +1743,6 @@
    "referrer": "forum.sunfounder.com",
    "count": 2,
    "uniques": 2
-  },
-  {
-   "referrer": "DuckDuckGo",
-   "count": 1,
-   "uniques": 1
   }
  ]
 }

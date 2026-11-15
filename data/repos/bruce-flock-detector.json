@@ -2,21 +2,21 @@
  "name": "bruce-flock-detector",
  "paths": [
   {
-   "count": 18,
+   "count": 19,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 15
-  },
-  {
-   "count": 8,
-   "path": "/koua29/bruce-flock-detector/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 8
+   "uniques": 16
   },
   {
    "count": 7,
    "path": "/koua29/bruce-flock-detector/blob/main/Flock Detector.js",
    "title": "/blob/main/Flock Detector.js",
+   "uniques": 7
+  },
+  {
+   "count": 7,
+   "path": "/koua29/bruce-flock-detector/blob/main/README.md",
+   "title": "/blob/main/README.md",
    "uniques": 7
   },
   {
@@ -33,14 +33,14 @@
   },
   {
    "count": 3,
-   "path": "/koua29/bruce-flock-detector/blob/main/sigs.json",
-   "title": "/blob/main/sigs.json",
-   "uniques": 3
-  },
-  {
-   "count": 3,
    "path": "/koua29/bruce-flock-detector/issues",
    "title": "/issues",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-flock-detector/blob/main/sigs.json",
+   "title": "/blob/main/sigs.json",
    "uniques": 2
   },
   {
@@ -57,8 +57,8 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-flock-detector/blob/main/docs/ui-lan.svg",
-   "title": "/blob/main/docs/ui-lan.svg",
+   "path": "/koua29/bruce-flock-detector/pulls",
+   "title": "/pulls",
    "uniques": 1
   }
  ],
@@ -611,6 +611,12 @@
    "watchers": 0
   },
   "2026-11-14": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 22,
+   "watchers": 0
+  },
+  "2026-11-15": {
    "forks": 1,
    "open_issues": 0,
    "stars": 22,
@@ -1241,6 +1247,12 @@
    "clones": 3,
    "view_uniques": 3,
    "views": 7
+  },
+  "2026-11-14": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

@@ -1,21 +1,8 @@
 {
  "name": "bluetooth-radar",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/bluetooth-radar",
-   "title": "Overview",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -552,6 +539,12 @@
    "watchers": 0
   },
   "2026-11-14": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-11-15": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -1178,6 +1171,12 @@
    "views": 0
   },
   "2026-11-13": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-14": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

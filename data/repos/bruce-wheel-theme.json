@@ -2,16 +2,10 @@
  "name": "bruce-wheel-theme",
  "paths": [
   {
-   "count": 10,
+   "count": 8,
    "path": "/koua29/bruce-wheel-theme",
    "title": "Overview",
-   "uniques": 7
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-wheel-theme/commit/a4bdca33d4bb5f4cb477bcab2d22c462ea4dacf8",
-   "title": "/commit/a4bdca33d4bb5f4cb477bcab2d22c462ea4dacf8",
-   "uniques": 1
+   "uniques": 6
   },
   {
    "count": 1,
@@ -28,9 +22,9 @@
    "uniques": 3
   },
   {
-   "count": 3,
+   "count": 2,
    "referrer": "Google",
-   "uniques": 2
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -569,6 +563,12 @@
    "watchers": 0
   },
   "2026-11-14": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-11-15": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -1197,6 +1197,12 @@
   "2026-11-13": {
    "clone_uniques": 2,
    "clones": 3,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-14": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

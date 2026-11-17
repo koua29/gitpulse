@@ -1,25 +1,6 @@
 {
  "name": "bruce-snake",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake",
-   "title": "Overview",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/blob/main/Snake.js",
-   "title": "/blob/main/Snake.js",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-snake/tree/main/docs",
-   "title": "/tree/main/docs",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
  "referrers": [],
  "snapshots": {
@@ -570,6 +551,12 @@
    "watchers": 0
   },
   "2026-11-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -1202,6 +1189,18 @@
    "views": 0
   },
   "2026-11-14": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-15": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-16": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

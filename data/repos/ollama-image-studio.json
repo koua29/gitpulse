@@ -14,6 +14,11 @@
    "count": 1,
    "referrer": "DuckDuckGo",
    "uniques": 1
+  },
+  {
+   "count": 1,
+   "referrer": "github.com",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -564,6 +569,12 @@
    "watchers": 0
   },
   "2026-11-16": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-17": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -1200,6 +1211,18 @@
    "clones": 1,
    "view_uniques": 1,
    "views": 1
+  },
+  "2026-11-15": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-11-16": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/ollama-image-studio"

@@ -2,20 +2,14 @@
  "name": "bruce-baby-theme",
  "paths": [
   {
-   "count": 4,
+   "count": 2,
    "path": "/koua29/bruce-baby-theme",
    "title": "Overview",
-   "uniques": 2
-  }
- ],
- "private": false,
- "referrers": [
-  {
-   "count": 2,
-   "referrer": "github.com",
    "uniques": 1
   }
  ],
+ "private": false,
+ "referrers": [],
  "snapshots": {
   "2026-08-26": {
    "forks": 0,
@@ -510,6 +504,12 @@
    "watchers": 0
   },
   "2026-11-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -1078,6 +1078,18 @@
   "2026-11-14": {
    "clone_uniques": 1,
    "clones": 1,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-15": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-16": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }

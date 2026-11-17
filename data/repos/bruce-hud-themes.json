@@ -2,22 +2,22 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 9,
+   "count": 10,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 6
+   "uniques": 7
   },
   {
-   "count": 6,
+   "count": 5,
    "path": "/koua29/bruce-hud-themes/blob/main/README.md",
    "title": "/blob/main/README.md",
-   "uniques": 6
+   "uniques": 5
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Clock.gif",
    "title": "/blob/main/Blue HUD/Clock.gif",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 2,
@@ -66,13 +66,13 @@
  "referrers": [
   {
    "count": 4,
-   "referrer": "search.brave.com",
-   "uniques": 1
+   "referrer": "github.com",
+   "uniques": 4
   },
   {
-   "count": 3,
-   "referrer": "github.com",
-   "uniques": 3
+   "count": 4,
+   "referrer": "search.brave.com",
+   "uniques": 1
   },
   {
    "count": 1,
@@ -628,6 +628,12 @@
    "watchers": 0
   },
   "2026-11-16": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-11-17": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -1260,6 +1266,18 @@
    "views": 1
   },
   "2026-11-14": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-15": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 1,
+   "views": 1
+  },
+  "2026-11-16": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

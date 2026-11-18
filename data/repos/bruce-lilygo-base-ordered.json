@@ -2,46 +2,10 @@
  "name": "bruce-lilygo-base-ordered",
  "paths": [
   {
-   "count": 5,
+   "count": 4,
    "path": "/koua29/bruce-lilygo-base-ordered",
    "title": "Overview",
-   "uniques": 4
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-lilygo-base-ordered/tree/main/180px",
-   "title": "/tree/main/180px",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lilygo-base-ordered/blob/main/180px/Lora.png",
-   "title": "/blob/main/180px/Lora.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lilygo-base-ordered/blob/main/180px/Wifi.png",
-   "title": "/blob/main/180px/Wifi.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lilygo-base-ordered/commit/624e76a41b6e79a69ee7ed14c6fa538a18efd488",
-   "title": "/commit/624e76a41b6e79a69ee7ed14c6fa538a18efd488",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lilygo-base-ordered/commit/a8b6ac944d67a18a6ca146a654fead15745a8a58",
-   "title": "/commit/a8b6ac944d67a18a6ca146a654fead15745a8a58",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-lilygo-base-ordered/commits",
-   "title": "/commits",
-   "uniques": 1
+   "uniques": 3
   },
   {
    "count": 1,
@@ -62,11 +26,6 @@
    "count": 3,
    "referrer": "github.com",
    "uniques": 2
-  },
-  {
-   "count": 3,
-   "referrer": "yandex.ru",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -623,6 +582,12 @@
    "watchers": 0
   },
   "2026-11-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 4,
+   "watchers": 0
+  },
+  "2026-11-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 4,
@@ -1269,6 +1234,12 @@
   "2026-11-16": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-17": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

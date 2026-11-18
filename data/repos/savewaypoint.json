@@ -2,21 +2,9 @@
  "name": "savewaypoint",
  "paths": [
   {
-   "count": 2,
+   "count": 1,
    "path": "/koua29/savewaypoint",
    "title": "Overview",
-   "uniques": 2
-  },
-  {
-   "count": 1,
-   "path": "/koua29/savewaypoint/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/savewaypoint/tree/main",
-   "title": "/tree/main",
    "uniques": 1
   }
  ],
@@ -372,6 +360,12 @@
    "watchers": 0
   },
   "2026-11-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -806,6 +800,12 @@
    "views": 0
   },
   "2026-11-16": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-17": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

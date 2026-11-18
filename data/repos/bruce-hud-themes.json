@@ -2,64 +2,22 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 10,
+   "count": 5,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 7
-  },
-  {
-   "count": 5,
-   "path": "/koua29/bruce-hud-themes/blob/main/README.md",
-   "title": "/blob/main/README.md",
    "uniques": 5
   },
   {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/blob/main/Blue HUD/Clock.gif",
-   "title": "/blob/main/Blue HUD/Clock.gif",
-   "uniques": 2
+   "count": 4,
+   "path": "/koua29/bruce-hud-themes/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 4
   },
   {
    "count": 2,
    "path": "/koua29/bruce-hud-themes/blob/main/docs/amber.png",
    "title": "/blob/main/docs/amber.png",
    "uniques": 2
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
-   "title": "/tree/main/White HUD",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/Amber HUD/BLE.gif",
-   "title": "/blob/main/Amber HUD/BLE.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/White HUD/BLE.gif",
-   "title": "/blob/main/White HUD/BLE.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/White HUD/Clock.gif",
-   "title": "/blob/main/White HUD/Clock.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/White HUD/Connect.gif",
-   "title": "/blob/main/White HUD/Connect.gif",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/White HUD/Files.gif",
-   "title": "/blob/main/White HUD/Files.gif",
-   "uniques": 1
   }
  ],
  "private": false,
@@ -68,16 +26,6 @@
    "count": 4,
    "referrer": "github.com",
    "uniques": 4
-  },
-  {
-   "count": 4,
-   "referrer": "search.brave.com",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "referrer": "yandex.ru",
-   "uniques": 1
   }
  ],
  "snapshots": {
@@ -634,6 +582,12 @@
    "watchers": 0
   },
   "2026-11-17": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-11-18": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -1280,6 +1234,12 @@
   "2026-11-16": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-17": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

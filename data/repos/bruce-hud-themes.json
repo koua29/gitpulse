@@ -2,10 +2,10 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 5,
+   "count": 7,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 7
   },
   {
    "count": 4,
@@ -23,9 +23,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 6,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 6
   }
  ],
  "snapshots": {
@@ -588,6 +588,12 @@
    "watchers": 0
   },
   "2026-11-18": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-11-19": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -1242,6 +1248,12 @@
    "clones": 1,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-18": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

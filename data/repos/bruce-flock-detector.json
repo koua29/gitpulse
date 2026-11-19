@@ -5,7 +5,7 @@
    "count": 23,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 20
+   "uniques": 21
   },
   {
    "count": 12,
@@ -14,21 +14,15 @@
    "uniques": 12
   },
   {
-   "count": 10,
+   "count": 8,
    "path": "/koua29/bruce-flock-detector/blob/main/Flock Detector.js",
    "title": "/blob/main/Flock Detector.js",
-   "uniques": 9
+   "uniques": 7
   },
   {
-   "count": 4,
+   "count": 3,
    "path": "/koua29/bruce-flock-detector/blob/main/sigs.json",
    "title": "/blob/main/sigs.json",
-   "uniques": 4
-  },
-  {
-   "count": 4,
-   "path": "/koua29/bruce-flock-detector/tree/main/docs",
-   "title": "/tree/main/docs",
    "uniques": 3
   },
   {
@@ -41,6 +35,12 @@
    "count": 2,
    "path": "/koua29/bruce-flock-detector/issues",
    "title": "/issues",
+   "uniques": 2
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-flock-detector/tree/main/docs",
+   "title": "/tree/main/docs",
    "uniques": 2
   },
   {
@@ -57,21 +57,21 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-flock-detector/blob/main/docs/amazon-B0D45MSMJR.jpg",
-   "title": "/blob/main/docs/amazon-B0D45MSMJR.jpg",
+   "path": "/koua29/bruce-flock-detector/tree/main",
+   "title": "/tree/main",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 14,
-   "referrer": "github.com",
-   "uniques": 12
+   "count": 12,
+   "referrer": "Google",
+   "uniques": 11
   },
   {
    "count": 12,
-   "referrer": "Google",
+   "referrer": "github.com",
    "uniques": 11
   }
  ],
@@ -635,6 +635,12 @@
    "watchers": 0
   },
   "2026-11-18": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 22,
+   "watchers": 0
+  },
+  "2026-11-19": {
    "forks": 1,
    "open_issues": 0,
    "stars": 22,
@@ -1289,6 +1295,12 @@
    "clones": 3,
    "view_uniques": 3,
    "views": 11
+  },
+  "2026-11-18": {
+   "clone_uniques": 1,
+   "clones": 1,
+   "view_uniques": 3,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

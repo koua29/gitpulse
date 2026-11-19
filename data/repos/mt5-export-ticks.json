@@ -2,16 +2,16 @@
  "name": "mt5-export-ticks",
  "paths": [
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/mt5-export-ticks",
    "title": "Overview",
-   "uniques": 2
+   "uniques": 1
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/mt5-export-ticks/blob/main/ExportTicks.mq5",
    "title": "/blob/main/ExportTicks.mq5",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 2,
@@ -49,11 +49,6 @@
   {
    "count": 2,
    "referrer": "Google",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "referrer": "DuckDuckGo",
    "uniques": 1
   }
  ],
@@ -617,6 +612,12 @@
    "watchers": 0
   },
   "2026-11-18": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-11-19": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -1269,6 +1270,12 @@
   "2026-11-17": {
    "clone_uniques": 0,
    "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-18": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

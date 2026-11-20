@@ -1,5 +1,7 @@
 # 📊 GitPulse
 
+<p align="center">🇺🇸 <b>English</b> · 🇫🇷 <a href="README.fr.md">Français</a></p>
+
 **Self-hosted GitHub stats — because GitHub only keeps traffic for 14 days and has no account-wide dashboard.**
 
 A GitHub Action runs once a day, pulls views / unique visitors / clones / referrers / stars / forks / followers for **every public repo you own**, and **merges them into history files committed back to the repo** — so your data outlives the 14-day window. A static **GitHub Pages** dashboard charts it all.
@@ -117,17 +119,30 @@ GitPulse collects **public repos only** (`visibility=public`, plus a defensive f
   python collect.py
   ```
 
-## 📚 Recommended reading / À lire
+## 📚 Recommended reading
 
-Books on coding, Git & GitHub — Amazon affiliate links:
+*Amazon affiliate links: if you buy through these links, the project earns a small commission at no extra cost to you.*
 
-| [<img src="docs/img/amazon-1394159161.jpg" width="200" alt="GitHub For Dummies">](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29gitpulse-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-0135957052.jpg" width="200" alt="The Pragmatic Programmer">](https://www.amazon.com/dp/0135957052?linkCode=ll2&tag=koua29gitpulse-20&ref_=as_li_ss_tl) | [<img src="docs/img/amazon-B0F6S5425Y.jpg" width="200" alt="Beyond Vibe Coding">](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29gitpulse-20&ref_=as_li_ss_tl) |
-|:---:|:---:|:---:|
-| 🐙 **[GitHub For Dummies](https://www.amazon.com/dp/1394159161?linkCode=ll2&tag=koua29gitpulse-20&ref_=as_li_ss_tl)**<br><sub>Le contrôle de version et les pull requests, pas à pas</sub> | 📘 **[The Pragmatic Programmer](https://www.amazon.com/dp/0135957052?linkCode=ll2&tag=koua29gitpulse-20&ref_=as_li_ss_tl)**<br><sub>Le classique du métier, 20 ans après</sub> | ⚡ **[Beyond Vibe Coding](https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&tag=koua29gitpulse-20&ref_=as_li_ss_tl)**<br><sub>Du codeur au développeur de l'ère IA</sub> |
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.amazon.com/dp/1394159161?linkCode=ll2&amp;tag=koua29gitpulse-20&amp;ref_=as_li_ss_tl"><img src="docs/img/amazon-1394159161.jpg" width="200" alt="GitHub For Dummies"></a><br>
+  <b><a href="https://www.amazon.com/dp/1394159161?linkCode=ll2&amp;tag=koua29gitpulse-20&amp;ref_=as_li_ss_tl">GitHub For Dummies</a></b><br><sub>Version control and pull requests, step by step</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.amazon.com/dp/0135957052?linkCode=ll2&amp;tag=koua29gitpulse-20&amp;ref_=as_li_ss_tl"><img src="docs/img/amazon-0135957052.jpg" width="200" alt="The Pragmatic Programmer"></a><br>
+  <b><a href="https://www.amazon.com/dp/0135957052?linkCode=ll2&amp;tag=koua29gitpulse-20&amp;ref_=as_li_ss_tl">The Pragmatic Programmer</a></b><br><sub>The craft's classic, 20 years on</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&amp;tag=koua29gitpulse-20&amp;ref_=as_li_ss_tl"><img src="docs/img/amazon-B0F6S5425Y.jpg" width="200" alt="Beyond Vibe Coding"></a><br>
+  <b><a href="https://www.amazon.com/dp/B0F6S5425Y?linkCode=ll2&amp;tag=koua29gitpulse-20&amp;ref_=as_li_ss_tl">Beyond Vibe Coding</a></b><br><sub>From coder to AI-era developer</sub>
+</td>
+</tr>
+</table>
 
-<sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
+<sub>As an Amazon Associate I earn from qualifying purchases.</sub>
 
-## ☕ Support / Buy me a coffee
+## ☕ Support
 
 If GitPulse is useful to you, a coffee is always appreciated 🙏
 

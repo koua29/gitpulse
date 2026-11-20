@@ -6,23 +6,24 @@
    "path": "/koua29/bruce-lan-scanner",
    "title": "Overview",
    "uniques": 7
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-lan-scanner/issues",
+   "title": "/issues",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 5,
    "referrer": "github.com",
-   "uniques": 3
+   "uniques": 4
   },
   {
    "count": 1,
    "referrer": "Google",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "referrer": "aocr.org",
    "uniques": 1
   }
  ],
@@ -592,6 +593,12 @@
    "watchers": 0
   },
   "2026-11-19": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 8,
+   "watchers": 0
+  },
+  "2026-11-20": {
    "forks": 0,
    "open_issues": 0,
    "stars": 8,
@@ -1252,6 +1259,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-19": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/bruce-lan-scanner"

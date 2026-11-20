@@ -1,10 +1,10 @@
 {
  "user": "koua29",
- "generated": "2026-11-19T15:49:17Z",
+ "generated": "2026-11-20T15:31:20Z",
  "kpi": {
   "repos": 39,
-  "views14": 323,
-  "stars": 113,
+  "views14": 335,
+  "stars": 114,
   "forks": 3,
   "followers": 8
  },
@@ -771,6 +771,13 @@
    "view_uniques": 23,
    "clones": 41,
    "clone_uniques": 29
+  },
+  {
+   "date": "2026-11-19",
+   "views": 13,
+   "view_uniques": 12,
+   "clones": 31,
+   "clone_uniques": 21
   }
  ],
  "stars_series": [
@@ -1436,7 +1443,14 @@
    "date": "2026-11-19",
    "followers": 8,
    "public_repos": 39,
-   "total_stars": 113,
+   "total_forks": 3,
+   "total_stars": 113
+  },
+  {
+   "date": "2026-11-20",
+   "followers": 8,
+   "public_repos": 39,
+   "total_stars": 114,
    "total_forks": 3
   }
  ],
@@ -1452,9 +1466,9 @@
   {
    "name": "bruce-flock-detector",
    "private": false,
-   "stars": 22,
+   "stars": 23,
    "forks": 1,
-   "views14": 53,
+   "views14": 55,
    "url": "https://github.com/koua29/bruce-flock-detector"
   },
   {
@@ -1462,8 +1476,16 @@
    "private": false,
    "stars": 5,
    "forks": 0,
-   "views14": 28,
+   "views14": 29,
    "url": "https://github.com/koua29/bruce-fallout-theme"
+  },
+  {
+   "name": "bruce-sqli-tester",
+   "private": false,
+   "stars": 7,
+   "forks": 0,
+   "views14": 17,
+   "url": "https://github.com/koua29/bruce-sqli-tester"
   },
   {
    "name": "bruce-ble-finder",
@@ -1474,19 +1496,11 @@
    "url": "https://github.com/koua29/bruce-ble-finder"
   },
   {
-   "name": "bruce-sqli-tester",
-   "private": false,
-   "stars": 7,
-   "forks": 0,
-   "views14": 16,
-   "url": "https://github.com/koua29/bruce-sqli-tester"
-  },
-  {
    "name": "bruce-tv-b-gone",
    "private": false,
    "stars": 7,
    "forks": 0,
-   "views14": 15,
+   "views14": 16,
    "url": "https://github.com/koua29/bruce-tv-b-gone"
   },
   {
@@ -1496,6 +1510,14 @@
    "forks": 0,
    "views14": 13,
    "url": "https://github.com/koua29/bruce-hud-themes"
+  },
+  {
+   "name": "bruce-wheel-theme",
+   "private": false,
+   "stars": 6,
+   "forks": 0,
+   "views14": 12,
+   "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
    "name": "bruce-grille-theme",
@@ -1514,6 +1536,14 @@
    "url": "https://github.com/koua29/bruce-hacker-theme"
   },
   {
+   "name": "bruce-ssid-safari",
+   "private": false,
+   "stars": 6,
+   "forks": 0,
+   "views14": 10,
+   "url": "https://github.com/koua29/bruce-ssid-safari"
+  },
+  {
    "name": "mt5-export-ticks",
    "private": false,
    "stars": 0,
@@ -1522,28 +1552,20 @@
    "url": "https://github.com/koua29/mt5-export-ticks"
   },
   {
+   "name": "bruce-lan-scanner",
+   "private": false,
+   "stars": 8,
+   "forks": 0,
+   "views14": 9,
+   "url": "https://github.com/koua29/bruce-lan-scanner"
+  },
+  {
    "name": "bruce-nuclear-theme",
    "private": false,
    "stars": 3,
    "forks": 0,
    "views14": 9,
    "url": "https://github.com/koua29/bruce-nuclear-theme"
-  },
-  {
-   "name": "bruce-ssid-safari",
-   "private": false,
-   "stars": 6,
-   "forks": 0,
-   "views14": 9,
-   "url": "https://github.com/koua29/bruce-ssid-safari"
-  },
-  {
-   "name": "bruce-wheel-theme",
-   "private": false,
-   "stars": 6,
-   "forks": 0,
-   "views14": 8,
-   "url": "https://github.com/koua29/bruce-wheel-theme"
   },
   {
    "name": "wifi-auditor",
@@ -1560,14 +1582,6 @@
    "forks": 0,
    "views14": 7,
    "url": "https://github.com/koua29/bruce-breakout"
-  },
-  {
-   "name": "bruce-lan-scanner",
-   "private": false,
-   "stars": 8,
-   "forks": 0,
-   "views14": 7,
-   "url": "https://github.com/koua29/bruce-lan-scanner"
   },
   {
    "name": "bruce-launcher",
@@ -1757,13 +1771,13 @@
  "referrers": [
   {
    "referrer": "github.com",
-   "count": 108,
-   "uniques": 88
+   "count": 116,
+   "uniques": 96
   },
   {
    "referrer": "Google",
-   "count": 16,
-   "uniques": 14
+   "count": 15,
+   "uniques": 13
   },
   {
    "referrer": "Bing",
@@ -1772,13 +1786,8 @@
   },
   {
    "referrer": "bruce.computer",
-   "count": 4,
-   "uniques": 3
-  },
-  {
-   "referrer": "aocr.org",
-   "count": 3,
-   "uniques": 3
+   "count": 2,
+   "uniques": 2
   },
   {
    "referrer": "search.brave.com",

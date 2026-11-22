@@ -6,6 +6,12 @@
    "path": "/koua29/ollama-image-studio",
    "title": "Overview",
    "uniques": 3
+  },
+  {
+   "count": 2,
+   "path": "/koua29/ollama-image-studio/releases",
+   "title": "/releases",
+   "uniques": 2
   }
  ],
  "private": false,
@@ -599,6 +605,12 @@
    "watchers": 0
   },
   "2026-11-21": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-22": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -1271,6 +1283,12 @@
    "clones": 16,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-21": {
+   "clone_uniques": 10,
+   "clones": 16,
+   "view_uniques": 2,
+   "views": 2
   }
  },
  "url": "https://github.com/koua29/ollama-image-studio"

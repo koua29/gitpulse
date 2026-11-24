@@ -1,21 +1,8 @@
 {
  "name": "koua29",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/koua29",
-   "title": "Overview",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "search.brave.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-18": {
    "forks": 0,
@@ -600,6 +587,12 @@
    "watchers": 0
   },
   "2026-11-23": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-11-24": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -1270,6 +1263,12 @@
   "2026-11-22": {
    "clone_uniques": 15,
    "clones": 28,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-23": {
+   "clone_uniques": 3,
+   "clones": 5,
    "view_uniques": 0,
    "views": 0
   }

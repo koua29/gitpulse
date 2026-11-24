@@ -2,10 +2,10 @@
  "name": "ollama-image-studio",
  "paths": [
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/ollama-image-studio",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 2
   },
   {
    "count": 2,
@@ -617,6 +617,12 @@
    "watchers": 0
   },
   "2026-11-23": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-24": {
    "forks": 1,
    "open_issues": 0,
    "stars": 1,
@@ -1299,6 +1305,12 @@
   "2026-11-22": {
    "clone_uniques": 10,
    "clones": 20,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-23": {
+   "clone_uniques": 1,
+   "clones": 4,
    "view_uniques": 0,
    "views": 0
   }

@@ -2,16 +2,16 @@
  "name": "bruce-breakout",
  "paths": [
   {
-   "count": 5,
+   "count": 4,
    "path": "/koua29/bruce-breakout",
    "title": "Overview",
-   "uniques": 5
+   "uniques": 4
   },
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-breakout/blob/main/Breakout.js",
    "title": "/blob/main/Breakout.js",
-   "uniques": 2
+   "uniques": 1
   },
   {
    "count": 1,
@@ -624,6 +624,12 @@
    "watchers": 0
   },
   "2026-11-24": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-11-25": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -1312,6 +1318,12 @@
   "2026-11-23": {
    "clone_uniques": 1,
    "clones": 4,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-24": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

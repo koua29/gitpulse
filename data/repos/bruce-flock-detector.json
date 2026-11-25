@@ -2,10 +2,10 @@
  "name": "bruce-flock-detector",
  "paths": [
   {
-   "count": 33,
+   "count": 34,
    "path": "/koua29/bruce-flock-detector",
    "title": "Overview",
-   "uniques": 27
+   "uniques": 28
   },
   {
    "count": 12,
@@ -45,8 +45,14 @@
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-flock-detector/issues",
-   "title": "/issues",
+   "path": "/koua29/bruce-flock-detector/blob/main/docs/amazon-B0B7NVMBPL.jpg",
+   "title": "/blob/main/docs/amazon-B0B7NVMBPL.jpg",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-flock-detector/tree/main",
+   "title": "/tree/main",
    "uniques": 1
   }
  ],
@@ -659,6 +665,12 @@
    "watchers": 0
   },
   "2026-11-24": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 24,
+   "watchers": 0
+  },
+  "2026-11-25": {
    "forks": 1,
    "open_issues": 0,
    "stars": 24,
@@ -1349,6 +1361,12 @@
    "clones": 12,
    "view_uniques": 8,
    "views": 13
+  },
+  "2026-11-24": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-flock-detector"

@@ -2,20 +2,14 @@
  "name": "bruce-flipper-ordered",
  "paths": [
   {
-   "count": 3,
+   "count": 2,
    "path": "/koua29/bruce-flipper-ordered",
    "title": "Overview",
-   "uniques": 3
+   "uniques": 2
   }
  ],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -612,6 +606,12 @@
    "watchers": 0
   },
   "2026-11-24": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-11-25": {
    "forks": 1,
    "open_issues": 0,
    "stars": 2,
@@ -1300,6 +1300,12 @@
   "2026-11-23": {
    "clone_uniques": 2,
    "clones": 5,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-24": {
+   "clone_uniques": 1,
+   "clones": 1,
    "view_uniques": 0,
    "views": 0
   }

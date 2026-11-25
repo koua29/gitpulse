@@ -2,16 +2,16 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
+   "count": 7,
+   "path": "/koua29/bruce-hud-themes/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 7
+  },
+  {
    "count": 5,
    "path": "/koua29/bruce-hud-themes",
    "title": "Overview",
    "uniques": 5
-  },
-  {
-   "count": 4,
-   "path": "/koua29/bruce-hud-themes/blob/main/README.md",
-   "title": "/blob/main/README.md",
-   "uniques": 4
   },
   {
    "count": 1,
@@ -630,6 +630,12 @@
    "watchers": 0
   },
   "2026-11-24": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-11-25": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -1320,6 +1326,12 @@
    "clones": 0,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-24": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 3,
+   "views": 3
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

@@ -2,36 +2,48 @@
  "name": "bruce-hud-themes",
  "paths": [
   {
-   "count": 7,
-   "path": "/koua29/bruce-hud-themes/blob/main/README.md",
-   "title": "/blob/main/README.md",
+   "count": 9,
+   "path": "/koua29/bruce-hud-themes",
+   "title": "Overview",
    "uniques": 7
   },
   {
-   "count": 5,
-   "path": "/koua29/bruce-hud-themes",
-   "title": "Overview",
-   "uniques": 5
+   "count": 4,
+   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
+   "title": "/tree/main/White HUD",
+   "uniques": 2
+  },
+  {
+   "count": 3,
+   "path": "/koua29/bruce-hud-themes/blob/main/README.md",
+   "title": "/blob/main/README.md",
+   "uniques": 3
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-hud-themes/blob/main/docs/white.png",
+   "title": "/blob/main/docs/white.png",
+   "uniques": 2
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/blob/main/docs/white.png",
-   "title": "/blob/main/docs/white.png",
+   "path": "/koua29/bruce-hud-themes/tree/main",
+   "title": "/tree/main",
    "uniques": 1
   },
   {
    "count": 1,
-   "path": "/koua29/bruce-hud-themes/tree/main/White HUD",
-   "title": "/tree/main/White HUD",
+   "path": "/koua29/bruce-hud-themes/upload/main",
+   "title": "/upload/main",
    "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 4,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 4
+   "uniques": 6
   }
  ],
  "snapshots": {
@@ -636,6 +648,12 @@
    "watchers": 0
   },
   "2026-11-25": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 3,
+   "watchers": 0
+  },
+  "2026-11-26": {
    "forks": 0,
    "open_issues": 0,
    "stars": 3,
@@ -1332,6 +1350,12 @@
    "clones": 0,
    "view_uniques": 3,
    "views": 3
+  },
+  "2026-11-25": {
+   "clone_uniques": 4,
+   "clones": 4,
+   "view_uniques": 2,
+   "views": 10
   }
  },
  "url": "https://github.com/koua29/bruce-hud-themes"

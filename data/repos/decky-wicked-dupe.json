@@ -1,21 +1,8 @@
 {
  "name": "decky-wicked-dupe",
- "paths": [
-  {
-   "count": 2,
-   "path": "/koua29/decky-wicked-dupe",
-   "title": "Overview",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 2,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-11-09": {
    "forks": 0,
@@ -114,6 +101,12 @@
    "watchers": 0
   },
   "2026-11-25": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 0,
+   "watchers": 0
+  },
+  "2026-11-26": {
    "forks": 0,
    "open_issues": 0,
    "stars": 0,
@@ -298,6 +291,12 @@
   "2026-11-24": {
    "clone_uniques": 3,
    "clones": 3,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-25": {
+   "clone_uniques": 2,
+   "clones": 2,
    "view_uniques": 0,
    "views": 0
   }

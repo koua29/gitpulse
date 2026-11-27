@@ -2,18 +2,30 @@
  "name": "bruce-hacker-theme",
  "paths": [
   {
-   "count": 9,
+   "count": 11,
    "path": "/koua29/bruce-hacker-theme",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 11
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hacker-theme/blob/main/Hacker v2/BLE.gif",
+   "title": "/blob/main/Hacker v2/BLE.gif",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "path": "/koua29/bruce-hacker-theme/tree/main/Hacker v2",
+   "title": "/tree/main/Hacker v2",
+   "uniques": 1
   }
  ],
  "private": false,
  "referrers": [
   {
-   "count": 7,
+   "count": 9,
    "referrer": "github.com",
-   "uniques": 7
+   "uniques": 9
   }
  ],
  "snapshots": {
@@ -624,6 +636,12 @@
    "watchers": 0
   },
   "2026-11-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 2,
+   "watchers": 0
+  },
+  "2026-11-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 2,
@@ -1326,6 +1344,12 @@
    "clones": 3,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-11-26": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "view_uniques": 2,
+   "views": 4
   }
  },
  "url": "https://github.com/koua29/bruce-hacker-theme"

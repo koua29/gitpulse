@@ -2,10 +2,10 @@
  "name": "bruce-fallout-theme",
  "paths": [
   {
-   "count": 14,
+   "count": 12,
    "path": "/koua29/bruce-fallout-theme",
    "title": "Overview",
-   "uniques": 13
+   "uniques": 11
   },
   {
    "count": 5,
@@ -14,21 +14,9 @@
    "uniques": 3
   },
   {
-   "count": 4,
+   "count": 2,
    "path": "/koua29/bruce-fallout-theme/tree/main/Fallout_PipBoy",
    "title": "/tree/main/Fallout_PipBoy",
-   "uniques": 3
-  },
-  {
-   "count": 3,
-   "path": "/koua29/bruce-fallout-theme/tree/main",
-   "title": "/tree/main",
-   "uniques": 1
-  },
-  {
-   "count": 2,
-   "path": "/koua29/bruce-fallout-theme/commit/8218ecd2e0020b15ba1d14a2a8f0c1bb37543615",
-   "title": "/commit/8218ecd2e0020b15ba1d14a2a8f0c1bb37543615",
    "uniques": 2
   },
   {
@@ -57,6 +45,12 @@
   },
   {
    "count": 1,
+   "path": "/koua29/bruce-fallout-theme/commit/8218ecd2e0020b15ba1d14a2a8f0c1bb37543615",
+   "title": "/commit/8218ecd2e0020b15ba1d14a2a8f0c1bb37543615",
+   "uniques": 1
+  },
+  {
+   "count": 1,
    "path": "/koua29/bruce-fallout-theme/issues",
    "title": "/issues",
    "uniques": 1
@@ -65,9 +59,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 9,
+   "count": 7,
    "referrer": "github.com",
-   "uniques": 9
+   "uniques": 7
   },
   {
    "count": 2,
@@ -640,6 +634,12 @@
    "watchers": 0
   },
   "2026-11-26": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 5,
+   "watchers": 0
+  },
+  "2026-11-27": {
    "forks": 0,
    "open_issues": 0,
    "stars": 5,
@@ -1288,6 +1288,12 @@
    "clones": 2,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-11-26": {
+   "clone_uniques": 3,
+   "clones": 3,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/bruce-fallout-theme"

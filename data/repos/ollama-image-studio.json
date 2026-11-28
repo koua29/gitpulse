@@ -645,6 +645,12 @@
    "open_issues": 0,
    "stars": 1,
    "watchers": 0
+  },
+  "2026-11-28": {
+   "forks": 1,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
   }
  },
  "traffic": {
@@ -1349,6 +1355,12 @@
    "clones": 0,
    "view_uniques": 2,
    "views": 2
+  },
+  "2026-11-27": {
+   "clone_uniques": 1,
+   "clones": 2,
+   "view_uniques": 0,
+   "views": 0
   }
  },
  "url": "https://github.com/koua29/ollama-image-studio"

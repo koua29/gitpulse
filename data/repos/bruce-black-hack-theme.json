@@ -2,7 +2,7 @@
  "name": "bruce-black-hack-theme",
  "paths": [
   {
-   "count": 19,
+   "count": 21,
    "path": "/koua29/bruce-black-hack-theme",
    "title": "Overview",
    "uniques": 13
@@ -21,9 +21,21 @@
   },
   {
    "count": 3,
+   "path": "/koua29/bruce-black-hack-theme/tree/main",
+   "title": "/tree/main",
+   "uniques": 2
+  },
+  {
+   "count": 3,
    "path": "/koua29/bruce-black-hack-theme/blob/main/README.fr.md",
    "title": "/blob/main/README.fr.md",
    "uniques": 1
+  },
+  {
+   "count": 2,
+   "path": "/koua29/bruce-black-hack-theme/commit/2e7df9f484299e2c742fc85595159199e9d7adc9",
+   "title": "/commit/2e7df9f484299e2c742fc85595159199e9d7adc9",
+   "uniques": 2
   },
   {
    "count": 2,
@@ -39,26 +51,14 @@
   },
   {
    "count": 2,
-   "path": "/koua29/bruce-black-hack-theme/tree/main",
-   "title": "/tree/main",
+   "path": "/koua29/bruce-black-hack-theme/tree/2e7df9f484299e2c742fc85595159199e9d7adc9/Black_Hack",
+   "title": "/tree/2e7df9f484299e2c742fc85595159199e9d7adc9/Black_Hack",
    "uniques": 1
   },
   {
    "count": 2,
    "path": "/koua29/bruce-black-hack-theme/upload/main",
    "title": "/upload/main",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/Black_Hack/105px/Ble.png",
-   "title": "/blob/main/Black_Hack/105px/Ble.png",
-   "uniques": 1
-  },
-  {
-   "count": 1,
-   "path": "/koua29/bruce-black-hack-theme/blob/main/Black_Hack/105px/Clock.png",
-   "title": "/blob/main/Black_Hack/105px/Clock.png",
    "uniques": 1
   }
  ],
@@ -68,6 +68,16 @@
    "count": 12,
    "referrer": "github.com",
    "uniques": 10
+  },
+  {
+   "count": 1,
+   "referrer": "Bing",
+   "uniques": 1
+  },
+  {
+   "count": 1,
+   "referrer": "search.brave.com",
+   "uniques": 1
   }
  ],
  "snapshots": {
@@ -570,6 +580,12 @@
    "watchers": 0
   },
   "2026-11-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 6,
+   "watchers": 0
+  },
+  "2026-11-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 6,
@@ -1158,6 +1174,12 @@
    "clones": 4,
    "view_uniques": 0,
    "views": 0
+  },
+  "2026-11-27": {
+   "clone_uniques": 2,
+   "clones": 2,
+   "view_uniques": 2,
+   "views": 9
   }
  },
  "url": "https://github.com/koua29/bruce-black-hack-theme"

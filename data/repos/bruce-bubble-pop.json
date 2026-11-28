@@ -1,21 +1,8 @@
 {
  "name": "bruce-bubble-pop",
- "paths": [
-  {
-   "count": 1,
-   "path": "/koua29/bruce-bubble-pop",
-   "title": "Overview",
-   "uniques": 1
-  }
- ],
+ "paths": [],
  "private": false,
- "referrers": [
-  {
-   "count": 1,
-   "referrer": "github.com",
-   "uniques": 1
-  }
- ],
+ "referrers": [],
  "snapshots": {
   "2026-08-17": {
    "forks": 0,
@@ -630,6 +617,12 @@
    "watchers": 0
   },
   "2026-11-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 1,
+   "watchers": 0
+  },
+  "2026-11-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 1,
@@ -1334,6 +1327,12 @@
    "views": 0
   },
   "2026-11-26": {
+   "clone_uniques": 0,
+   "clones": 0,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-27": {
    "clone_uniques": 0,
    "clones": 0,
    "view_uniques": 0,

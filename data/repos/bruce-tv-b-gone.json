@@ -2,10 +2,10 @@
  "name": "bruce-tv-b-gone",
  "paths": [
   {
-   "count": 10,
+   "count": 9,
    "path": "/koua29/bruce-tv-b-gone",
    "title": "Overview",
-   "uniques": 9
+   "uniques": 8
   },
   {
    "count": 4,
@@ -41,9 +41,9 @@
  "private": false,
  "referrers": [
   {
-   "count": 7,
+   "count": 6,
    "referrer": "github.com",
-   "uniques": 6
+   "uniques": 5
   },
   {
    "count": 3,
@@ -670,6 +670,12 @@
    "watchers": 0
   },
   "2026-11-27": {
+   "forks": 0,
+   "open_issues": 0,
+   "stars": 7,
+   "watchers": 0
+  },
+  "2026-11-28": {
    "forks": 0,
    "open_issues": 0,
    "stars": 7,
@@ -1376,6 +1382,12 @@
   "2026-11-26": {
    "clone_uniques": 2,
    "clones": 2,
+   "view_uniques": 0,
+   "views": 0
+  },
+  "2026-11-27": {
+   "clone_uniques": 0,
+   "clones": 0,
    "view_uniques": 0,
    "views": 0
   }
